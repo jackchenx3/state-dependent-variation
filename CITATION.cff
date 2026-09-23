@@ -11,6 +11,7 @@ repository-code: "https://github.com/jackchenx3/state-dependent-variation"
 license: MIT
 preferred-citation:
   type: unpublished
+  doi: "10.5281/zenodo.22907602"
   title: "Population state changes the transfer value of organized variation in a finite-population model"
   authors:
     - family-names: Chen

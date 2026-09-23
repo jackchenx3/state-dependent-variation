@@ -17,4 +17,8 @@ python scripts/verify_release.py
 
 The package contains complete statistical grids, block/history aggregates, original bootstrap rows or exact archived-seed replays, archived code and source provenance. These commands do not execute population dynamics. Large raw trajectories and random tapes are excluded; full raw-trajectory replay is not claimed. See [data availability](docs/DATA_AVAILABILITY.md) and [AI assistance](docs/AI_ASSISTANCE.md).
 
-Manuscript/figures/data: CC BY 4.0. Original code: MIT. This work has not undergone external peer review. A Zenodo DOI will be added after publication.
+Manuscript/figures/data: CC BY 4.0. Original code: MIT. This work has not undergone external peer review. Published on [Zenodo](https://zenodo.org/records/22907602), DOI [10.5281/zenodo.22907602](https://doi.org/10.5281/zenodo.22907602).
+
+## Related preprints
+
+[Companion model study](https://github.com/jackchenx3/memory-and-fresh-search) · [Private-memory strategy transmission](https://doi.org/10.5281/zenodo.22907237). These papers use distinct evidence scopes and do not serve as independent replications of one another.
