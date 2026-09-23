@@ -1,0 +1,11 @@
+{
+  "freeze_unix": 1789993631.1662247,
+  "decisions_sha256": "7a7c919661eb54a36e405e05ef86094a2b3e57812b006ace3ab9a6c71ae509b0",
+  "checkpoints_sha256": "ee4be57414d5b7f9e2950f419f1a893a7bcd3af7331b7a8c0edd02cf23d03875",
+  "source_manifest_sha256": "2d837541b69619cb72f2a3b8885a5e5c63beaf1255acc5696761ebe4af049a5c",
+  "histories_sha256": "8595a2a2c5a525929147c93f5e63cc3d15e027e61c1b915eca3b008bafbc57df",
+  "roster_sha256": "0844ec915068eecb049c5f0c3edc8bd125167c1ecba66bec2b68af32466ddace",
+  "checkpoint_count": 6144,
+  "policy_choices": 18432,
+  "generation_6_and_later_outcomes_started": false
+}

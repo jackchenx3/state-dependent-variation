@@ -1,0 +1,15 @@
+{
+  "training_runs": 0,
+  "policy_refits": 0,
+  "policy_reselections": 0,
+  "pairs": 768,
+  "checkpoints": 1536,
+  "evaluation_replicates_per_pair": 24,
+  "branches_per_replicate": 4,
+  "generations_per_branch": 20,
+  "population_generation_updates": 1474560,
+  "new_offspring": 47185920,
+  "selection_candidate_scores": 94371840,
+  "measurement_loss_calculations": 47185920,
+  "notes": "All rollouts are evaluator-only diagnostic costs, unavailable to the frozen operating policies. Same draws couple all four branches within each independent replicate."
+}

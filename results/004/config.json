@@ -1,0 +1,51 @@
+{
+  "task_id": "ORG-POLICY-004",
+  "revision": 1,
+  "master_seed": 2026092106,
+  "analysis_seed": 2026092107,
+  "bootstrap_replicates": 2000,
+  "switch_generation": 5,
+  "endpoint": 25,
+  "usefulness_target": 0.02,
+  "tie_tolerance": 1e-12,
+  "transfer": {
+    "experiment": "ORG-POLICY-004",
+    "seed": 2026092106,
+    "histories_per_regime": 24,
+    "population": 32,
+    "training_generations": 120,
+    "environment_period": 5,
+    "orientation_sd": 0.12,
+    "major_sd": 0.12,
+    "minor_sd": 0.02,
+    "test_generations": 25,
+    "tasks_per_family": 8,
+    "mismatch_degrees": [
+      0,
+      15,
+      30,
+      45,
+      60,
+      75,
+      90
+    ],
+    "bootstrap_replicates": 2000,
+    "selection_coefficient": 10.0,
+    "selection_rule": "sequential_weighted_sampling_without_replacement",
+    "metric_angle_degrees": 30.0,
+    "metric_eigenvalues": [
+      4.0,
+      1.0
+    ],
+    "metric_matrix": [
+      [
+        3.25,
+        1.299038105676658
+      ],
+      [
+        1.299038105676658,
+        1.75
+      ]
+    ]
+  }
+}

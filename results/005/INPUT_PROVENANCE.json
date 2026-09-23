@@ -1,0 +1,21 @@
+{
+  "prepared_at_utc": "2026-09-21T12:51:31.378655+00:00",
+  "source_package": "PRIVATE_WORKSPACE/you-are-responsible-for-implementing-the/outputs/mismatch_state_policy_v1",
+  "source_hpc_package": "PRIVATE_HPC/organized-variation-transfer/experiments/mismatch_state_policy_v1",
+  "source_files": {
+    "DELIVERY_SHA256SUMS": "fe3c454672d668234c7516fd0c3a8a38c79250bd14c5a9b42bccfef5f1f5c0e8",
+    "checkpoints.jsonl.gz": "ee4be57414d5b7f9e2950f419f1a893a7bcd3af7331b7a8c0edd02cf23d03875",
+    "decisions.jsonl.gz": "7a7c919661eb54a36e405e05ef86094a2b3e57812b006ace3ab9a6c71ae509b0",
+    "histories.json": "8595a2a2c5a525929147c93f5e63cc3d15e027e61c1b915eca3b008bafbc57df",
+    "config.json": "51f3db89621f03cfadf1d4cd919494a20ca4f97f8a55a0a1a3fe63f477a16056"
+  },
+  "selected_pairs": 768,
+  "checkpoint_populations": 1536,
+  "selection": "Original trial/task IDs 0 and 1; all regimes, histories, families and both early states; no outcome filter.",
+  "frozen_inputs": {
+    "INPUT_CHECKPOINTS.jsonl.gz": "e8299809e7516fdee4a678ce0e825cd4f75c59472a1b0bb7d689e832246d4769",
+    "SUBSET_ROSTER.json": "13ceaddb3aed102db2b18bf31c3a14505c05e858f7bb406f97f6c5a57d61959b",
+    "EVALUATION_SEEDS.jsonl.gz": "4e084204e98f60f2d5ab2f78fa0dec4677014b194df38d42bd6276f01a6d9da8",
+    "BOOTSTRAP_INDICES.json": "d1d1789987aea75ddef3b2afe738b100bca834ebfe329b1393b8ff5dc2d61393"
+  }
+}

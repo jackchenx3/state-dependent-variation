@@ -1,0 +1,330 @@
+{
+  "status": "POST_HOC_DESCRIPTIVE_ONLY",
+  "endpoint_unchanged": 25,
+  "new_simulation": false,
+  "denominator_per_regime": 168,
+  "independent_history_units_per_regime": 24,
+  "notes": "Frozen predictions compared with every retained horizon. Angles and horizons are dependent. No confidence bands, optimal horizon selection, or confirmatory claim.",
+  "timecourse": [
+    {
+      "generation": 1,
+      "structured": {
+        "predictor": 128,
+        "geometry_predictor": 165
+      },
+      "isotropic": {
+        "predictor": 134,
+        "geometry_predictor": 162
+      }
+    },
+    {
+      "generation": 2,
+      "structured": {
+        "predictor": 130,
+        "geometry_predictor": 167
+      },
+      "isotropic": {
+        "predictor": 136,
+        "geometry_predictor": 164
+      }
+    },
+    {
+      "generation": 3,
+      "structured": {
+        "predictor": 133,
+        "geometry_predictor": 166
+      },
+      "isotropic": {
+        "predictor": 139,
+        "geometry_predictor": 165
+      }
+    },
+    {
+      "generation": 4,
+      "structured": {
+        "predictor": 133,
+        "geometry_predictor": 166
+      },
+      "isotropic": {
+        "predictor": 140,
+        "geometry_predictor": 166
+      }
+    },
+    {
+      "generation": 5,
+      "structured": {
+        "predictor": 134,
+        "geometry_predictor": 165
+      },
+      "isotropic": {
+        "predictor": 141,
+        "geometry_predictor": 165
+      }
+    },
+    {
+      "generation": 6,
+      "structured": {
+        "predictor": 138,
+        "geometry_predictor": 161
+      },
+      "isotropic": {
+        "predictor": 142,
+        "geometry_predictor": 164
+      }
+    },
+    {
+      "generation": 7,
+      "structured": {
+        "predictor": 139,
+        "geometry_predictor": 160
+      },
+      "isotropic": {
+        "predictor": 143,
+        "geometry_predictor": 163
+      }
+    },
+    {
+      "generation": 8,
+      "structured": {
+        "predictor": 140,
+        "geometry_predictor": 159
+      },
+      "isotropic": {
+        "predictor": 144,
+        "geometry_predictor": 162
+      }
+    },
+    {
+      "generation": 9,
+      "structured": {
+        "predictor": 143,
+        "geometry_predictor": 156
+      },
+      "isotropic": {
+        "predictor": 144,
+        "geometry_predictor": 162
+      }
+    },
+    {
+      "generation": 10,
+      "structured": {
+        "predictor": 145,
+        "geometry_predictor": 154
+      },
+      "isotropic": {
+        "predictor": 144,
+        "geometry_predictor": 162
+      }
+    },
+    {
+      "generation": 11,
+      "structured": {
+        "predictor": 148,
+        "geometry_predictor": 151
+      },
+      "isotropic": {
+        "predictor": 149,
+        "geometry_predictor": 157
+      }
+    },
+    {
+      "generation": 12,
+      "structured": {
+        "predictor": 148,
+        "geometry_predictor": 151
+      },
+      "isotropic": {
+        "predictor": 149,
+        "geometry_predictor": 157
+      }
+    },
+    {
+      "generation": 13,
+      "structured": {
+        "predictor": 149,
+        "geometry_predictor": 150
+      },
+      "isotropic": {
+        "predictor": 153,
+        "geometry_predictor": 153
+      }
+    },
+    {
+      "generation": 14,
+      "structured": {
+        "predictor": 151,
+        "geometry_predictor": 148
+      },
+      "isotropic": {
+        "predictor": 154,
+        "geometry_predictor": 152
+      }
+    },
+    {
+      "generation": 15,
+      "structured": {
+        "predictor": 152,
+        "geometry_predictor": 147
+      },
+      "isotropic": {
+        "predictor": 155,
+        "geometry_predictor": 151
+      }
+    },
+    {
+      "generation": 16,
+      "structured": {
+        "predictor": 153,
+        "geometry_predictor": 146
+      },
+      "isotropic": {
+        "predictor": 157,
+        "geometry_predictor": 151
+      }
+    },
+    {
+      "generation": 17,
+      "structured": {
+        "predictor": 153,
+        "geometry_predictor": 146
+      },
+      "isotropic": {
+        "predictor": 158,
+        "geometry_predictor": 148
+      }
+    },
+    {
+      "generation": 18,
+      "structured": {
+        "predictor": 153,
+        "geometry_predictor": 146
+      },
+      "isotropic": {
+        "predictor": 158,
+        "geometry_predictor": 148
+      }
+    },
+    {
+      "generation": 19,
+      "structured": {
+        "predictor": 154,
+        "geometry_predictor": 145
+      },
+      "isotropic": {
+        "predictor": 158,
+        "geometry_predictor": 148
+      }
+    },
+    {
+      "generation": 20,
+      "structured": {
+        "predictor": 154,
+        "geometry_predictor": 145
+      },
+      "isotropic": {
+        "predictor": 158,
+        "geometry_predictor": 148
+      }
+    },
+    {
+      "generation": 21,
+      "structured": {
+        "predictor": 154,
+        "geometry_predictor": 145
+      },
+      "isotropic": {
+        "predictor": 160,
+        "geometry_predictor": 146
+      }
+    },
+    {
+      "generation": 22,
+      "structured": {
+        "predictor": 155,
+        "geometry_predictor": 144
+      },
+      "isotropic": {
+        "predictor": 160,
+        "geometry_predictor": 146
+      }
+    },
+    {
+      "generation": 23,
+      "structured": {
+        "predictor": 155,
+        "geometry_predictor": 144
+      },
+      "isotropic": {
+        "predictor": 159,
+        "geometry_predictor": 147
+      }
+    },
+    {
+      "generation": 24,
+      "structured": {
+        "predictor": 155,
+        "geometry_predictor": 144
+      },
+      "isotropic": {
+        "predictor": 162,
+        "geometry_predictor": 144
+      }
+    },
+    {
+      "generation": 25,
+      "structured": {
+        "predictor": 155,
+        "geometry_predictor": 144
+      },
+      "isotropic": {
+        "predictor": 162,
+        "geometry_predictor": 144
+      }
+    }
+  ],
+  "illustrative_case": {
+    "regime": "structured",
+    "history": 0,
+    "family": "75",
+    "selection": "Illustrative failure already highlighted in the supplied report; not representative sampling.",
+    "local_weight_ratio": 2.230954255406685,
+    "geometry_prediction": 0.802429411164292,
+    "trial_final_deltas": [
+      -0.11361548913325237,
+      -0.11971377114029069,
+      -0.13808545939706518,
+      -0.16386717103655357,
+      -0.15497719065172144,
+      -0.153053188189179,
+      -0.14315860557299176,
+      -0.19581939423199057
+    ],
+    "mean_delta_by_generation": [
+      0.025172817663379324,
+      0.07365447107830801,
+      0.1154023760427032,
+      0.11925394998021702,
+      0.13277833908822376,
+      0.1134352378776277,
+      0.07956872871882265,
+      0.04109628150153925,
+      0.006465499598950944,
+      -0.026809643183861254,
+      -0.05459305036035503,
+      -0.07664674166558144,
+      -0.0928248143875153,
+      -0.11056114386748862,
+      -0.12132488833299616,
+      -0.1317164139905662,
+      -0.13903164210118385,
+      -0.14347888800231157,
+      -0.14553162409599463,
+      -0.14683653391566334,
+      -0.14459149252061865,
+      -0.1448180008296832,
+      -0.14108417222665587,
+      -0.14644321010379668,
+      -0.14778628366913057
+    ]
+  }
+}

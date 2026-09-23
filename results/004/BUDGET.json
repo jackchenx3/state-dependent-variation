@@ -1,0 +1,23 @@
+{
+  "per_policy_new_offspring": 800,
+  "per_policy_selection_candidate_scores": 1600,
+  "per_checkpoint_policy_component_evaluations": {
+    "M": 4,
+    "G": 4,
+    "E": 128
+  },
+  "extra_policy_fitness_probes": 0,
+  "evaluator_new_offspring_per_pair": 2880,
+  "evaluator_selection_candidate_scores_per_pair": 5760,
+  "reporting_measurement_loss_calculations_per_pair": 2880,
+  "notes": "Known quadratic-model arithmetic is privileged analytic work, not black-box probes. Extra evaluator branches are not policy observations. HALF is an expectation, not a mixed population.",
+  "decision_runtime_seconds": 9.341352655581431,
+  "total_component_evaluations": {
+    "M": 24576,
+    "G": 24576,
+    "E": 786432
+  },
+  "total_policy_choices": 18432,
+  "evaluator_pairs": 3072,
+  "training_seconds": 0.6685731410980225
+}

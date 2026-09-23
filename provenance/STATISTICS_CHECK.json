@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "studies": [
+    {
+      "study": "V1",
+      "mean_interval_pairs": 16,
+      "maximum_absolute_discrepancy": 5.551115123125783e-17
+    },
+    {
+      "study": "V2",
+      "mean_interval_pairs": 16,
+      "maximum_absolute_discrepancy": 1.1102230246251565e-16
+    },
+    {
+      "study": "V3",
+      "mean_interval_pairs": 16,
+      "maximum_absolute_discrepancy": 5.551115123125783e-17
+    },
+    {
+      "study": "002",
+      "mean_interval_pairs": 192,
+      "maximum_absolute_discrepancy": 4.440892098500626e-16
+    },
+    {
+      "study": "003",
+      "mean_interval_pairs": 464,
+      "maximum_absolute_discrepancy": 5.551115123125783e-16
+    },
+    {
+      "study": "004",
+      "mean_interval_pairs": 2538,
+      "maximum_absolute_discrepancy": 6.661338147750939e-16
+    },
+    {
+      "study": "005",
+      "mean_interval_pairs": 4698,
+      "maximum_absolute_discrepancy": 4.440892098500626e-16
+    }
+  ],
+  "total_mean_interval_pairs": 7940,
+  "maximum_absolute_discrepancy": 6.661338147750939e-16,
+  "new_population_paths": 0,
+  "new_random_draws": 0,
+  "scope": "Recomputation from included history/block aggregates and bootstrap rows. Original early bootstrap seeds were replayed during packaging and saved as rows. Does not reconstruct omitted raw trajectories or imply independent model validation."
+}

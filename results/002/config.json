@@ -1,0 +1,53 @@
+{
+  "task_id": "ORG-MECH-002",
+  "revision": 1,
+  "switch_generation": 5,
+  "endpoint": 25,
+  "analysis_seed": 2026092104,
+  "bootstrap_replicates": 2000,
+  "v3_result_sha256": "160abba6898a61b5fc86673b24570bc615b19d491bd7677555a32887c5789d96",
+  "transfer": {
+    "experiment": "ORG02-anisotropic-transfer-v3",
+    "seed": 2026092103,
+    "histories_per_regime": 24,
+    "population": 32,
+    "training_generations": 120,
+    "environment_period": 5,
+    "orientation_sd": 0.12,
+    "major_sd": 0.12,
+    "minor_sd": 0.02,
+    "test_generations": 25,
+    "tasks_per_family": 8,
+    "mismatch_degrees": [
+      0,
+      15,
+      30,
+      45,
+      60,
+      75,
+      90
+    ],
+    "bootstrap_replicates": 2000,
+    "max_result_bytes": 8388608,
+    "max_attempts": 1,
+    "selection_coefficient": 10.0,
+    "selection_rule": "sequential_weighted_sampling_without_replacement",
+    "baseline_result_sha256": "b595f14237a8375ffc9b942f1fbfe4ee71a8a4020214380b7863bc93a171cd0c",
+    "metric_angle_degrees": 30.0,
+    "metric_eigenvalues": [
+      4.0,
+      1.0
+    ],
+    "metric_matrix": [
+      [
+        3.25,
+        1.299038105676658
+      ],
+      [
+        1.299038105676658,
+        1.75
+      ]
+    ],
+    "geometry_predictor": "log_E_exp_negative_beta_loss_organized_minus_rotated_at_zero"
+  }
+}

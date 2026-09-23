@@ -1,0 +1,290 @@
+[
+  {
+    "regime": "structured",
+    "history": 0,
+    "angle": 3.1334511377510763,
+    "training_seed": 10745921388707670292
+  },
+  {
+    "regime": "structured",
+    "history": 1,
+    "angle": 0.36005923896915615,
+    "training_seed": 11988893434564573778
+  },
+  {
+    "regime": "structured",
+    "history": 2,
+    "angle": 2.6681476959226984,
+    "training_seed": 10302190104089325959
+  },
+  {
+    "regime": "structured",
+    "history": 3,
+    "angle": 0.08394743511978676,
+    "training_seed": 11915321435715903208
+  },
+  {
+    "regime": "structured",
+    "history": 4,
+    "angle": 2.8571691449306114,
+    "training_seed": 6885242431896994952
+  },
+  {
+    "regime": "structured",
+    "history": 5,
+    "angle": 2.712749673435358,
+    "training_seed": 6778309027761898526
+  },
+  {
+    "regime": "structured",
+    "history": 6,
+    "angle": 3.0129191782153533,
+    "training_seed": 15759805043106976309
+  },
+  {
+    "regime": "structured",
+    "history": 7,
+    "angle": 2.661936460078477,
+    "training_seed": 9644074403381148586
+  },
+  {
+    "regime": "structured",
+    "history": 8,
+    "angle": 0.0026677052851438177,
+    "training_seed": 10830944208244739117
+  },
+  {
+    "regime": "structured",
+    "history": 9,
+    "angle": 0.19021135327562852,
+    "training_seed": 8746101086604964614
+  },
+  {
+    "regime": "structured",
+    "history": 10,
+    "angle": 0.16696430540616805,
+    "training_seed": 9004130188770050941
+  },
+  {
+    "regime": "structured",
+    "history": 11,
+    "angle": 0.32790741552934166,
+    "training_seed": 6634085781849336648
+  },
+  {
+    "regime": "structured",
+    "history": 12,
+    "angle": 0.29871615980732996,
+    "training_seed": 12494539889494238810
+  },
+  {
+    "regime": "structured",
+    "history": 13,
+    "angle": 2.9885705250106493,
+    "training_seed": 13987475129991559598
+  },
+  {
+    "regime": "structured",
+    "history": 14,
+    "angle": 0.10143177081226167,
+    "training_seed": 5994857450783384225
+  },
+  {
+    "regime": "structured",
+    "history": 15,
+    "angle": 2.662922310766463,
+    "training_seed": 11852891957448800143
+  },
+  {
+    "regime": "structured",
+    "history": 16,
+    "angle": 2.6149199996872774,
+    "training_seed": 15798847330938617142
+  },
+  {
+    "regime": "structured",
+    "history": 17,
+    "angle": 3.1205528833619436,
+    "training_seed": 423613844085653470
+  },
+  {
+    "regime": "structured",
+    "history": 18,
+    "angle": 0.012949849165671878,
+    "training_seed": 10278790219550525874
+  },
+  {
+    "regime": "structured",
+    "history": 19,
+    "angle": 0.4699915754252637,
+    "training_seed": 11952924283800972358
+  },
+  {
+    "regime": "structured",
+    "history": 20,
+    "angle": 0.26150667080329426,
+    "training_seed": 12981362127269781167
+  },
+  {
+    "regime": "structured",
+    "history": 21,
+    "angle": 0.08936703371725428,
+    "training_seed": 16931004997575616394
+  },
+  {
+    "regime": "structured",
+    "history": 22,
+    "angle": 0.39770189641054937,
+    "training_seed": 17113684086790439405
+  },
+  {
+    "regime": "structured",
+    "history": 23,
+    "angle": 0.2997759481244091,
+    "training_seed": 17324389252152402067
+  },
+  {
+    "regime": "isotropic",
+    "history": 0,
+    "angle": 2.8042507868355,
+    "training_seed": 6180588025224409438
+  },
+  {
+    "regime": "isotropic",
+    "history": 1,
+    "angle": 2.0398630394627526,
+    "training_seed": 209202305956336845
+  },
+  {
+    "regime": "isotropic",
+    "history": 2,
+    "angle": 2.503005241337691,
+    "training_seed": 10217811886608608588
+  },
+  {
+    "regime": "isotropic",
+    "history": 3,
+    "angle": 0.2203486010269613,
+    "training_seed": 1450002379910304691
+  },
+  {
+    "regime": "isotropic",
+    "history": 4,
+    "angle": 0.885035565513677,
+    "training_seed": 2358539274421291616
+  },
+  {
+    "regime": "isotropic",
+    "history": 5,
+    "angle": 1.628863138273622,
+    "training_seed": 4026210607643595157
+  },
+  {
+    "regime": "isotropic",
+    "history": 6,
+    "angle": 1.2275611381551659,
+    "training_seed": 2459699223802870077
+  },
+  {
+    "regime": "isotropic",
+    "history": 7,
+    "angle": 0.4004519737943071,
+    "training_seed": 11356051444099363555
+  },
+  {
+    "regime": "isotropic",
+    "history": 8,
+    "angle": 0.4416374684236864,
+    "training_seed": 9733882793602957012
+  },
+  {
+    "regime": "isotropic",
+    "history": 9,
+    "angle": 2.706134430542165,
+    "training_seed": 4701808925558382039
+  },
+  {
+    "regime": "isotropic",
+    "history": 10,
+    "angle": 3.000184082988522,
+    "training_seed": 13766944416637913687
+  },
+  {
+    "regime": "isotropic",
+    "history": 11,
+    "angle": 0.4241566954521662,
+    "training_seed": 12985257169701939069
+  },
+  {
+    "regime": "isotropic",
+    "history": 12,
+    "angle": 0.04033831458323017,
+    "training_seed": 8739236165134669337
+  },
+  {
+    "regime": "isotropic",
+    "history": 13,
+    "angle": 0.935103653230895,
+    "training_seed": 18203024035137550452
+  },
+  {
+    "regime": "isotropic",
+    "history": 14,
+    "angle": 3.1312739521842015,
+    "training_seed": 10858884436974296515
+  },
+  {
+    "regime": "isotropic",
+    "history": 15,
+    "angle": 1.6751558200129206,
+    "training_seed": 8834044753445808470
+  },
+  {
+    "regime": "isotropic",
+    "history": 16,
+    "angle": 2.970186209346032,
+    "training_seed": 10452868160182229353
+  },
+  {
+    "regime": "isotropic",
+    "history": 17,
+    "angle": 3.1320328313440062,
+    "training_seed": 9495456804669152517
+  },
+  {
+    "regime": "isotropic",
+    "history": 18,
+    "angle": 0.6917124417611441,
+    "training_seed": 17179677550466033312
+  },
+  {
+    "regime": "isotropic",
+    "history": 19,
+    "angle": 0.2420311304221841,
+    "training_seed": 4353527963839176507
+  },
+  {
+    "regime": "isotropic",
+    "history": 20,
+    "angle": 1.8724997246613655,
+    "training_seed": 14231184905217640245
+  },
+  {
+    "regime": "isotropic",
+    "history": 21,
+    "angle": 0.2942525577879411,
+    "training_seed": 6319712596305990054
+  },
+  {
+    "regime": "isotropic",
+    "history": 22,
+    "angle": 1.067165884246894,
+    "training_seed": 2654102544409848615
+  },
+  {
+    "regime": "isotropic",
+    "history": 23,
+    "angle": 1.6877891150282487,
+    "training_seed": 15521718970465376771
+  }
+]

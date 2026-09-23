@@ -1,0 +1,31 @@
+{
+  "title": "Population state changes the transfer value of organized variation in a finite-population model",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Chen, Jack",
+      "affiliation": "Frederick Sequencing and Genomics Core; Advanced Biomedical Computational Science (ABCS); Frederick National Lab for Cancer Research; National Institutes of Health"
+    }
+  ],
+  "description": "Historically acquired variation biases can facilitate adaptation, but their value may change as a population moves through a new environment. We studied a two-dimensional model comparing an inherited variation orientation with a quarter-turned control of identical covariance eigenvalues. Transfer comparisons showed conditional benefits and relative harms across target directions. An exact starting-state expectation of offspring weight predicted early population rankings well but underperformed a simpler directional predictor at generation 25. Crossed interventions then showed that the later rule effect depends on both the generation-5 centroid and the complete centered population configuration. On 48 freshly trained histories, fixed prospective choices using the empirical population improved generation-25 performance over centroid-only choices by 0.55\u20130.59 percentage points of initial normalized loss. Gaussian moments achieved most of this incremental gain. The improvement fell below the prespecified two-point target, unconditional switching was already strong, and subgroup harms remained. Independent continuations from fixed checkpoints then identified both local expected-contrast discrepancy and changes in conditional rule ranking between one step and the terminal horizon. More detailed local policies improved one-step effect-size calibration but worsened terminal calibration, despite fewer resolved terminal ranking contradictions. These results distinguish conditional state effects, prospective policy value, contrast calibration and ranking across horizons. Their scope remains the specified finite-population model; they identify neither a unique mediator nor a generally optimal adaptive policy.\n\nResearch preprint; not externally peer reviewed. Compact evidence release; large raw trajectories and random tapes are excluded. Manuscript/data CC BY 4.0; original code MIT. AI assistance is disclosed.",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-09-22",
+  "keywords": [
+    "evolutionary computation",
+    "dynamic optimization",
+    "population models",
+    "reproducible research",
+    "organized variation",
+    "prediction horizon",
+    "population state"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.0.0",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}

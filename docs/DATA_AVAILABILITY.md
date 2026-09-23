@@ -1,0 +1,3 @@
+# Data availability
+
+This compact evidence package includes all retained summary grids, history/block aggregates, archived analysis source and the original bootstrap rows or an exact replay of their archived seeds. Earlier V1–V3 per-trial result tables are included in the state paper. It supports statistic recomputation and figure generation without running the population model. Large raw candidate trajectories, checkpoint coordinate archives and random tapes are not included. Archived execution source may reference omitted inputs or site-specific paths and is supplied for inspection, not as a claim of turnkey full-trajectory reproduction. No new population paths were generated for publication.

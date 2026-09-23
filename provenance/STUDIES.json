@@ -1,0 +1,51 @@
+[
+  {
+    "study": "V1",
+    "source_package": "mismatch_reversal_run_v1",
+    "summary": "results/V1/summary.json",
+    "source_delivery_manifest_sha256": "53d11e926158ce387829a51fa06adf8d374c505fe11f02dc553fa92e19cba6e9",
+    "cohort": "original"
+  },
+  {
+    "study": "V2",
+    "source_package": "mismatch_reversal_run_v2",
+    "summary": "results/V2/summary.json",
+    "source_delivery_manifest_sha256": "b2ed9d2a2b330aec8c09a53d81d01239ff11a11d213b14f3b5d0df03deafd714",
+    "cohort": "original"
+  },
+  {
+    "study": "V3",
+    "source_package": "mismatch_reversal_run_v3",
+    "summary": "results/V3/summary.json",
+    "source_delivery_manifest_sha256": "7ca987f03da8799ab6f4b594a663fa93c0828b37a6f55976b39fe1e27691c001",
+    "cohort": "original"
+  },
+  {
+    "study": "002",
+    "source_package": "mismatch_mechanism_switch_v1",
+    "summary": "results/002/summary.json",
+    "source_delivery_manifest_sha256": "c6d376ce583e3abefd07115089f5a8012796b81d8cd81a585b640404c631dba4",
+    "cohort": "original"
+  },
+  {
+    "study": "003",
+    "source_package": "mismatch_state_components_v1",
+    "summary": "results/003/summary.json",
+    "source_delivery_manifest_sha256": "9df5fe0b4c690efe031b4c6827df2115190b98becf0894dbc3ce03be36989769",
+    "cohort": "original"
+  },
+  {
+    "study": "004",
+    "source_package": "mismatch_state_policy_v1",
+    "summary": "results/004/summary.json",
+    "source_delivery_manifest_sha256": "fe3c454672d668234c7516fd0c3a8a38c79250bd14c5a9b42bccfef5f1f5c0e8",
+    "cohort": "new-training"
+  },
+  {
+    "study": "005",
+    "source_package": "mismatch_policy_mechanism_v1",
+    "summary": "results/005/summary.json",
+    "source_delivery_manifest_sha256": "64fa15d1a8669213990dd52f210eaf8427c332aeb34ea434488183003ca5e577",
+    "cohort": "fixed-checkpoints-from-004"
+  }
+]

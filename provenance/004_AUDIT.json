@@ -1,0 +1,23 @@
+{
+  "audited_at_utc": "2026-09-21T12:39:42.420994+00:00",
+  "pairs": 3072,
+  "choices_independently_reproduced": 18432,
+  "prediction_values_via_alternative_identity": 36864,
+  "composed_trajectory_values_verified": 1228800,
+  "history_scope_summaries": 1296,
+  "intervals_independently_reproduced": 2538,
+  "classification_differences": [],
+  "max_errors": {
+    "prediction": 9.992007221626409e-16,
+    "derived_values": 0.0,
+    "history_values": 0.0,
+    "point_estimate": 0.0,
+    "interval": 1.1102230246251565e-16
+  },
+  "freeze_before_continuations_verified": true,
+  "failed_attempt_training_replay_exact": true,
+  "original_frozen_targets_exact": true,
+  "frozen_bootstrap_indices_reproduced": true,
+  "branches_sha256": "9b8674ca6d21732976ba551bfed24d41fd14d92710c50ca3bbb55235c523e95a",
+  "decisions_sha256": "7a7c919661eb54a36e405e05ef86094a2b3e57812b006ace3ab9a6c71ae509b0"
+}

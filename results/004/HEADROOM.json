@@ -1,0 +1,43 @@
+{
+  "analysis_type": "Post hoc descriptive headroom on the stored paired realizations; frozen history bootstrap reused. Hindsight is not an attainable policy or an unbiased optimal expected policy. Does not change the primary contrast or .02 target.",
+  "groups": [
+    {
+      "regime": "structured",
+      "values": {
+        "HINDSIGHT_minus_M": {
+          "mean": 0.01138786574398315,
+          "ci95": [
+            0.009993361864282293,
+            0.012624791331138316
+          ]
+        },
+        "HINDSIGHT_minus_SWITCH": {
+          "mean": 0.011250872700603945,
+          "ci95": [
+            0.01040775328184264,
+            0.012067031485157203
+          ]
+        }
+      }
+    },
+    {
+      "regime": "isotropic",
+      "values": {
+        "HINDSIGHT_minus_M": {
+          "mean": 0.012217337976584567,
+          "ci95": [
+            0.01025039646164121,
+            0.014092047261457378
+          ]
+        },
+        "HINDSIGHT_minus_SWITCH": {
+          "mean": 0.011570554443990369,
+          "ci95": [
+            0.010650757527664798,
+            0.012465096083957657
+          ]
+        }
+      }
+    }
+  ]
+}

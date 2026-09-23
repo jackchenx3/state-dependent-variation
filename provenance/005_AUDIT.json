@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "submission_id": "ORG-DIAG-005-r1-20260921T131457Z",
+  "raw_trajectories": 18432,
+  "checkpoints": 1536,
+  "conditional_intervals": 3072,
+  "reconstructed_history_intervals": 2376,
+  "numeric_checks": 159192,
+  "max_numerical_discrepancy": 4.440892098500626e-16,
+  "counts": {
+    "structured": {
+      "ranking_reversal": 98,
+      "ranking_unresolved_either": 100,
+      "ranking_resolved_same": 570,
+      "M_resolved_contradiction_g6": 0,
+      "M_resolved_contradiction_g25": 143,
+      "G_resolved_contradiction_g6": 9,
+      "G_resolved_contradiction_g25": 107,
+      "E_resolved_contradiction_g6": 12,
+      "E_resolved_contradiction_g25": 103
+    },
+    "isotropic": {
+      "ranking_reversal": 79,
+      "ranking_unresolved_either": 131,
+      "ranking_resolved_same": 558,
+      "M_resolved_contradiction_g6": 1,
+      "M_resolved_contradiction_g25": 136,
+      "G_resolved_contradiction_g6": 5,
+      "G_resolved_contradiction_g25": 100,
+      "E_resolved_contradiction_g6": 10,
+      "E_resolved_contradiction_g25": 97
+    }
+  },
+  "negative_corrected_estimates": {
+    "M_B6": 35,
+    "M_B25": 42,
+    "G_B6": 68,
+    "G_B25": 47,
+    "E_B6": 96,
+    "E_B25": 53,
+    "H": 49
+  },
+  "verified_manifests": {
+    "SOURCE_SHA256SUMS": {
+      "files": 19,
+      "sha256": "6476c99a12d4ee4f28473d3738064a05dd48b367028efb0d0fe7806352175f3a"
+    },
+    "RESULT_SHA256SUMS": {
+      "files": 8,
+      "sha256": "764af0026f88413ab3fe7c2be34f5d68dd0b7555c3c7421b6bc9e6a8e7c02455"
+    },
+    "DELIVERY_SHA256SUMS": {
+      "files": 55,
+      "sha256": "64fa15d1a8669213990dd52f210eaf8427c332aeb34ea434488183003ca5e577"
+    }
+  },
+  "scope": "Stored-data reconstruction only. No scientific simulation; no experiment analysis imports. Source/process and limitations reviewed separately."
+}

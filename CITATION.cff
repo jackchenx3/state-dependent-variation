@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the research preprint and versioned evidence package."
+type: software
+title: "Population state changes the transfer value of organized variation in a finite-population model: research artifacts"
+authors:
+  - family-names: Chen
+    given-names: Jack
+version: 1.0.0
+date-released: '2026-09-22'
+repository-code: "https://github.com/jackchenx3/state-dependent-variation"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Population state changes the transfer value of organized variation in a finite-population model"
+  authors:
+    - family-names: Chen
+      given-names: Jack
+  year: 2026
+  version: 1.0
+  url: "https://github.com/jackchenx3/state-dependent-variation/blob/main/paper/MANUSCRIPT.md"
+  notes: "Research preprint; not externally peer reviewed. Manuscript and data are CC BY 4.0."

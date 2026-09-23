@@ -1,0 +1,28 @@
+{
+  "experiment": "ORG02-probabilistic-transfer-v2",
+  "seed": 2026092102,
+  "histories_per_regime": 24,
+  "population": 32,
+  "training_generations": 120,
+  "environment_period": 5,
+  "orientation_sd": 0.12,
+  "major_sd": 0.12,
+  "minor_sd": 0.02,
+  "test_generations": 25,
+  "tasks_per_family": 8,
+  "mismatch_degrees": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75,
+    90
+  ],
+  "bootstrap_replicates": 2000,
+  "max_result_bytes": 8388608,
+  "max_attempts": 1,
+  "selection_coefficient": 10.0,
+  "selection_rule": "sequential_weighted_sampling_without_replacement",
+  "baseline_result_sha256": "5e16b6d027a1a4a330bc36ad132efbed00e32e7fb4d9e48876d225af25a05a84"
+}
