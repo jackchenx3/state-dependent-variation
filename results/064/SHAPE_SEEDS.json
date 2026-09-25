@@ -1,0 +1,10754 @@
+[
+  {
+    "index": 0,
+    "history": 0,
+    "family": "0",
+    "task": 0,
+    "seed": 4710253134379452856
+  },
+  {
+    "index": 1,
+    "history": 0,
+    "family": "0",
+    "task": 1,
+    "seed": 9428066445474624804
+  },
+  {
+    "index": 2,
+    "history": 0,
+    "family": "0",
+    "task": 2,
+    "seed": 14761533252802108781
+  },
+  {
+    "index": 3,
+    "history": 0,
+    "family": "0",
+    "task": 3,
+    "seed": 3138025508845964211
+  },
+  {
+    "index": 4,
+    "history": 0,
+    "family": "0",
+    "task": 4,
+    "seed": 15942369173769953415
+  },
+  {
+    "index": 5,
+    "history": 0,
+    "family": "0",
+    "task": 5,
+    "seed": 8369260230301011142
+  },
+  {
+    "index": 6,
+    "history": 0,
+    "family": "0",
+    "task": 6,
+    "seed": 14991817162116194984
+  },
+  {
+    "index": 7,
+    "history": 0,
+    "family": "0",
+    "task": 7,
+    "seed": 12317818603054872741
+  },
+  {
+    "index": 8,
+    "history": 0,
+    "family": "15",
+    "task": 0,
+    "seed": 6721545463974325697
+  },
+  {
+    "index": 9,
+    "history": 0,
+    "family": "15",
+    "task": 1,
+    "seed": 4320485889920727198
+  },
+  {
+    "index": 10,
+    "history": 0,
+    "family": "15",
+    "task": 2,
+    "seed": 14823032782889019616
+  },
+  {
+    "index": 11,
+    "history": 0,
+    "family": "15",
+    "task": 3,
+    "seed": 14510064143895735192
+  },
+  {
+    "index": 12,
+    "history": 0,
+    "family": "15",
+    "task": 4,
+    "seed": 15824832217166477424
+  },
+  {
+    "index": 13,
+    "history": 0,
+    "family": "15",
+    "task": 5,
+    "seed": 11985323195277290681
+  },
+  {
+    "index": 14,
+    "history": 0,
+    "family": "15",
+    "task": 6,
+    "seed": 19399984188030581
+  },
+  {
+    "index": 15,
+    "history": 0,
+    "family": "15",
+    "task": 7,
+    "seed": 5070809383784886643
+  },
+  {
+    "index": 16,
+    "history": 0,
+    "family": "30",
+    "task": 0,
+    "seed": 12213403908951761566
+  },
+  {
+    "index": 17,
+    "history": 0,
+    "family": "30",
+    "task": 1,
+    "seed": 14990635783343448508
+  },
+  {
+    "index": 18,
+    "history": 0,
+    "family": "30",
+    "task": 2,
+    "seed": 2208424744274112123
+  },
+  {
+    "index": 19,
+    "history": 0,
+    "family": "30",
+    "task": 3,
+    "seed": 36512767943241929
+  },
+  {
+    "index": 20,
+    "history": 0,
+    "family": "30",
+    "task": 4,
+    "seed": 13081729358557037371
+  },
+  {
+    "index": 21,
+    "history": 0,
+    "family": "30",
+    "task": 5,
+    "seed": 5198372930402983739
+  },
+  {
+    "index": 22,
+    "history": 0,
+    "family": "30",
+    "task": 6,
+    "seed": 9943242143619240915
+  },
+  {
+    "index": 23,
+    "history": 0,
+    "family": "30",
+    "task": 7,
+    "seed": 6153378989616068381
+  },
+  {
+    "index": 24,
+    "history": 0,
+    "family": "45",
+    "task": 0,
+    "seed": 2361938526112788449
+  },
+  {
+    "index": 25,
+    "history": 0,
+    "family": "45",
+    "task": 1,
+    "seed": 3131676247314467398
+  },
+  {
+    "index": 26,
+    "history": 0,
+    "family": "45",
+    "task": 2,
+    "seed": 1597970188952680736
+  },
+  {
+    "index": 27,
+    "history": 0,
+    "family": "45",
+    "task": 3,
+    "seed": 6549004554813890584
+  },
+  {
+    "index": 28,
+    "history": 0,
+    "family": "45",
+    "task": 4,
+    "seed": 15664086245378388035
+  },
+  {
+    "index": 29,
+    "history": 0,
+    "family": "45",
+    "task": 5,
+    "seed": 5327059457127306452
+  },
+  {
+    "index": 30,
+    "history": 0,
+    "family": "45",
+    "task": 6,
+    "seed": 13975969134343479821
+  },
+  {
+    "index": 31,
+    "history": 0,
+    "family": "45",
+    "task": 7,
+    "seed": 9551070797897264671
+  },
+  {
+    "index": 32,
+    "history": 0,
+    "family": "60",
+    "task": 0,
+    "seed": 1051313332428627339
+  },
+  {
+    "index": 33,
+    "history": 0,
+    "family": "60",
+    "task": 1,
+    "seed": 1729762892756853260
+  },
+  {
+    "index": 34,
+    "history": 0,
+    "family": "60",
+    "task": 2,
+    "seed": 3455186046831153218
+  },
+  {
+    "index": 35,
+    "history": 0,
+    "family": "60",
+    "task": 3,
+    "seed": 2961617444025481410
+  },
+  {
+    "index": 36,
+    "history": 0,
+    "family": "60",
+    "task": 4,
+    "seed": 8814650527191908056
+  },
+  {
+    "index": 37,
+    "history": 0,
+    "family": "60",
+    "task": 5,
+    "seed": 10408136637864210486
+  },
+  {
+    "index": 38,
+    "history": 0,
+    "family": "60",
+    "task": 6,
+    "seed": 10906380155502209912
+  },
+  {
+    "index": 39,
+    "history": 0,
+    "family": "60",
+    "task": 7,
+    "seed": 12136826550062374995
+  },
+  {
+    "index": 40,
+    "history": 0,
+    "family": "75",
+    "task": 0,
+    "seed": 772233465082370831
+  },
+  {
+    "index": 41,
+    "history": 0,
+    "family": "75",
+    "task": 1,
+    "seed": 13618420259637641194
+  },
+  {
+    "index": 42,
+    "history": 0,
+    "family": "75",
+    "task": 2,
+    "seed": 7667878969066796910
+  },
+  {
+    "index": 43,
+    "history": 0,
+    "family": "75",
+    "task": 3,
+    "seed": 7266600194264601330
+  },
+  {
+    "index": 44,
+    "history": 0,
+    "family": "75",
+    "task": 4,
+    "seed": 15670985004764190520
+  },
+  {
+    "index": 45,
+    "history": 0,
+    "family": "75",
+    "task": 5,
+    "seed": 15216831895096077323
+  },
+  {
+    "index": 46,
+    "history": 0,
+    "family": "75",
+    "task": 6,
+    "seed": 5554973589576068093
+  },
+  {
+    "index": 47,
+    "history": 0,
+    "family": "75",
+    "task": 7,
+    "seed": 8679376020285854927
+  },
+  {
+    "index": 48,
+    "history": 0,
+    "family": "90",
+    "task": 0,
+    "seed": 15960261548168652413
+  },
+  {
+    "index": 49,
+    "history": 0,
+    "family": "90",
+    "task": 1,
+    "seed": 4982175998531394910
+  },
+  {
+    "index": 50,
+    "history": 0,
+    "family": "90",
+    "task": 2,
+    "seed": 13504020507419145197
+  },
+  {
+    "index": 51,
+    "history": 0,
+    "family": "90",
+    "task": 3,
+    "seed": 14648021520996950545
+  },
+  {
+    "index": 52,
+    "history": 0,
+    "family": "90",
+    "task": 4,
+    "seed": 1531779099887484565
+  },
+  {
+    "index": 53,
+    "history": 0,
+    "family": "90",
+    "task": 5,
+    "seed": 1383342600252804657
+  },
+  {
+    "index": 54,
+    "history": 0,
+    "family": "90",
+    "task": 6,
+    "seed": 15031425532566444092
+  },
+  {
+    "index": 55,
+    "history": 0,
+    "family": "90",
+    "task": 7,
+    "seed": 16350816961957110522
+  },
+  {
+    "index": 56,
+    "history": 0,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 18219898350129088788
+  },
+  {
+    "index": 57,
+    "history": 0,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 3170244284772966293
+  },
+  {
+    "index": 58,
+    "history": 0,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 15427414247652971321
+  },
+  {
+    "index": 59,
+    "history": 0,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 1239701961225359224
+  },
+  {
+    "index": 60,
+    "history": 0,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 6116553500082364817
+  },
+  {
+    "index": 61,
+    "history": 0,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 9069193511170691414
+  },
+  {
+    "index": 62,
+    "history": 0,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 5691599798853707123
+  },
+  {
+    "index": 63,
+    "history": 0,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 5708326690759335945
+  },
+  {
+    "index": 64,
+    "history": 1,
+    "family": "0",
+    "task": 0,
+    "seed": 387601194708407243
+  },
+  {
+    "index": 65,
+    "history": 1,
+    "family": "0",
+    "task": 1,
+    "seed": 3487171270640766960
+  },
+  {
+    "index": 66,
+    "history": 1,
+    "family": "0",
+    "task": 2,
+    "seed": 14452664891813501233
+  },
+  {
+    "index": 67,
+    "history": 1,
+    "family": "0",
+    "task": 3,
+    "seed": 13671178887671670292
+  },
+  {
+    "index": 68,
+    "history": 1,
+    "family": "0",
+    "task": 4,
+    "seed": 11323442134521131446
+  },
+  {
+    "index": 69,
+    "history": 1,
+    "family": "0",
+    "task": 5,
+    "seed": 4221531447973827033
+  },
+  {
+    "index": 70,
+    "history": 1,
+    "family": "0",
+    "task": 6,
+    "seed": 5723100211685214136
+  },
+  {
+    "index": 71,
+    "history": 1,
+    "family": "0",
+    "task": 7,
+    "seed": 9530947176936573520
+  },
+  {
+    "index": 72,
+    "history": 1,
+    "family": "15",
+    "task": 0,
+    "seed": 7947352099873939851
+  },
+  {
+    "index": 73,
+    "history": 1,
+    "family": "15",
+    "task": 1,
+    "seed": 10991993380195898665
+  },
+  {
+    "index": 74,
+    "history": 1,
+    "family": "15",
+    "task": 2,
+    "seed": 529931772900841404
+  },
+  {
+    "index": 75,
+    "history": 1,
+    "family": "15",
+    "task": 3,
+    "seed": 14411728932956586249
+  },
+  {
+    "index": 76,
+    "history": 1,
+    "family": "15",
+    "task": 4,
+    "seed": 17407828584637847360
+  },
+  {
+    "index": 77,
+    "history": 1,
+    "family": "15",
+    "task": 5,
+    "seed": 10930130084453107250
+  },
+  {
+    "index": 78,
+    "history": 1,
+    "family": "15",
+    "task": 6,
+    "seed": 4329097034698098857
+  },
+  {
+    "index": 79,
+    "history": 1,
+    "family": "15",
+    "task": 7,
+    "seed": 14615658576828682609
+  },
+  {
+    "index": 80,
+    "history": 1,
+    "family": "30",
+    "task": 0,
+    "seed": 6746624628750301975
+  },
+  {
+    "index": 81,
+    "history": 1,
+    "family": "30",
+    "task": 1,
+    "seed": 12925412125436704113
+  },
+  {
+    "index": 82,
+    "history": 1,
+    "family": "30",
+    "task": 2,
+    "seed": 8949721994981507321
+  },
+  {
+    "index": 83,
+    "history": 1,
+    "family": "30",
+    "task": 3,
+    "seed": 13075818348921378954
+  },
+  {
+    "index": 84,
+    "history": 1,
+    "family": "30",
+    "task": 4,
+    "seed": 3200196636455395922
+  },
+  {
+    "index": 85,
+    "history": 1,
+    "family": "30",
+    "task": 5,
+    "seed": 6927250418130583077
+  },
+  {
+    "index": 86,
+    "history": 1,
+    "family": "30",
+    "task": 6,
+    "seed": 5299182462689765184
+  },
+  {
+    "index": 87,
+    "history": 1,
+    "family": "30",
+    "task": 7,
+    "seed": 10234544682752262929
+  },
+  {
+    "index": 88,
+    "history": 1,
+    "family": "45",
+    "task": 0,
+    "seed": 2069152338578796987
+  },
+  {
+    "index": 89,
+    "history": 1,
+    "family": "45",
+    "task": 1,
+    "seed": 11674832064914205058
+  },
+  {
+    "index": 90,
+    "history": 1,
+    "family": "45",
+    "task": 2,
+    "seed": 14460637175803664364
+  },
+  {
+    "index": 91,
+    "history": 1,
+    "family": "45",
+    "task": 3,
+    "seed": 8274775995434819640
+  },
+  {
+    "index": 92,
+    "history": 1,
+    "family": "45",
+    "task": 4,
+    "seed": 11413313902021341322
+  },
+  {
+    "index": 93,
+    "history": 1,
+    "family": "45",
+    "task": 5,
+    "seed": 8070065890779268416
+  },
+  {
+    "index": 94,
+    "history": 1,
+    "family": "45",
+    "task": 6,
+    "seed": 8225671257695644616
+  },
+  {
+    "index": 95,
+    "history": 1,
+    "family": "45",
+    "task": 7,
+    "seed": 1554316228863394383
+  },
+  {
+    "index": 96,
+    "history": 1,
+    "family": "60",
+    "task": 0,
+    "seed": 3171628057620722170
+  },
+  {
+    "index": 97,
+    "history": 1,
+    "family": "60",
+    "task": 1,
+    "seed": 13829206988809327238
+  },
+  {
+    "index": 98,
+    "history": 1,
+    "family": "60",
+    "task": 2,
+    "seed": 13477238351412490774
+  },
+  {
+    "index": 99,
+    "history": 1,
+    "family": "60",
+    "task": 3,
+    "seed": 18082829415310578522
+  },
+  {
+    "index": 100,
+    "history": 1,
+    "family": "60",
+    "task": 4,
+    "seed": 2354065392120082982
+  },
+  {
+    "index": 101,
+    "history": 1,
+    "family": "60",
+    "task": 5,
+    "seed": 11787540531120353710
+  },
+  {
+    "index": 102,
+    "history": 1,
+    "family": "60",
+    "task": 6,
+    "seed": 16106145505491718736
+  },
+  {
+    "index": 103,
+    "history": 1,
+    "family": "60",
+    "task": 7,
+    "seed": 3848617774552913237
+  },
+  {
+    "index": 104,
+    "history": 1,
+    "family": "75",
+    "task": 0,
+    "seed": 6245149953660754425
+  },
+  {
+    "index": 105,
+    "history": 1,
+    "family": "75",
+    "task": 1,
+    "seed": 7441976321037903027
+  },
+  {
+    "index": 106,
+    "history": 1,
+    "family": "75",
+    "task": 2,
+    "seed": 1225837784306824521
+  },
+  {
+    "index": 107,
+    "history": 1,
+    "family": "75",
+    "task": 3,
+    "seed": 4582470893741900274
+  },
+  {
+    "index": 108,
+    "history": 1,
+    "family": "75",
+    "task": 4,
+    "seed": 17897313264330107388
+  },
+  {
+    "index": 109,
+    "history": 1,
+    "family": "75",
+    "task": 5,
+    "seed": 4271350949268839594
+  },
+  {
+    "index": 110,
+    "history": 1,
+    "family": "75",
+    "task": 6,
+    "seed": 3812107161985975912
+  },
+  {
+    "index": 111,
+    "history": 1,
+    "family": "75",
+    "task": 7,
+    "seed": 8916055914311586115
+  },
+  {
+    "index": 112,
+    "history": 1,
+    "family": "90",
+    "task": 0,
+    "seed": 12500089084951945246
+  },
+  {
+    "index": 113,
+    "history": 1,
+    "family": "90",
+    "task": 1,
+    "seed": 7781312755962304429
+  },
+  {
+    "index": 114,
+    "history": 1,
+    "family": "90",
+    "task": 2,
+    "seed": 273358651683895467
+  },
+  {
+    "index": 115,
+    "history": 1,
+    "family": "90",
+    "task": 3,
+    "seed": 2921047136366466487
+  },
+  {
+    "index": 116,
+    "history": 1,
+    "family": "90",
+    "task": 4,
+    "seed": 13678006100071102793
+  },
+  {
+    "index": 117,
+    "history": 1,
+    "family": "90",
+    "task": 5,
+    "seed": 12075576425871763776
+  },
+  {
+    "index": 118,
+    "history": 1,
+    "family": "90",
+    "task": 6,
+    "seed": 7004718955119794061
+  },
+  {
+    "index": 119,
+    "history": 1,
+    "family": "90",
+    "task": 7,
+    "seed": 763812389037643850
+  },
+  {
+    "index": 120,
+    "history": 1,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 17838984204318884616
+  },
+  {
+    "index": 121,
+    "history": 1,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 6321376899556021469
+  },
+  {
+    "index": 122,
+    "history": 1,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 4564673964253925606
+  },
+  {
+    "index": 123,
+    "history": 1,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 18194728494415822773
+  },
+  {
+    "index": 124,
+    "history": 1,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 12363272513018919382
+  },
+  {
+    "index": 125,
+    "history": 1,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 2098945125507280797
+  },
+  {
+    "index": 126,
+    "history": 1,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 14348248209223057481
+  },
+  {
+    "index": 127,
+    "history": 1,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 6335133461035161455
+  },
+  {
+    "index": 128,
+    "history": 2,
+    "family": "0",
+    "task": 0,
+    "seed": 7782648062923764705
+  },
+  {
+    "index": 129,
+    "history": 2,
+    "family": "0",
+    "task": 1,
+    "seed": 14166226963598483324
+  },
+  {
+    "index": 130,
+    "history": 2,
+    "family": "0",
+    "task": 2,
+    "seed": 13823773600132668084
+  },
+  {
+    "index": 131,
+    "history": 2,
+    "family": "0",
+    "task": 3,
+    "seed": 13731467204412785398
+  },
+  {
+    "index": 132,
+    "history": 2,
+    "family": "0",
+    "task": 4,
+    "seed": 8862515701400763257
+  },
+  {
+    "index": 133,
+    "history": 2,
+    "family": "0",
+    "task": 5,
+    "seed": 2677803965146941516
+  },
+  {
+    "index": 134,
+    "history": 2,
+    "family": "0",
+    "task": 6,
+    "seed": 16369472424119317781
+  },
+  {
+    "index": 135,
+    "history": 2,
+    "family": "0",
+    "task": 7,
+    "seed": 1756312985906245433
+  },
+  {
+    "index": 136,
+    "history": 2,
+    "family": "15",
+    "task": 0,
+    "seed": 4285798254654157015
+  },
+  {
+    "index": 137,
+    "history": 2,
+    "family": "15",
+    "task": 1,
+    "seed": 364272458351751753
+  },
+  {
+    "index": 138,
+    "history": 2,
+    "family": "15",
+    "task": 2,
+    "seed": 8290140380645770675
+  },
+  {
+    "index": 139,
+    "history": 2,
+    "family": "15",
+    "task": 3,
+    "seed": 17255735166452465936
+  },
+  {
+    "index": 140,
+    "history": 2,
+    "family": "15",
+    "task": 4,
+    "seed": 11484751252189373301
+  },
+  {
+    "index": 141,
+    "history": 2,
+    "family": "15",
+    "task": 5,
+    "seed": 14786217182959076122
+  },
+  {
+    "index": 142,
+    "history": 2,
+    "family": "15",
+    "task": 6,
+    "seed": 10326240045028616841
+  },
+  {
+    "index": 143,
+    "history": 2,
+    "family": "15",
+    "task": 7,
+    "seed": 4948117865569827964
+  },
+  {
+    "index": 144,
+    "history": 2,
+    "family": "30",
+    "task": 0,
+    "seed": 2075541775940774064
+  },
+  {
+    "index": 145,
+    "history": 2,
+    "family": "30",
+    "task": 1,
+    "seed": 4493738365702876663
+  },
+  {
+    "index": 146,
+    "history": 2,
+    "family": "30",
+    "task": 2,
+    "seed": 2581901889459231307
+  },
+  {
+    "index": 147,
+    "history": 2,
+    "family": "30",
+    "task": 3,
+    "seed": 17110459268807897037
+  },
+  {
+    "index": 148,
+    "history": 2,
+    "family": "30",
+    "task": 4,
+    "seed": 18022813003581383075
+  },
+  {
+    "index": 149,
+    "history": 2,
+    "family": "30",
+    "task": 5,
+    "seed": 12352771857670443195
+  },
+  {
+    "index": 150,
+    "history": 2,
+    "family": "30",
+    "task": 6,
+    "seed": 6795575876608669479
+  },
+  {
+    "index": 151,
+    "history": 2,
+    "family": "30",
+    "task": 7,
+    "seed": 14266636345609332124
+  },
+  {
+    "index": 152,
+    "history": 2,
+    "family": "45",
+    "task": 0,
+    "seed": 5590726965113160862
+  },
+  {
+    "index": 153,
+    "history": 2,
+    "family": "45",
+    "task": 1,
+    "seed": 3639668367619351841
+  },
+  {
+    "index": 154,
+    "history": 2,
+    "family": "45",
+    "task": 2,
+    "seed": 18393165462195186543
+  },
+  {
+    "index": 155,
+    "history": 2,
+    "family": "45",
+    "task": 3,
+    "seed": 9105783918586221014
+  },
+  {
+    "index": 156,
+    "history": 2,
+    "family": "45",
+    "task": 4,
+    "seed": 12214913215466754758
+  },
+  {
+    "index": 157,
+    "history": 2,
+    "family": "45",
+    "task": 5,
+    "seed": 17904928652480596528
+  },
+  {
+    "index": 158,
+    "history": 2,
+    "family": "45",
+    "task": 6,
+    "seed": 6639409605528609292
+  },
+  {
+    "index": 159,
+    "history": 2,
+    "family": "45",
+    "task": 7,
+    "seed": 17611033037686418474
+  },
+  {
+    "index": 160,
+    "history": 2,
+    "family": "60",
+    "task": 0,
+    "seed": 7640116688981121990
+  },
+  {
+    "index": 161,
+    "history": 2,
+    "family": "60",
+    "task": 1,
+    "seed": 17227298820146493449
+  },
+  {
+    "index": 162,
+    "history": 2,
+    "family": "60",
+    "task": 2,
+    "seed": 1121040201858568360
+  },
+  {
+    "index": 163,
+    "history": 2,
+    "family": "60",
+    "task": 3,
+    "seed": 4841888837129714964
+  },
+  {
+    "index": 164,
+    "history": 2,
+    "family": "60",
+    "task": 4,
+    "seed": 11450744719785146105
+  },
+  {
+    "index": 165,
+    "history": 2,
+    "family": "60",
+    "task": 5,
+    "seed": 10149877206554226506
+  },
+  {
+    "index": 166,
+    "history": 2,
+    "family": "60",
+    "task": 6,
+    "seed": 3454650909176077050
+  },
+  {
+    "index": 167,
+    "history": 2,
+    "family": "60",
+    "task": 7,
+    "seed": 3370589433653485906
+  },
+  {
+    "index": 168,
+    "history": 2,
+    "family": "75",
+    "task": 0,
+    "seed": 16922416277638268739
+  },
+  {
+    "index": 169,
+    "history": 2,
+    "family": "75",
+    "task": 1,
+    "seed": 16465105483881804871
+  },
+  {
+    "index": 170,
+    "history": 2,
+    "family": "75",
+    "task": 2,
+    "seed": 7555979339971284327
+  },
+  {
+    "index": 171,
+    "history": 2,
+    "family": "75",
+    "task": 3,
+    "seed": 17266082869028845218
+  },
+  {
+    "index": 172,
+    "history": 2,
+    "family": "75",
+    "task": 4,
+    "seed": 8937643690081549833
+  },
+  {
+    "index": 173,
+    "history": 2,
+    "family": "75",
+    "task": 5,
+    "seed": 9110169127917069126
+  },
+  {
+    "index": 174,
+    "history": 2,
+    "family": "75",
+    "task": 6,
+    "seed": 10183302172562446376
+  },
+  {
+    "index": 175,
+    "history": 2,
+    "family": "75",
+    "task": 7,
+    "seed": 16318537690549859386
+  },
+  {
+    "index": 176,
+    "history": 2,
+    "family": "90",
+    "task": 0,
+    "seed": 7394683456143407701
+  },
+  {
+    "index": 177,
+    "history": 2,
+    "family": "90",
+    "task": 1,
+    "seed": 14519763462416857788
+  },
+  {
+    "index": 178,
+    "history": 2,
+    "family": "90",
+    "task": 2,
+    "seed": 6776774099377586354
+  },
+  {
+    "index": 179,
+    "history": 2,
+    "family": "90",
+    "task": 3,
+    "seed": 14971399266104225931
+  },
+  {
+    "index": 180,
+    "history": 2,
+    "family": "90",
+    "task": 4,
+    "seed": 14448112631625509384
+  },
+  {
+    "index": 181,
+    "history": 2,
+    "family": "90",
+    "task": 5,
+    "seed": 1180282396450424838
+  },
+  {
+    "index": 182,
+    "history": 2,
+    "family": "90",
+    "task": 6,
+    "seed": 4835325462840776243
+  },
+  {
+    "index": 183,
+    "history": 2,
+    "family": "90",
+    "task": 7,
+    "seed": 14599948075013767093
+  },
+  {
+    "index": 184,
+    "history": 2,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 5623410272850051706
+  },
+  {
+    "index": 185,
+    "history": 2,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 2259182386489135144
+  },
+  {
+    "index": 186,
+    "history": 2,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 1858652433705102391
+  },
+  {
+    "index": 187,
+    "history": 2,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 7232376284377555671
+  },
+  {
+    "index": 188,
+    "history": 2,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 18124208193968396
+  },
+  {
+    "index": 189,
+    "history": 2,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 206123813105634096
+  },
+  {
+    "index": 190,
+    "history": 2,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 2437400854233617962
+  },
+  {
+    "index": 191,
+    "history": 2,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 6391567638999688111
+  },
+  {
+    "index": 192,
+    "history": 3,
+    "family": "0",
+    "task": 0,
+    "seed": 15555400287384157405
+  },
+  {
+    "index": 193,
+    "history": 3,
+    "family": "0",
+    "task": 1,
+    "seed": 6916188126228272840
+  },
+  {
+    "index": 194,
+    "history": 3,
+    "family": "0",
+    "task": 2,
+    "seed": 2183931987667727852
+  },
+  {
+    "index": 195,
+    "history": 3,
+    "family": "0",
+    "task": 3,
+    "seed": 3227448501417131550
+  },
+  {
+    "index": 196,
+    "history": 3,
+    "family": "0",
+    "task": 4,
+    "seed": 12713184791651199335
+  },
+  {
+    "index": 197,
+    "history": 3,
+    "family": "0",
+    "task": 5,
+    "seed": 7208492995905317842
+  },
+  {
+    "index": 198,
+    "history": 3,
+    "family": "0",
+    "task": 6,
+    "seed": 4799590789202759774
+  },
+  {
+    "index": 199,
+    "history": 3,
+    "family": "0",
+    "task": 7,
+    "seed": 10737243774234684969
+  },
+  {
+    "index": 200,
+    "history": 3,
+    "family": "15",
+    "task": 0,
+    "seed": 6909357025586194503
+  },
+  {
+    "index": 201,
+    "history": 3,
+    "family": "15",
+    "task": 1,
+    "seed": 2342207038119682540
+  },
+  {
+    "index": 202,
+    "history": 3,
+    "family": "15",
+    "task": 2,
+    "seed": 5071101501252617628
+  },
+  {
+    "index": 203,
+    "history": 3,
+    "family": "15",
+    "task": 3,
+    "seed": 7081965030312473048
+  },
+  {
+    "index": 204,
+    "history": 3,
+    "family": "15",
+    "task": 4,
+    "seed": 10304268777177010555
+  },
+  {
+    "index": 205,
+    "history": 3,
+    "family": "15",
+    "task": 5,
+    "seed": 10770966337346239966
+  },
+  {
+    "index": 206,
+    "history": 3,
+    "family": "15",
+    "task": 6,
+    "seed": 2952793679584041678
+  },
+  {
+    "index": 207,
+    "history": 3,
+    "family": "15",
+    "task": 7,
+    "seed": 4110805732460235064
+  },
+  {
+    "index": 208,
+    "history": 3,
+    "family": "30",
+    "task": 0,
+    "seed": 12149598812164257365
+  },
+  {
+    "index": 209,
+    "history": 3,
+    "family": "30",
+    "task": 1,
+    "seed": 4848231740975809283
+  },
+  {
+    "index": 210,
+    "history": 3,
+    "family": "30",
+    "task": 2,
+    "seed": 12668048027016624725
+  },
+  {
+    "index": 211,
+    "history": 3,
+    "family": "30",
+    "task": 3,
+    "seed": 15328990454581994661
+  },
+  {
+    "index": 212,
+    "history": 3,
+    "family": "30",
+    "task": 4,
+    "seed": 5736670527969883805
+  },
+  {
+    "index": 213,
+    "history": 3,
+    "family": "30",
+    "task": 5,
+    "seed": 16854743867265156530
+  },
+  {
+    "index": 214,
+    "history": 3,
+    "family": "30",
+    "task": 6,
+    "seed": 15162050411507674158
+  },
+  {
+    "index": 215,
+    "history": 3,
+    "family": "30",
+    "task": 7,
+    "seed": 15537534575463415254
+  },
+  {
+    "index": 216,
+    "history": 3,
+    "family": "45",
+    "task": 0,
+    "seed": 15148010361784229023
+  },
+  {
+    "index": 217,
+    "history": 3,
+    "family": "45",
+    "task": 1,
+    "seed": 5303829250183870694
+  },
+  {
+    "index": 218,
+    "history": 3,
+    "family": "45",
+    "task": 2,
+    "seed": 9159002203106322277
+  },
+  {
+    "index": 219,
+    "history": 3,
+    "family": "45",
+    "task": 3,
+    "seed": 2089965935696816259
+  },
+  {
+    "index": 220,
+    "history": 3,
+    "family": "45",
+    "task": 4,
+    "seed": 15423747987358631014
+  },
+  {
+    "index": 221,
+    "history": 3,
+    "family": "45",
+    "task": 5,
+    "seed": 16901247179077149073
+  },
+  {
+    "index": 222,
+    "history": 3,
+    "family": "45",
+    "task": 6,
+    "seed": 9174294269086173769
+  },
+  {
+    "index": 223,
+    "history": 3,
+    "family": "45",
+    "task": 7,
+    "seed": 16350311290999583785
+  },
+  {
+    "index": 224,
+    "history": 3,
+    "family": "60",
+    "task": 0,
+    "seed": 3956197035145709690
+  },
+  {
+    "index": 225,
+    "history": 3,
+    "family": "60",
+    "task": 1,
+    "seed": 12439594873437814274
+  },
+  {
+    "index": 226,
+    "history": 3,
+    "family": "60",
+    "task": 2,
+    "seed": 17898125583954937055
+  },
+  {
+    "index": 227,
+    "history": 3,
+    "family": "60",
+    "task": 3,
+    "seed": 9285583674228918444
+  },
+  {
+    "index": 228,
+    "history": 3,
+    "family": "60",
+    "task": 4,
+    "seed": 9985279453544978515
+  },
+  {
+    "index": 229,
+    "history": 3,
+    "family": "60",
+    "task": 5,
+    "seed": 9660167689261751034
+  },
+  {
+    "index": 230,
+    "history": 3,
+    "family": "60",
+    "task": 6,
+    "seed": 11488628609846397279
+  },
+  {
+    "index": 231,
+    "history": 3,
+    "family": "60",
+    "task": 7,
+    "seed": 10401624729921136995
+  },
+  {
+    "index": 232,
+    "history": 3,
+    "family": "75",
+    "task": 0,
+    "seed": 14701903982802693307
+  },
+  {
+    "index": 233,
+    "history": 3,
+    "family": "75",
+    "task": 1,
+    "seed": 16497661782296424395
+  },
+  {
+    "index": 234,
+    "history": 3,
+    "family": "75",
+    "task": 2,
+    "seed": 7222404182225365810
+  },
+  {
+    "index": 235,
+    "history": 3,
+    "family": "75",
+    "task": 3,
+    "seed": 15798382266860865553
+  },
+  {
+    "index": 236,
+    "history": 3,
+    "family": "75",
+    "task": 4,
+    "seed": 16740673530324375523
+  },
+  {
+    "index": 237,
+    "history": 3,
+    "family": "75",
+    "task": 5,
+    "seed": 4621318168999080119
+  },
+  {
+    "index": 238,
+    "history": 3,
+    "family": "75",
+    "task": 6,
+    "seed": 5783854126915405102
+  },
+  {
+    "index": 239,
+    "history": 3,
+    "family": "75",
+    "task": 7,
+    "seed": 786223893774289673
+  },
+  {
+    "index": 240,
+    "history": 3,
+    "family": "90",
+    "task": 0,
+    "seed": 15763543639534026430
+  },
+  {
+    "index": 241,
+    "history": 3,
+    "family": "90",
+    "task": 1,
+    "seed": 11489806452866004156
+  },
+  {
+    "index": 242,
+    "history": 3,
+    "family": "90",
+    "task": 2,
+    "seed": 13492020725633890252
+  },
+  {
+    "index": 243,
+    "history": 3,
+    "family": "90",
+    "task": 3,
+    "seed": 16061498645942039273
+  },
+  {
+    "index": 244,
+    "history": 3,
+    "family": "90",
+    "task": 4,
+    "seed": 10667955505570999709
+  },
+  {
+    "index": 245,
+    "history": 3,
+    "family": "90",
+    "task": 5,
+    "seed": 4026805746829429140
+  },
+  {
+    "index": 246,
+    "history": 3,
+    "family": "90",
+    "task": 6,
+    "seed": 10870655340413921953
+  },
+  {
+    "index": 247,
+    "history": 3,
+    "family": "90",
+    "task": 7,
+    "seed": 6525038159984366244
+  },
+  {
+    "index": 248,
+    "history": 3,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 9849853761563716553
+  },
+  {
+    "index": 249,
+    "history": 3,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 9779150044835258284
+  },
+  {
+    "index": 250,
+    "history": 3,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 13762919959617811688
+  },
+  {
+    "index": 251,
+    "history": 3,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 3157146484744022850
+  },
+  {
+    "index": 252,
+    "history": 3,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 3250753426766865584
+  },
+  {
+    "index": 253,
+    "history": 3,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 11872034554944823534
+  },
+  {
+    "index": 254,
+    "history": 3,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 12057105124951987980
+  },
+  {
+    "index": 255,
+    "history": 3,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 6705948599159448960
+  },
+  {
+    "index": 256,
+    "history": 4,
+    "family": "0",
+    "task": 0,
+    "seed": 15181631755219081006
+  },
+  {
+    "index": 257,
+    "history": 4,
+    "family": "0",
+    "task": 1,
+    "seed": 12265754250956998284
+  },
+  {
+    "index": 258,
+    "history": 4,
+    "family": "0",
+    "task": 2,
+    "seed": 11061880907428414100
+  },
+  {
+    "index": 259,
+    "history": 4,
+    "family": "0",
+    "task": 3,
+    "seed": 10338880824093582291
+  },
+  {
+    "index": 260,
+    "history": 4,
+    "family": "0",
+    "task": 4,
+    "seed": 8994072863831089966
+  },
+  {
+    "index": 261,
+    "history": 4,
+    "family": "0",
+    "task": 5,
+    "seed": 6117907841358808803
+  },
+  {
+    "index": 262,
+    "history": 4,
+    "family": "0",
+    "task": 6,
+    "seed": 10965710944663774731
+  },
+  {
+    "index": 263,
+    "history": 4,
+    "family": "0",
+    "task": 7,
+    "seed": 15699406717401069764
+  },
+  {
+    "index": 264,
+    "history": 4,
+    "family": "15",
+    "task": 0,
+    "seed": 3081300313436236144
+  },
+  {
+    "index": 265,
+    "history": 4,
+    "family": "15",
+    "task": 1,
+    "seed": 7772765233824336616
+  },
+  {
+    "index": 266,
+    "history": 4,
+    "family": "15",
+    "task": 2,
+    "seed": 14001243428254960868
+  },
+  {
+    "index": 267,
+    "history": 4,
+    "family": "15",
+    "task": 3,
+    "seed": 11815089377334617773
+  },
+  {
+    "index": 268,
+    "history": 4,
+    "family": "15",
+    "task": 4,
+    "seed": 18258922982431247970
+  },
+  {
+    "index": 269,
+    "history": 4,
+    "family": "15",
+    "task": 5,
+    "seed": 16573140756992995283
+  },
+  {
+    "index": 270,
+    "history": 4,
+    "family": "15",
+    "task": 6,
+    "seed": 6785033170352361876
+  },
+  {
+    "index": 271,
+    "history": 4,
+    "family": "15",
+    "task": 7,
+    "seed": 17235397424876177900
+  },
+  {
+    "index": 272,
+    "history": 4,
+    "family": "30",
+    "task": 0,
+    "seed": 1452112768881118200
+  },
+  {
+    "index": 273,
+    "history": 4,
+    "family": "30",
+    "task": 1,
+    "seed": 10929099946509596172
+  },
+  {
+    "index": 274,
+    "history": 4,
+    "family": "30",
+    "task": 2,
+    "seed": 8267258223429555937
+  },
+  {
+    "index": 275,
+    "history": 4,
+    "family": "30",
+    "task": 3,
+    "seed": 4721041795162242303
+  },
+  {
+    "index": 276,
+    "history": 4,
+    "family": "30",
+    "task": 4,
+    "seed": 1323026442274398906
+  },
+  {
+    "index": 277,
+    "history": 4,
+    "family": "30",
+    "task": 5,
+    "seed": 9953101005229534552
+  },
+  {
+    "index": 278,
+    "history": 4,
+    "family": "30",
+    "task": 6,
+    "seed": 9106170604707622277
+  },
+  {
+    "index": 279,
+    "history": 4,
+    "family": "30",
+    "task": 7,
+    "seed": 2240021204491198424
+  },
+  {
+    "index": 280,
+    "history": 4,
+    "family": "45",
+    "task": 0,
+    "seed": 17417364298686752924
+  },
+  {
+    "index": 281,
+    "history": 4,
+    "family": "45",
+    "task": 1,
+    "seed": 14394262766543782104
+  },
+  {
+    "index": 282,
+    "history": 4,
+    "family": "45",
+    "task": 2,
+    "seed": 863061603616633374
+  },
+  {
+    "index": 283,
+    "history": 4,
+    "family": "45",
+    "task": 3,
+    "seed": 11918773529805581480
+  },
+  {
+    "index": 284,
+    "history": 4,
+    "family": "45",
+    "task": 4,
+    "seed": 13240039547342847828
+  },
+  {
+    "index": 285,
+    "history": 4,
+    "family": "45",
+    "task": 5,
+    "seed": 5661544263441324699
+  },
+  {
+    "index": 286,
+    "history": 4,
+    "family": "45",
+    "task": 6,
+    "seed": 9374534483911368916
+  },
+  {
+    "index": 287,
+    "history": 4,
+    "family": "45",
+    "task": 7,
+    "seed": 1968667994943741851
+  },
+  {
+    "index": 288,
+    "history": 4,
+    "family": "60",
+    "task": 0,
+    "seed": 12201914317128727045
+  },
+  {
+    "index": 289,
+    "history": 4,
+    "family": "60",
+    "task": 1,
+    "seed": 13073738689059761417
+  },
+  {
+    "index": 290,
+    "history": 4,
+    "family": "60",
+    "task": 2,
+    "seed": 15042880558134144352
+  },
+  {
+    "index": 291,
+    "history": 4,
+    "family": "60",
+    "task": 3,
+    "seed": 12777021240556093852
+  },
+  {
+    "index": 292,
+    "history": 4,
+    "family": "60",
+    "task": 4,
+    "seed": 6334148415105977320
+  },
+  {
+    "index": 293,
+    "history": 4,
+    "family": "60",
+    "task": 5,
+    "seed": 290474831061174034
+  },
+  {
+    "index": 294,
+    "history": 4,
+    "family": "60",
+    "task": 6,
+    "seed": 5387954963282455616
+  },
+  {
+    "index": 295,
+    "history": 4,
+    "family": "60",
+    "task": 7,
+    "seed": 1214452566238669268
+  },
+  {
+    "index": 296,
+    "history": 4,
+    "family": "75",
+    "task": 0,
+    "seed": 10024790611150328116
+  },
+  {
+    "index": 297,
+    "history": 4,
+    "family": "75",
+    "task": 1,
+    "seed": 6101466401836953677
+  },
+  {
+    "index": 298,
+    "history": 4,
+    "family": "75",
+    "task": 2,
+    "seed": 9299180002130600091
+  },
+  {
+    "index": 299,
+    "history": 4,
+    "family": "75",
+    "task": 3,
+    "seed": 8177759679696310121
+  },
+  {
+    "index": 300,
+    "history": 4,
+    "family": "75",
+    "task": 4,
+    "seed": 17822380530686676223
+  },
+  {
+    "index": 301,
+    "history": 4,
+    "family": "75",
+    "task": 5,
+    "seed": 11570207409018451623
+  },
+  {
+    "index": 302,
+    "history": 4,
+    "family": "75",
+    "task": 6,
+    "seed": 17888710648540804438
+  },
+  {
+    "index": 303,
+    "history": 4,
+    "family": "75",
+    "task": 7,
+    "seed": 14056116884801066027
+  },
+  {
+    "index": 304,
+    "history": 4,
+    "family": "90",
+    "task": 0,
+    "seed": 1378168584581951380
+  },
+  {
+    "index": 305,
+    "history": 4,
+    "family": "90",
+    "task": 1,
+    "seed": 15902031136468364849
+  },
+  {
+    "index": 306,
+    "history": 4,
+    "family": "90",
+    "task": 2,
+    "seed": 3046721400231010270
+  },
+  {
+    "index": 307,
+    "history": 4,
+    "family": "90",
+    "task": 3,
+    "seed": 1598553742275440866
+  },
+  {
+    "index": 308,
+    "history": 4,
+    "family": "90",
+    "task": 4,
+    "seed": 15633219197863815435
+  },
+  {
+    "index": 309,
+    "history": 4,
+    "family": "90",
+    "task": 5,
+    "seed": 12998067611053546048
+  },
+  {
+    "index": 310,
+    "history": 4,
+    "family": "90",
+    "task": 6,
+    "seed": 2302493557892498213
+  },
+  {
+    "index": 311,
+    "history": 4,
+    "family": "90",
+    "task": 7,
+    "seed": 17740515976215636239
+  },
+  {
+    "index": 312,
+    "history": 4,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 15230993318007571419
+  },
+  {
+    "index": 313,
+    "history": 4,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 8076206313785607844
+  },
+  {
+    "index": 314,
+    "history": 4,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 1753487364788064095
+  },
+  {
+    "index": 315,
+    "history": 4,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 3269802887532520810
+  },
+  {
+    "index": 316,
+    "history": 4,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 12942723747661780295
+  },
+  {
+    "index": 317,
+    "history": 4,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 12575019473573556057
+  },
+  {
+    "index": 318,
+    "history": 4,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 7947946542611378051
+  },
+  {
+    "index": 319,
+    "history": 4,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 3353643269243520351
+  },
+  {
+    "index": 320,
+    "history": 5,
+    "family": "0",
+    "task": 0,
+    "seed": 667573413646522146
+  },
+  {
+    "index": 321,
+    "history": 5,
+    "family": "0",
+    "task": 1,
+    "seed": 1129293159745429250
+  },
+  {
+    "index": 322,
+    "history": 5,
+    "family": "0",
+    "task": 2,
+    "seed": 16911604460099012023
+  },
+  {
+    "index": 323,
+    "history": 5,
+    "family": "0",
+    "task": 3,
+    "seed": 3796017440335315876
+  },
+  {
+    "index": 324,
+    "history": 5,
+    "family": "0",
+    "task": 4,
+    "seed": 13838718270660431475
+  },
+  {
+    "index": 325,
+    "history": 5,
+    "family": "0",
+    "task": 5,
+    "seed": 16448467899021125774
+  },
+  {
+    "index": 326,
+    "history": 5,
+    "family": "0",
+    "task": 6,
+    "seed": 280303950140935509
+  },
+  {
+    "index": 327,
+    "history": 5,
+    "family": "0",
+    "task": 7,
+    "seed": 7458336031974743647
+  },
+  {
+    "index": 328,
+    "history": 5,
+    "family": "15",
+    "task": 0,
+    "seed": 16699690522046948776
+  },
+  {
+    "index": 329,
+    "history": 5,
+    "family": "15",
+    "task": 1,
+    "seed": 6577387908210514568
+  },
+  {
+    "index": 330,
+    "history": 5,
+    "family": "15",
+    "task": 2,
+    "seed": 1409325081184582513
+  },
+  {
+    "index": 331,
+    "history": 5,
+    "family": "15",
+    "task": 3,
+    "seed": 18236965267826342417
+  },
+  {
+    "index": 332,
+    "history": 5,
+    "family": "15",
+    "task": 4,
+    "seed": 4885570269038093635
+  },
+  {
+    "index": 333,
+    "history": 5,
+    "family": "15",
+    "task": 5,
+    "seed": 10273955709553347250
+  },
+  {
+    "index": 334,
+    "history": 5,
+    "family": "15",
+    "task": 6,
+    "seed": 7107142297481049605
+  },
+  {
+    "index": 335,
+    "history": 5,
+    "family": "15",
+    "task": 7,
+    "seed": 17378425732784528904
+  },
+  {
+    "index": 336,
+    "history": 5,
+    "family": "30",
+    "task": 0,
+    "seed": 18333811133825635900
+  },
+  {
+    "index": 337,
+    "history": 5,
+    "family": "30",
+    "task": 1,
+    "seed": 16959764130662757913
+  },
+  {
+    "index": 338,
+    "history": 5,
+    "family": "30",
+    "task": 2,
+    "seed": 6237226619873554466
+  },
+  {
+    "index": 339,
+    "history": 5,
+    "family": "30",
+    "task": 3,
+    "seed": 9347250101147325719
+  },
+  {
+    "index": 340,
+    "history": 5,
+    "family": "30",
+    "task": 4,
+    "seed": 17875642879257646105
+  },
+  {
+    "index": 341,
+    "history": 5,
+    "family": "30",
+    "task": 5,
+    "seed": 3630182553742441704
+  },
+  {
+    "index": 342,
+    "history": 5,
+    "family": "30",
+    "task": 6,
+    "seed": 13554599329857055264
+  },
+  {
+    "index": 343,
+    "history": 5,
+    "family": "30",
+    "task": 7,
+    "seed": 4339459484064403729
+  },
+  {
+    "index": 344,
+    "history": 5,
+    "family": "45",
+    "task": 0,
+    "seed": 8081243324950319013
+  },
+  {
+    "index": 345,
+    "history": 5,
+    "family": "45",
+    "task": 1,
+    "seed": 11679242057558716340
+  },
+  {
+    "index": 346,
+    "history": 5,
+    "family": "45",
+    "task": 2,
+    "seed": 17810939036435467187
+  },
+  {
+    "index": 347,
+    "history": 5,
+    "family": "45",
+    "task": 3,
+    "seed": 18442860935021195878
+  },
+  {
+    "index": 348,
+    "history": 5,
+    "family": "45",
+    "task": 4,
+    "seed": 3647730823157443059
+  },
+  {
+    "index": 349,
+    "history": 5,
+    "family": "45",
+    "task": 5,
+    "seed": 9153272406842459323
+  },
+  {
+    "index": 350,
+    "history": 5,
+    "family": "45",
+    "task": 6,
+    "seed": 7676118235993387753
+  },
+  {
+    "index": 351,
+    "history": 5,
+    "family": "45",
+    "task": 7,
+    "seed": 16177800111322823439
+  },
+  {
+    "index": 352,
+    "history": 5,
+    "family": "60",
+    "task": 0,
+    "seed": 15839047827810618292
+  },
+  {
+    "index": 353,
+    "history": 5,
+    "family": "60",
+    "task": 1,
+    "seed": 2369915390279735977
+  },
+  {
+    "index": 354,
+    "history": 5,
+    "family": "60",
+    "task": 2,
+    "seed": 3473461119940403071
+  },
+  {
+    "index": 355,
+    "history": 5,
+    "family": "60",
+    "task": 3,
+    "seed": 3715662274814663662
+  },
+  {
+    "index": 356,
+    "history": 5,
+    "family": "60",
+    "task": 4,
+    "seed": 4636200212001006494
+  },
+  {
+    "index": 357,
+    "history": 5,
+    "family": "60",
+    "task": 5,
+    "seed": 18121926007910065286
+  },
+  {
+    "index": 358,
+    "history": 5,
+    "family": "60",
+    "task": 6,
+    "seed": 17079187042782545735
+  },
+  {
+    "index": 359,
+    "history": 5,
+    "family": "60",
+    "task": 7,
+    "seed": 2762932049303372963
+  },
+  {
+    "index": 360,
+    "history": 5,
+    "family": "75",
+    "task": 0,
+    "seed": 7510494387713653796
+  },
+  {
+    "index": 361,
+    "history": 5,
+    "family": "75",
+    "task": 1,
+    "seed": 13496385971963506341
+  },
+  {
+    "index": 362,
+    "history": 5,
+    "family": "75",
+    "task": 2,
+    "seed": 8348861768699360698
+  },
+  {
+    "index": 363,
+    "history": 5,
+    "family": "75",
+    "task": 3,
+    "seed": 7774645468174970875
+  },
+  {
+    "index": 364,
+    "history": 5,
+    "family": "75",
+    "task": 4,
+    "seed": 5750292357380192381
+  },
+  {
+    "index": 365,
+    "history": 5,
+    "family": "75",
+    "task": 5,
+    "seed": 10982100560318517776
+  },
+  {
+    "index": 366,
+    "history": 5,
+    "family": "75",
+    "task": 6,
+    "seed": 3037165345373410255
+  },
+  {
+    "index": 367,
+    "history": 5,
+    "family": "75",
+    "task": 7,
+    "seed": 11245663797099655872
+  },
+  {
+    "index": 368,
+    "history": 5,
+    "family": "90",
+    "task": 0,
+    "seed": 14374150122167512523
+  },
+  {
+    "index": 369,
+    "history": 5,
+    "family": "90",
+    "task": 1,
+    "seed": 18185845512388555361
+  },
+  {
+    "index": 370,
+    "history": 5,
+    "family": "90",
+    "task": 2,
+    "seed": 1145020508442976397
+  },
+  {
+    "index": 371,
+    "history": 5,
+    "family": "90",
+    "task": 3,
+    "seed": 18204993928299948009
+  },
+  {
+    "index": 372,
+    "history": 5,
+    "family": "90",
+    "task": 4,
+    "seed": 11641296050214804407
+  },
+  {
+    "index": 373,
+    "history": 5,
+    "family": "90",
+    "task": 5,
+    "seed": 5299120600777948086
+  },
+  {
+    "index": 374,
+    "history": 5,
+    "family": "90",
+    "task": 6,
+    "seed": 15290028461354041322
+  },
+  {
+    "index": 375,
+    "history": 5,
+    "family": "90",
+    "task": 7,
+    "seed": 5373423965400587168
+  },
+  {
+    "index": 376,
+    "history": 5,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 12953850334383260989
+  },
+  {
+    "index": 377,
+    "history": 5,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 2620280342926033231
+  },
+  {
+    "index": 378,
+    "history": 5,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 11290019474602219819
+  },
+  {
+    "index": 379,
+    "history": 5,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 11636307762702449591
+  },
+  {
+    "index": 380,
+    "history": 5,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 17633347584996368831
+  },
+  {
+    "index": 381,
+    "history": 5,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 3546991541439646023
+  },
+  {
+    "index": 382,
+    "history": 5,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 13033168927456401307
+  },
+  {
+    "index": 383,
+    "history": 5,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 335597943053158541
+  },
+  {
+    "index": 384,
+    "history": 6,
+    "family": "0",
+    "task": 0,
+    "seed": 12908948508493741773
+  },
+  {
+    "index": 385,
+    "history": 6,
+    "family": "0",
+    "task": 1,
+    "seed": 2839477234764655854
+  },
+  {
+    "index": 386,
+    "history": 6,
+    "family": "0",
+    "task": 2,
+    "seed": 598424896634149927
+  },
+  {
+    "index": 387,
+    "history": 6,
+    "family": "0",
+    "task": 3,
+    "seed": 16627117434085549945
+  },
+  {
+    "index": 388,
+    "history": 6,
+    "family": "0",
+    "task": 4,
+    "seed": 1340796386009007841
+  },
+  {
+    "index": 389,
+    "history": 6,
+    "family": "0",
+    "task": 5,
+    "seed": 8871480469888457804
+  },
+  {
+    "index": 390,
+    "history": 6,
+    "family": "0",
+    "task": 6,
+    "seed": 14849981326839435125
+  },
+  {
+    "index": 391,
+    "history": 6,
+    "family": "0",
+    "task": 7,
+    "seed": 9682814027383664742
+  },
+  {
+    "index": 392,
+    "history": 6,
+    "family": "15",
+    "task": 0,
+    "seed": 15538461161297872881
+  },
+  {
+    "index": 393,
+    "history": 6,
+    "family": "15",
+    "task": 1,
+    "seed": 6599244206908662106
+  },
+  {
+    "index": 394,
+    "history": 6,
+    "family": "15",
+    "task": 2,
+    "seed": 12915247369384998602
+  },
+  {
+    "index": 395,
+    "history": 6,
+    "family": "15",
+    "task": 3,
+    "seed": 8085087699894810082
+  },
+  {
+    "index": 396,
+    "history": 6,
+    "family": "15",
+    "task": 4,
+    "seed": 7009139680008988412
+  },
+  {
+    "index": 397,
+    "history": 6,
+    "family": "15",
+    "task": 5,
+    "seed": 9129186721290015681
+  },
+  {
+    "index": 398,
+    "history": 6,
+    "family": "15",
+    "task": 6,
+    "seed": 12160953333168851696
+  },
+  {
+    "index": 399,
+    "history": 6,
+    "family": "15",
+    "task": 7,
+    "seed": 9338803779724767775
+  },
+  {
+    "index": 400,
+    "history": 6,
+    "family": "30",
+    "task": 0,
+    "seed": 16978813546342524161
+  },
+  {
+    "index": 401,
+    "history": 6,
+    "family": "30",
+    "task": 1,
+    "seed": 13468088175019934687
+  },
+  {
+    "index": 402,
+    "history": 6,
+    "family": "30",
+    "task": 2,
+    "seed": 1105609010743362355
+  },
+  {
+    "index": 403,
+    "history": 6,
+    "family": "30",
+    "task": 3,
+    "seed": 14186887110557479685
+  },
+  {
+    "index": 404,
+    "history": 6,
+    "family": "30",
+    "task": 4,
+    "seed": 1831850625884901114
+  },
+  {
+    "index": 405,
+    "history": 6,
+    "family": "30",
+    "task": 5,
+    "seed": 12125250647856972143
+  },
+  {
+    "index": 406,
+    "history": 6,
+    "family": "30",
+    "task": 6,
+    "seed": 3492200402118562913
+  },
+  {
+    "index": 407,
+    "history": 6,
+    "family": "30",
+    "task": 7,
+    "seed": 1600762707511031383
+  },
+  {
+    "index": 408,
+    "history": 6,
+    "family": "45",
+    "task": 0,
+    "seed": 16956222283439225040
+  },
+  {
+    "index": 409,
+    "history": 6,
+    "family": "45",
+    "task": 1,
+    "seed": 6760650517412677128
+  },
+  {
+    "index": 410,
+    "history": 6,
+    "family": "45",
+    "task": 2,
+    "seed": 8782857566448368038
+  },
+  {
+    "index": 411,
+    "history": 6,
+    "family": "45",
+    "task": 3,
+    "seed": 3683588092248017617
+  },
+  {
+    "index": 412,
+    "history": 6,
+    "family": "45",
+    "task": 4,
+    "seed": 9295993451224973812
+  },
+  {
+    "index": 413,
+    "history": 6,
+    "family": "45",
+    "task": 5,
+    "seed": 18049179466743340685
+  },
+  {
+    "index": 414,
+    "history": 6,
+    "family": "45",
+    "task": 6,
+    "seed": 18180170799755758132
+  },
+  {
+    "index": 415,
+    "history": 6,
+    "family": "45",
+    "task": 7,
+    "seed": 4824293218504444324
+  },
+  {
+    "index": 416,
+    "history": 6,
+    "family": "60",
+    "task": 0,
+    "seed": 1876236766374091244
+  },
+  {
+    "index": 417,
+    "history": 6,
+    "family": "60",
+    "task": 1,
+    "seed": 15300555770607092115
+  },
+  {
+    "index": 418,
+    "history": 6,
+    "family": "60",
+    "task": 2,
+    "seed": 11540393668334723828
+  },
+  {
+    "index": 419,
+    "history": 6,
+    "family": "60",
+    "task": 3,
+    "seed": 4514075922150367318
+  },
+  {
+    "index": 420,
+    "history": 6,
+    "family": "60",
+    "task": 4,
+    "seed": 14979729198888393703
+  },
+  {
+    "index": 421,
+    "history": 6,
+    "family": "60",
+    "task": 5,
+    "seed": 4629114397492605735
+  },
+  {
+    "index": 422,
+    "history": 6,
+    "family": "60",
+    "task": 6,
+    "seed": 17370089930227785420
+  },
+  {
+    "index": 423,
+    "history": 6,
+    "family": "60",
+    "task": 7,
+    "seed": 1573074954722881828
+  },
+  {
+    "index": 424,
+    "history": 6,
+    "family": "75",
+    "task": 0,
+    "seed": 8977899552102437553
+  },
+  {
+    "index": 425,
+    "history": 6,
+    "family": "75",
+    "task": 1,
+    "seed": 14338075690959554840
+  },
+  {
+    "index": 426,
+    "history": 6,
+    "family": "75",
+    "task": 2,
+    "seed": 16706188441944699832
+  },
+  {
+    "index": 427,
+    "history": 6,
+    "family": "75",
+    "task": 3,
+    "seed": 11058530464779903826
+  },
+  {
+    "index": 428,
+    "history": 6,
+    "family": "75",
+    "task": 4,
+    "seed": 8889913963311007882
+  },
+  {
+    "index": 429,
+    "history": 6,
+    "family": "75",
+    "task": 5,
+    "seed": 5788220839654253903
+  },
+  {
+    "index": 430,
+    "history": 6,
+    "family": "75",
+    "task": 6,
+    "seed": 8611063490488721074
+  },
+  {
+    "index": 431,
+    "history": 6,
+    "family": "75",
+    "task": 7,
+    "seed": 2654802967078342126
+  },
+  {
+    "index": 432,
+    "history": 6,
+    "family": "90",
+    "task": 0,
+    "seed": 4480119200108441540
+  },
+  {
+    "index": 433,
+    "history": 6,
+    "family": "90",
+    "task": 1,
+    "seed": 13272514413316882828
+  },
+  {
+    "index": 434,
+    "history": 6,
+    "family": "90",
+    "task": 2,
+    "seed": 7881590055905118328
+  },
+  {
+    "index": 435,
+    "history": 6,
+    "family": "90",
+    "task": 3,
+    "seed": 16277111539321631300
+  },
+  {
+    "index": 436,
+    "history": 6,
+    "family": "90",
+    "task": 4,
+    "seed": 12070290678009554038
+  },
+  {
+    "index": 437,
+    "history": 6,
+    "family": "90",
+    "task": 5,
+    "seed": 7398904450772076971
+  },
+  {
+    "index": 438,
+    "history": 6,
+    "family": "90",
+    "task": 6,
+    "seed": 6146437793218424824
+  },
+  {
+    "index": 439,
+    "history": 6,
+    "family": "90",
+    "task": 7,
+    "seed": 9956081861563002059
+  },
+  {
+    "index": 440,
+    "history": 6,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 12884207916231291750
+  },
+  {
+    "index": 441,
+    "history": 6,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 11551599352869977488
+  },
+  {
+    "index": 442,
+    "history": 6,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 4206095098824521677
+  },
+  {
+    "index": 443,
+    "history": 6,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 12198123001446326319
+  },
+  {
+    "index": 444,
+    "history": 6,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 17117448357660776659
+  },
+  {
+    "index": 445,
+    "history": 6,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 922815377282346604
+  },
+  {
+    "index": 446,
+    "history": 6,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 6600820367403066310
+  },
+  {
+    "index": 447,
+    "history": 6,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 219929694784819918
+  },
+  {
+    "index": 448,
+    "history": 7,
+    "family": "0",
+    "task": 0,
+    "seed": 12280241829851934131
+  },
+  {
+    "index": 449,
+    "history": 7,
+    "family": "0",
+    "task": 1,
+    "seed": 13982349869088280550
+  },
+  {
+    "index": 450,
+    "history": 7,
+    "family": "0",
+    "task": 2,
+    "seed": 9148439966880323155
+  },
+  {
+    "index": 451,
+    "history": 7,
+    "family": "0",
+    "task": 3,
+    "seed": 581076952109117685
+  },
+  {
+    "index": 452,
+    "history": 7,
+    "family": "0",
+    "task": 4,
+    "seed": 175120453578980911
+  },
+  {
+    "index": 453,
+    "history": 7,
+    "family": "0",
+    "task": 5,
+    "seed": 13120098762520826332
+  },
+  {
+    "index": 454,
+    "history": 7,
+    "family": "0",
+    "task": 6,
+    "seed": 6995878090913042100
+  },
+  {
+    "index": 455,
+    "history": 7,
+    "family": "0",
+    "task": 7,
+    "seed": 1831688656294037135
+  },
+  {
+    "index": 456,
+    "history": 7,
+    "family": "15",
+    "task": 0,
+    "seed": 3034156821848388211
+  },
+  {
+    "index": 457,
+    "history": 7,
+    "family": "15",
+    "task": 1,
+    "seed": 9383362706492280585
+  },
+  {
+    "index": 458,
+    "history": 7,
+    "family": "15",
+    "task": 2,
+    "seed": 779651325073972302
+  },
+  {
+    "index": 459,
+    "history": 7,
+    "family": "15",
+    "task": 3,
+    "seed": 5965347337116331180
+  },
+  {
+    "index": 460,
+    "history": 7,
+    "family": "15",
+    "task": 4,
+    "seed": 10001281134894009872
+  },
+  {
+    "index": 461,
+    "history": 7,
+    "family": "15",
+    "task": 5,
+    "seed": 5558985732542792318
+  },
+  {
+    "index": 462,
+    "history": 7,
+    "family": "15",
+    "task": 6,
+    "seed": 5727795364362543776
+  },
+  {
+    "index": 463,
+    "history": 7,
+    "family": "15",
+    "task": 7,
+    "seed": 10301979376104339036
+  },
+  {
+    "index": 464,
+    "history": 7,
+    "family": "30",
+    "task": 0,
+    "seed": 9561560525471944466
+  },
+  {
+    "index": 465,
+    "history": 7,
+    "family": "30",
+    "task": 1,
+    "seed": 14601520207136333695
+  },
+  {
+    "index": 466,
+    "history": 7,
+    "family": "30",
+    "task": 2,
+    "seed": 17060925708852404426
+  },
+  {
+    "index": 467,
+    "history": 7,
+    "family": "30",
+    "task": 3,
+    "seed": 9923321243480675086
+  },
+  {
+    "index": 468,
+    "history": 7,
+    "family": "30",
+    "task": 4,
+    "seed": 10332559868085787571
+  },
+  {
+    "index": 469,
+    "history": 7,
+    "family": "30",
+    "task": 5,
+    "seed": 6291660686562214772
+  },
+  {
+    "index": 470,
+    "history": 7,
+    "family": "30",
+    "task": 6,
+    "seed": 16436733186089021735
+  },
+  {
+    "index": 471,
+    "history": 7,
+    "family": "30",
+    "task": 7,
+    "seed": 12167622135746126714
+  },
+  {
+    "index": 472,
+    "history": 7,
+    "family": "45",
+    "task": 0,
+    "seed": 11163826381699230058
+  },
+  {
+    "index": 473,
+    "history": 7,
+    "family": "45",
+    "task": 1,
+    "seed": 9057587953269231362
+  },
+  {
+    "index": 474,
+    "history": 7,
+    "family": "45",
+    "task": 2,
+    "seed": 689724522476373091
+  },
+  {
+    "index": 475,
+    "history": 7,
+    "family": "45",
+    "task": 3,
+    "seed": 14742686857516087909
+  },
+  {
+    "index": 476,
+    "history": 7,
+    "family": "45",
+    "task": 4,
+    "seed": 10111708573832277985
+  },
+  {
+    "index": 477,
+    "history": 7,
+    "family": "45",
+    "task": 5,
+    "seed": 14584427790738275054
+  },
+  {
+    "index": 478,
+    "history": 7,
+    "family": "45",
+    "task": 6,
+    "seed": 12048400859705183033
+  },
+  {
+    "index": 479,
+    "history": 7,
+    "family": "45",
+    "task": 7,
+    "seed": 7485229977908295186
+  },
+  {
+    "index": 480,
+    "history": 7,
+    "family": "60",
+    "task": 0,
+    "seed": 15516359145875633485
+  },
+  {
+    "index": 481,
+    "history": 7,
+    "family": "60",
+    "task": 1,
+    "seed": 8874029936084496150
+  },
+  {
+    "index": 482,
+    "history": 7,
+    "family": "60",
+    "task": 2,
+    "seed": 9071001257200611868
+  },
+  {
+    "index": 483,
+    "history": 7,
+    "family": "60",
+    "task": 3,
+    "seed": 13162293453202722948
+  },
+  {
+    "index": 484,
+    "history": 7,
+    "family": "60",
+    "task": 4,
+    "seed": 8274620078812462676
+  },
+  {
+    "index": 485,
+    "history": 7,
+    "family": "60",
+    "task": 5,
+    "seed": 10692507757586781961
+  },
+  {
+    "index": 486,
+    "history": 7,
+    "family": "60",
+    "task": 6,
+    "seed": 14193867771615591314
+  },
+  {
+    "index": 487,
+    "history": 7,
+    "family": "60",
+    "task": 7,
+    "seed": 3580396803062771866
+  },
+  {
+    "index": 488,
+    "history": 7,
+    "family": "75",
+    "task": 0,
+    "seed": 3538952781789927346
+  },
+  {
+    "index": 489,
+    "history": 7,
+    "family": "75",
+    "task": 1,
+    "seed": 14016870390082549213
+  },
+  {
+    "index": 490,
+    "history": 7,
+    "family": "75",
+    "task": 2,
+    "seed": 17599546025168311245
+  },
+  {
+    "index": 491,
+    "history": 7,
+    "family": "75",
+    "task": 3,
+    "seed": 7877948421918189495
+  },
+  {
+    "index": 492,
+    "history": 7,
+    "family": "75",
+    "task": 4,
+    "seed": 18408786786729302404
+  },
+  {
+    "index": 493,
+    "history": 7,
+    "family": "75",
+    "task": 5,
+    "seed": 2268753178837904103
+  },
+  {
+    "index": 494,
+    "history": 7,
+    "family": "75",
+    "task": 6,
+    "seed": 5417563078517250363
+  },
+  {
+    "index": 495,
+    "history": 7,
+    "family": "75",
+    "task": 7,
+    "seed": 2514117516757825532
+  },
+  {
+    "index": 496,
+    "history": 7,
+    "family": "90",
+    "task": 0,
+    "seed": 11238833052593789797
+  },
+  {
+    "index": 497,
+    "history": 7,
+    "family": "90",
+    "task": 1,
+    "seed": 15793319905688620718
+  },
+  {
+    "index": 498,
+    "history": 7,
+    "family": "90",
+    "task": 2,
+    "seed": 7640026771940736119
+  },
+  {
+    "index": 499,
+    "history": 7,
+    "family": "90",
+    "task": 3,
+    "seed": 1173203107568509951
+  },
+  {
+    "index": 500,
+    "history": 7,
+    "family": "90",
+    "task": 4,
+    "seed": 11283848978610474221
+  },
+  {
+    "index": 501,
+    "history": 7,
+    "family": "90",
+    "task": 5,
+    "seed": 12740760590049968633
+  },
+  {
+    "index": 502,
+    "history": 7,
+    "family": "90",
+    "task": 6,
+    "seed": 1561654271262942338
+  },
+  {
+    "index": 503,
+    "history": 7,
+    "family": "90",
+    "task": 7,
+    "seed": 9705108522743973499
+  },
+  {
+    "index": 504,
+    "history": 7,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 5088166173357946538
+  },
+  {
+    "index": 505,
+    "history": 7,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 15499864982967416313
+  },
+  {
+    "index": 506,
+    "history": 7,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 13097078395975855820
+  },
+  {
+    "index": 507,
+    "history": 7,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 480729121625195734
+  },
+  {
+    "index": 508,
+    "history": 7,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 6505635371005291414
+  },
+  {
+    "index": 509,
+    "history": 7,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 7053392683073921386
+  },
+  {
+    "index": 510,
+    "history": 7,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 15432887324439884826
+  },
+  {
+    "index": 511,
+    "history": 7,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 13930132345348308369
+  },
+  {
+    "index": 512,
+    "history": 8,
+    "family": "0",
+    "task": 0,
+    "seed": 5237729243921611805
+  },
+  {
+    "index": 513,
+    "history": 8,
+    "family": "0",
+    "task": 1,
+    "seed": 152982283915159060
+  },
+  {
+    "index": 514,
+    "history": 8,
+    "family": "0",
+    "task": 2,
+    "seed": 4710730169477183741
+  },
+  {
+    "index": 515,
+    "history": 8,
+    "family": "0",
+    "task": 3,
+    "seed": 13386081820934520829
+  },
+  {
+    "index": 516,
+    "history": 8,
+    "family": "0",
+    "task": 4,
+    "seed": 3722617436964530628
+  },
+  {
+    "index": 517,
+    "history": 8,
+    "family": "0",
+    "task": 5,
+    "seed": 3068040618421054468
+  },
+  {
+    "index": 518,
+    "history": 8,
+    "family": "0",
+    "task": 6,
+    "seed": 7430355351818581712
+  },
+  {
+    "index": 519,
+    "history": 8,
+    "family": "0",
+    "task": 7,
+    "seed": 4947174641225275442
+  },
+  {
+    "index": 520,
+    "history": 8,
+    "family": "15",
+    "task": 0,
+    "seed": 4902193238713964720
+  },
+  {
+    "index": 521,
+    "history": 8,
+    "family": "15",
+    "task": 1,
+    "seed": 4820852371599763971
+  },
+  {
+    "index": 522,
+    "history": 8,
+    "family": "15",
+    "task": 2,
+    "seed": 10167697221404197826
+  },
+  {
+    "index": 523,
+    "history": 8,
+    "family": "15",
+    "task": 3,
+    "seed": 2547557403098985888
+  },
+  {
+    "index": 524,
+    "history": 8,
+    "family": "15",
+    "task": 4,
+    "seed": 12727514955508615804
+  },
+  {
+    "index": 525,
+    "history": 8,
+    "family": "15",
+    "task": 5,
+    "seed": 12766766366011117529
+  },
+  {
+    "index": 526,
+    "history": 8,
+    "family": "15",
+    "task": 6,
+    "seed": 7147951582248330395
+  },
+  {
+    "index": 527,
+    "history": 8,
+    "family": "15",
+    "task": 7,
+    "seed": 4550285514753157581
+  },
+  {
+    "index": 528,
+    "history": 8,
+    "family": "30",
+    "task": 0,
+    "seed": 5881712220891243184
+  },
+  {
+    "index": 529,
+    "history": 8,
+    "family": "30",
+    "task": 1,
+    "seed": 15974311303873401724
+  },
+  {
+    "index": 530,
+    "history": 8,
+    "family": "30",
+    "task": 2,
+    "seed": 16785769190656584125
+  },
+  {
+    "index": 531,
+    "history": 8,
+    "family": "30",
+    "task": 3,
+    "seed": 33387040741028779
+  },
+  {
+    "index": 532,
+    "history": 8,
+    "family": "30",
+    "task": 4,
+    "seed": 12334026686021803885
+  },
+  {
+    "index": 533,
+    "history": 8,
+    "family": "30",
+    "task": 5,
+    "seed": 14818377001523976937
+  },
+  {
+    "index": 534,
+    "history": 8,
+    "family": "30",
+    "task": 6,
+    "seed": 2758907390051107215
+  },
+  {
+    "index": 535,
+    "history": 8,
+    "family": "30",
+    "task": 7,
+    "seed": 8455980712835344538
+  },
+  {
+    "index": 536,
+    "history": 8,
+    "family": "45",
+    "task": 0,
+    "seed": 8542115056737050618
+  },
+  {
+    "index": 537,
+    "history": 8,
+    "family": "45",
+    "task": 1,
+    "seed": 5862602346125278037
+  },
+  {
+    "index": 538,
+    "history": 8,
+    "family": "45",
+    "task": 2,
+    "seed": 16075344502643963959
+  },
+  {
+    "index": 539,
+    "history": 8,
+    "family": "45",
+    "task": 3,
+    "seed": 7972060331636131318
+  },
+  {
+    "index": 540,
+    "history": 8,
+    "family": "45",
+    "task": 4,
+    "seed": 3489730102436821964
+  },
+  {
+    "index": 541,
+    "history": 8,
+    "family": "45",
+    "task": 5,
+    "seed": 1206528606264298270
+  },
+  {
+    "index": 542,
+    "history": 8,
+    "family": "45",
+    "task": 6,
+    "seed": 13928631695569019340
+  },
+  {
+    "index": 543,
+    "history": 8,
+    "family": "45",
+    "task": 7,
+    "seed": 622362708321156577
+  },
+  {
+    "index": 544,
+    "history": 8,
+    "family": "60",
+    "task": 0,
+    "seed": 7568913731385854327
+  },
+  {
+    "index": 545,
+    "history": 8,
+    "family": "60",
+    "task": 1,
+    "seed": 14719833466412190612
+  },
+  {
+    "index": 546,
+    "history": 8,
+    "family": "60",
+    "task": 2,
+    "seed": 7912841259554533023
+  },
+  {
+    "index": 547,
+    "history": 8,
+    "family": "60",
+    "task": 3,
+    "seed": 8212767374893549995
+  },
+  {
+    "index": 548,
+    "history": 8,
+    "family": "60",
+    "task": 4,
+    "seed": 17011744469986603999
+  },
+  {
+    "index": 549,
+    "history": 8,
+    "family": "60",
+    "task": 5,
+    "seed": 2898140189456665095
+  },
+  {
+    "index": 550,
+    "history": 8,
+    "family": "60",
+    "task": 6,
+    "seed": 7366713748863880997
+  },
+  {
+    "index": 551,
+    "history": 8,
+    "family": "60",
+    "task": 7,
+    "seed": 10234319396478443347
+  },
+  {
+    "index": 552,
+    "history": 8,
+    "family": "75",
+    "task": 0,
+    "seed": 13357697499632268486
+  },
+  {
+    "index": 553,
+    "history": 8,
+    "family": "75",
+    "task": 1,
+    "seed": 3473567960503022885
+  },
+  {
+    "index": 554,
+    "history": 8,
+    "family": "75",
+    "task": 2,
+    "seed": 7196303094853231533
+  },
+  {
+    "index": 555,
+    "history": 8,
+    "family": "75",
+    "task": 3,
+    "seed": 14328733584272999344
+  },
+  {
+    "index": 556,
+    "history": 8,
+    "family": "75",
+    "task": 4,
+    "seed": 16919238003649626909
+  },
+  {
+    "index": 557,
+    "history": 8,
+    "family": "75",
+    "task": 5,
+    "seed": 13765220337116852622
+  },
+  {
+    "index": 558,
+    "history": 8,
+    "family": "75",
+    "task": 6,
+    "seed": 5998203438272383266
+  },
+  {
+    "index": 559,
+    "history": 8,
+    "family": "75",
+    "task": 7,
+    "seed": 9348568220895728740
+  },
+  {
+    "index": 560,
+    "history": 8,
+    "family": "90",
+    "task": 0,
+    "seed": 8969713777481953316
+  },
+  {
+    "index": 561,
+    "history": 8,
+    "family": "90",
+    "task": 1,
+    "seed": 17377046391362228960
+  },
+  {
+    "index": 562,
+    "history": 8,
+    "family": "90",
+    "task": 2,
+    "seed": 11281873383285883295
+  },
+  {
+    "index": 563,
+    "history": 8,
+    "family": "90",
+    "task": 3,
+    "seed": 16972054373116925536
+  },
+  {
+    "index": 564,
+    "history": 8,
+    "family": "90",
+    "task": 4,
+    "seed": 16024905071216901941
+  },
+  {
+    "index": 565,
+    "history": 8,
+    "family": "90",
+    "task": 5,
+    "seed": 8648534024609218787
+  },
+  {
+    "index": 566,
+    "history": 8,
+    "family": "90",
+    "task": 6,
+    "seed": 16679218180496636015
+  },
+  {
+    "index": 567,
+    "history": 8,
+    "family": "90",
+    "task": 7,
+    "seed": 13692216341282665174
+  },
+  {
+    "index": 568,
+    "history": 8,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 14949234594699389049
+  },
+  {
+    "index": 569,
+    "history": 8,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 14937897144774157015
+  },
+  {
+    "index": 570,
+    "history": 8,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 11484279491550278136
+  },
+  {
+    "index": 571,
+    "history": 8,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 17328382454385222416
+  },
+  {
+    "index": 572,
+    "history": 8,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 15564945635738394958
+  },
+  {
+    "index": 573,
+    "history": 8,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 5295825778585010258
+  },
+  {
+    "index": 574,
+    "history": 8,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 18240300648291520649
+  },
+  {
+    "index": 575,
+    "history": 8,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 6689172276983431474
+  },
+  {
+    "index": 576,
+    "history": 9,
+    "family": "0",
+    "task": 0,
+    "seed": 4486156360976544591
+  },
+  {
+    "index": 577,
+    "history": 9,
+    "family": "0",
+    "task": 1,
+    "seed": 17844254546795897605
+  },
+  {
+    "index": 578,
+    "history": 9,
+    "family": "0",
+    "task": 2,
+    "seed": 9829659296954804468
+  },
+  {
+    "index": 579,
+    "history": 9,
+    "family": "0",
+    "task": 3,
+    "seed": 13714211137609151937
+  },
+  {
+    "index": 580,
+    "history": 9,
+    "family": "0",
+    "task": 4,
+    "seed": 10307459398998019642
+  },
+  {
+    "index": 581,
+    "history": 9,
+    "family": "0",
+    "task": 5,
+    "seed": 2217508403311597795
+  },
+  {
+    "index": 582,
+    "history": 9,
+    "family": "0",
+    "task": 6,
+    "seed": 5171756578081930613
+  },
+  {
+    "index": 583,
+    "history": 9,
+    "family": "0",
+    "task": 7,
+    "seed": 7665605270475084513
+  },
+  {
+    "index": 584,
+    "history": 9,
+    "family": "15",
+    "task": 0,
+    "seed": 15497584211329722752
+  },
+  {
+    "index": 585,
+    "history": 9,
+    "family": "15",
+    "task": 1,
+    "seed": 9472716103163481427
+  },
+  {
+    "index": 586,
+    "history": 9,
+    "family": "15",
+    "task": 2,
+    "seed": 10791648968154944314
+  },
+  {
+    "index": 587,
+    "history": 9,
+    "family": "15",
+    "task": 3,
+    "seed": 4407035043031961040
+  },
+  {
+    "index": 588,
+    "history": 9,
+    "family": "15",
+    "task": 4,
+    "seed": 6852379098841149142
+  },
+  {
+    "index": 589,
+    "history": 9,
+    "family": "15",
+    "task": 5,
+    "seed": 8767395908998493150
+  },
+  {
+    "index": 590,
+    "history": 9,
+    "family": "15",
+    "task": 6,
+    "seed": 11228579323968999046
+  },
+  {
+    "index": 591,
+    "history": 9,
+    "family": "15",
+    "task": 7,
+    "seed": 5703313092294940392
+  },
+  {
+    "index": 592,
+    "history": 9,
+    "family": "30",
+    "task": 0,
+    "seed": 13166344084723729227
+  },
+  {
+    "index": 593,
+    "history": 9,
+    "family": "30",
+    "task": 1,
+    "seed": 2800479832770274916
+  },
+  {
+    "index": 594,
+    "history": 9,
+    "family": "30",
+    "task": 2,
+    "seed": 445939949362379160
+  },
+  {
+    "index": 595,
+    "history": 9,
+    "family": "30",
+    "task": 3,
+    "seed": 2464122955285905472
+  },
+  {
+    "index": 596,
+    "history": 9,
+    "family": "30",
+    "task": 4,
+    "seed": 5552162303312691308
+  },
+  {
+    "index": 597,
+    "history": 9,
+    "family": "30",
+    "task": 5,
+    "seed": 2157635004637806700
+  },
+  {
+    "index": 598,
+    "history": 9,
+    "family": "30",
+    "task": 6,
+    "seed": 10903509577702723713
+  },
+  {
+    "index": 599,
+    "history": 9,
+    "family": "30",
+    "task": 7,
+    "seed": 8462321561905442751
+  },
+  {
+    "index": 600,
+    "history": 9,
+    "family": "45",
+    "task": 0,
+    "seed": 8971354525478195625
+  },
+  {
+    "index": 601,
+    "history": 9,
+    "family": "45",
+    "task": 1,
+    "seed": 4246925155810419985
+  },
+  {
+    "index": 602,
+    "history": 9,
+    "family": "45",
+    "task": 2,
+    "seed": 6256978144726050102
+  },
+  {
+    "index": 603,
+    "history": 9,
+    "family": "45",
+    "task": 3,
+    "seed": 426490959638051568
+  },
+  {
+    "index": 604,
+    "history": 9,
+    "family": "45",
+    "task": 4,
+    "seed": 1683710837578725951
+  },
+  {
+    "index": 605,
+    "history": 9,
+    "family": "45",
+    "task": 5,
+    "seed": 12113483771428786264
+  },
+  {
+    "index": 606,
+    "history": 9,
+    "family": "45",
+    "task": 6,
+    "seed": 1635204270142093393
+  },
+  {
+    "index": 607,
+    "history": 9,
+    "family": "45",
+    "task": 7,
+    "seed": 11558966793292409410
+  },
+  {
+    "index": 608,
+    "history": 9,
+    "family": "60",
+    "task": 0,
+    "seed": 9910572853834119805
+  },
+  {
+    "index": 609,
+    "history": 9,
+    "family": "60",
+    "task": 1,
+    "seed": 12106149874342846310
+  },
+  {
+    "index": 610,
+    "history": 9,
+    "family": "60",
+    "task": 2,
+    "seed": 16556777438323317935
+  },
+  {
+    "index": 611,
+    "history": 9,
+    "family": "60",
+    "task": 3,
+    "seed": 13696126407003981627
+  },
+  {
+    "index": 612,
+    "history": 9,
+    "family": "60",
+    "task": 4,
+    "seed": 17844947534326194442
+  },
+  {
+    "index": 613,
+    "history": 9,
+    "family": "60",
+    "task": 5,
+    "seed": 11002314966639295198
+  },
+  {
+    "index": 614,
+    "history": 9,
+    "family": "60",
+    "task": 6,
+    "seed": 293415062288580959
+  },
+  {
+    "index": 615,
+    "history": 9,
+    "family": "60",
+    "task": 7,
+    "seed": 908627486537963550
+  },
+  {
+    "index": 616,
+    "history": 9,
+    "family": "75",
+    "task": 0,
+    "seed": 7624382447833888725
+  },
+  {
+    "index": 617,
+    "history": 9,
+    "family": "75",
+    "task": 1,
+    "seed": 9266116267486887047
+  },
+  {
+    "index": 618,
+    "history": 9,
+    "family": "75",
+    "task": 2,
+    "seed": 5927206000612994586
+  },
+  {
+    "index": 619,
+    "history": 9,
+    "family": "75",
+    "task": 3,
+    "seed": 17373264079874227765
+  },
+  {
+    "index": 620,
+    "history": 9,
+    "family": "75",
+    "task": 4,
+    "seed": 12338595458435848460
+  },
+  {
+    "index": 621,
+    "history": 9,
+    "family": "75",
+    "task": 5,
+    "seed": 86451034125890834
+  },
+  {
+    "index": 622,
+    "history": 9,
+    "family": "75",
+    "task": 6,
+    "seed": 14390688371829657545
+  },
+  {
+    "index": 623,
+    "history": 9,
+    "family": "75",
+    "task": 7,
+    "seed": 18352191550232425222
+  },
+  {
+    "index": 624,
+    "history": 9,
+    "family": "90",
+    "task": 0,
+    "seed": 5613948940576086090
+  },
+  {
+    "index": 625,
+    "history": 9,
+    "family": "90",
+    "task": 1,
+    "seed": 3522962059986436430
+  },
+  {
+    "index": 626,
+    "history": 9,
+    "family": "90",
+    "task": 2,
+    "seed": 12745971051608389699
+  },
+  {
+    "index": 627,
+    "history": 9,
+    "family": "90",
+    "task": 3,
+    "seed": 6776771838144290532
+  },
+  {
+    "index": 628,
+    "history": 9,
+    "family": "90",
+    "task": 4,
+    "seed": 12496224434254110628
+  },
+  {
+    "index": 629,
+    "history": 9,
+    "family": "90",
+    "task": 5,
+    "seed": 16593254912802734705
+  },
+  {
+    "index": 630,
+    "history": 9,
+    "family": "90",
+    "task": 6,
+    "seed": 2076216800980492026
+  },
+  {
+    "index": 631,
+    "history": 9,
+    "family": "90",
+    "task": 7,
+    "seed": 6493987490871998640
+  },
+  {
+    "index": 632,
+    "history": 9,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 3532090620947702530
+  },
+  {
+    "index": 633,
+    "history": 9,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 6877707601099683016
+  },
+  {
+    "index": 634,
+    "history": 9,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 5039718089798477450
+  },
+  {
+    "index": 635,
+    "history": 9,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 15464574328445189782
+  },
+  {
+    "index": 636,
+    "history": 9,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 18424787817696637154
+  },
+  {
+    "index": 637,
+    "history": 9,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 13037832316509370583
+  },
+  {
+    "index": 638,
+    "history": 9,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 7590780229767390980
+  },
+  {
+    "index": 639,
+    "history": 9,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 1920110800166208262
+  },
+  {
+    "index": 640,
+    "history": 10,
+    "family": "0",
+    "task": 0,
+    "seed": 7134686048188113937
+  },
+  {
+    "index": 641,
+    "history": 10,
+    "family": "0",
+    "task": 1,
+    "seed": 4712629467899740623
+  },
+  {
+    "index": 642,
+    "history": 10,
+    "family": "0",
+    "task": 2,
+    "seed": 3546882577871014896
+  },
+  {
+    "index": 643,
+    "history": 10,
+    "family": "0",
+    "task": 3,
+    "seed": 2618751733468525236
+  },
+  {
+    "index": 644,
+    "history": 10,
+    "family": "0",
+    "task": 4,
+    "seed": 4106686500780636007
+  },
+  {
+    "index": 645,
+    "history": 10,
+    "family": "0",
+    "task": 5,
+    "seed": 12324723062967167692
+  },
+  {
+    "index": 646,
+    "history": 10,
+    "family": "0",
+    "task": 6,
+    "seed": 5236337851841214103
+  },
+  {
+    "index": 647,
+    "history": 10,
+    "family": "0",
+    "task": 7,
+    "seed": 5295298436993347912
+  },
+  {
+    "index": 648,
+    "history": 10,
+    "family": "15",
+    "task": 0,
+    "seed": 17214735262330670991
+  },
+  {
+    "index": 649,
+    "history": 10,
+    "family": "15",
+    "task": 1,
+    "seed": 13278787371828193850
+  },
+  {
+    "index": 650,
+    "history": 10,
+    "family": "15",
+    "task": 2,
+    "seed": 8646064629837118761
+  },
+  {
+    "index": 651,
+    "history": 10,
+    "family": "15",
+    "task": 3,
+    "seed": 17634479328381643480
+  },
+  {
+    "index": 652,
+    "history": 10,
+    "family": "15",
+    "task": 4,
+    "seed": 3638607266825621515
+  },
+  {
+    "index": 653,
+    "history": 10,
+    "family": "15",
+    "task": 5,
+    "seed": 2356708059181648129
+  },
+  {
+    "index": 654,
+    "history": 10,
+    "family": "15",
+    "task": 6,
+    "seed": 4314910666855939169
+  },
+  {
+    "index": 655,
+    "history": 10,
+    "family": "15",
+    "task": 7,
+    "seed": 3787115365211186706
+  },
+  {
+    "index": 656,
+    "history": 10,
+    "family": "30",
+    "task": 0,
+    "seed": 7087415063081055776
+  },
+  {
+    "index": 657,
+    "history": 10,
+    "family": "30",
+    "task": 1,
+    "seed": 17365269902273496017
+  },
+  {
+    "index": 658,
+    "history": 10,
+    "family": "30",
+    "task": 2,
+    "seed": 16129983387274428060
+  },
+  {
+    "index": 659,
+    "history": 10,
+    "family": "30",
+    "task": 3,
+    "seed": 3497410833399035304
+  },
+  {
+    "index": 660,
+    "history": 10,
+    "family": "30",
+    "task": 4,
+    "seed": 12551555037311461523
+  },
+  {
+    "index": 661,
+    "history": 10,
+    "family": "30",
+    "task": 5,
+    "seed": 4704719673333579076
+  },
+  {
+    "index": 662,
+    "history": 10,
+    "family": "30",
+    "task": 6,
+    "seed": 13021072697659945328
+  },
+  {
+    "index": 663,
+    "history": 10,
+    "family": "30",
+    "task": 7,
+    "seed": 11813812087082770617
+  },
+  {
+    "index": 664,
+    "history": 10,
+    "family": "45",
+    "task": 0,
+    "seed": 4639723791874394498
+  },
+  {
+    "index": 665,
+    "history": 10,
+    "family": "45",
+    "task": 1,
+    "seed": 14968622302428794969
+  },
+  {
+    "index": 666,
+    "history": 10,
+    "family": "45",
+    "task": 2,
+    "seed": 4196334370800118716
+  },
+  {
+    "index": 667,
+    "history": 10,
+    "family": "45",
+    "task": 3,
+    "seed": 2905995855025661577
+  },
+  {
+    "index": 668,
+    "history": 10,
+    "family": "45",
+    "task": 4,
+    "seed": 16636933150669775047
+  },
+  {
+    "index": 669,
+    "history": 10,
+    "family": "45",
+    "task": 5,
+    "seed": 6796944856212618139
+  },
+  {
+    "index": 670,
+    "history": 10,
+    "family": "45",
+    "task": 6,
+    "seed": 15468284153814906344
+  },
+  {
+    "index": 671,
+    "history": 10,
+    "family": "45",
+    "task": 7,
+    "seed": 15657024398492832704
+  },
+  {
+    "index": 672,
+    "history": 10,
+    "family": "60",
+    "task": 0,
+    "seed": 17622217798079674496
+  },
+  {
+    "index": 673,
+    "history": 10,
+    "family": "60",
+    "task": 1,
+    "seed": 10014998832015556264
+  },
+  {
+    "index": 674,
+    "history": 10,
+    "family": "60",
+    "task": 2,
+    "seed": 1693505456831557354
+  },
+  {
+    "index": 675,
+    "history": 10,
+    "family": "60",
+    "task": 3,
+    "seed": 15603333260976619332
+  },
+  {
+    "index": 676,
+    "history": 10,
+    "family": "60",
+    "task": 4,
+    "seed": 12915217733943247330
+  },
+  {
+    "index": 677,
+    "history": 10,
+    "family": "60",
+    "task": 5,
+    "seed": 12362587456664958310
+  },
+  {
+    "index": 678,
+    "history": 10,
+    "family": "60",
+    "task": 6,
+    "seed": 7710129562864857634
+  },
+  {
+    "index": 679,
+    "history": 10,
+    "family": "60",
+    "task": 7,
+    "seed": 12054637149134690635
+  },
+  {
+    "index": 680,
+    "history": 10,
+    "family": "75",
+    "task": 0,
+    "seed": 10236400006076965632
+  },
+  {
+    "index": 681,
+    "history": 10,
+    "family": "75",
+    "task": 1,
+    "seed": 16880053306195614361
+  },
+  {
+    "index": 682,
+    "history": 10,
+    "family": "75",
+    "task": 2,
+    "seed": 4541552102620555941
+  },
+  {
+    "index": 683,
+    "history": 10,
+    "family": "75",
+    "task": 3,
+    "seed": 229413679341130046
+  },
+  {
+    "index": 684,
+    "history": 10,
+    "family": "75",
+    "task": 4,
+    "seed": 4442563749128936098
+  },
+  {
+    "index": 685,
+    "history": 10,
+    "family": "75",
+    "task": 5,
+    "seed": 15035249045714913789
+  },
+  {
+    "index": 686,
+    "history": 10,
+    "family": "75",
+    "task": 6,
+    "seed": 17760552092711340127
+  },
+  {
+    "index": 687,
+    "history": 10,
+    "family": "75",
+    "task": 7,
+    "seed": 15170364777031329975
+  },
+  {
+    "index": 688,
+    "history": 10,
+    "family": "90",
+    "task": 0,
+    "seed": 6213319174612467530
+  },
+  {
+    "index": 689,
+    "history": 10,
+    "family": "90",
+    "task": 1,
+    "seed": 8389127717467660368
+  },
+  {
+    "index": 690,
+    "history": 10,
+    "family": "90",
+    "task": 2,
+    "seed": 4419069199301730508
+  },
+  {
+    "index": 691,
+    "history": 10,
+    "family": "90",
+    "task": 3,
+    "seed": 16312260822899612361
+  },
+  {
+    "index": 692,
+    "history": 10,
+    "family": "90",
+    "task": 4,
+    "seed": 12722749480133707699
+  },
+  {
+    "index": 693,
+    "history": 10,
+    "family": "90",
+    "task": 5,
+    "seed": 17494569329918726952
+  },
+  {
+    "index": 694,
+    "history": 10,
+    "family": "90",
+    "task": 6,
+    "seed": 16813568753802821849
+  },
+  {
+    "index": 695,
+    "history": 10,
+    "family": "90",
+    "task": 7,
+    "seed": 8882668826838556035
+  },
+  {
+    "index": 696,
+    "history": 10,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 8864964389184020833
+  },
+  {
+    "index": 697,
+    "history": 10,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 12901376749051108234
+  },
+  {
+    "index": 698,
+    "history": 10,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 18099491704464083186
+  },
+  {
+    "index": 699,
+    "history": 10,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 7801186231640926417
+  },
+  {
+    "index": 700,
+    "history": 10,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 3108912458950495217
+  },
+  {
+    "index": 701,
+    "history": 10,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 11891504822297509480
+  },
+  {
+    "index": 702,
+    "history": 10,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 13115857343832059501
+  },
+  {
+    "index": 703,
+    "history": 10,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 18432720831045249252
+  },
+  {
+    "index": 704,
+    "history": 11,
+    "family": "0",
+    "task": 0,
+    "seed": 3241563248468155109
+  },
+  {
+    "index": 705,
+    "history": 11,
+    "family": "0",
+    "task": 1,
+    "seed": 9919879013552185708
+  },
+  {
+    "index": 706,
+    "history": 11,
+    "family": "0",
+    "task": 2,
+    "seed": 1522324961133925081
+  },
+  {
+    "index": 707,
+    "history": 11,
+    "family": "0",
+    "task": 3,
+    "seed": 4712430884930709253
+  },
+  {
+    "index": 708,
+    "history": 11,
+    "family": "0",
+    "task": 4,
+    "seed": 11598482004915961021
+  },
+  {
+    "index": 709,
+    "history": 11,
+    "family": "0",
+    "task": 5,
+    "seed": 8321285321691813539
+  },
+  {
+    "index": 710,
+    "history": 11,
+    "family": "0",
+    "task": 6,
+    "seed": 14301508841018787105
+  },
+  {
+    "index": 711,
+    "history": 11,
+    "family": "0",
+    "task": 7,
+    "seed": 664717644310064347
+  },
+  {
+    "index": 712,
+    "history": 11,
+    "family": "15",
+    "task": 0,
+    "seed": 17509311751693678709
+  },
+  {
+    "index": 713,
+    "history": 11,
+    "family": "15",
+    "task": 1,
+    "seed": 4186829289350210605
+  },
+  {
+    "index": 714,
+    "history": 11,
+    "family": "15",
+    "task": 2,
+    "seed": 6067655037307974573
+  },
+  {
+    "index": 715,
+    "history": 11,
+    "family": "15",
+    "task": 3,
+    "seed": 15132244299003513109
+  },
+  {
+    "index": 716,
+    "history": 11,
+    "family": "15",
+    "task": 4,
+    "seed": 14816182516613288717
+  },
+  {
+    "index": 717,
+    "history": 11,
+    "family": "15",
+    "task": 5,
+    "seed": 16247445368580278976
+  },
+  {
+    "index": 718,
+    "history": 11,
+    "family": "15",
+    "task": 6,
+    "seed": 15557146665707568913
+  },
+  {
+    "index": 719,
+    "history": 11,
+    "family": "15",
+    "task": 7,
+    "seed": 17388996300249572795
+  },
+  {
+    "index": 720,
+    "history": 11,
+    "family": "30",
+    "task": 0,
+    "seed": 17074472557782843878
+  },
+  {
+    "index": 721,
+    "history": 11,
+    "family": "30",
+    "task": 1,
+    "seed": 5438912913224024308
+  },
+  {
+    "index": 722,
+    "history": 11,
+    "family": "30",
+    "task": 2,
+    "seed": 10849949524795926845
+  },
+  {
+    "index": 723,
+    "history": 11,
+    "family": "30",
+    "task": 3,
+    "seed": 474194262677497806
+  },
+  {
+    "index": 724,
+    "history": 11,
+    "family": "30",
+    "task": 4,
+    "seed": 7532506395492129145
+  },
+  {
+    "index": 725,
+    "history": 11,
+    "family": "30",
+    "task": 5,
+    "seed": 12901262657748496941
+  },
+  {
+    "index": 726,
+    "history": 11,
+    "family": "30",
+    "task": 6,
+    "seed": 17398949671410797596
+  },
+  {
+    "index": 727,
+    "history": 11,
+    "family": "30",
+    "task": 7,
+    "seed": 3383076826748981319
+  },
+  {
+    "index": 728,
+    "history": 11,
+    "family": "45",
+    "task": 0,
+    "seed": 3896882255103702328
+  },
+  {
+    "index": 729,
+    "history": 11,
+    "family": "45",
+    "task": 1,
+    "seed": 5684803358670828488
+  },
+  {
+    "index": 730,
+    "history": 11,
+    "family": "45",
+    "task": 2,
+    "seed": 16405294852242386302
+  },
+  {
+    "index": 731,
+    "history": 11,
+    "family": "45",
+    "task": 3,
+    "seed": 6416491526674443592
+  },
+  {
+    "index": 732,
+    "history": 11,
+    "family": "45",
+    "task": 4,
+    "seed": 12385500847131765300
+  },
+  {
+    "index": 733,
+    "history": 11,
+    "family": "45",
+    "task": 5,
+    "seed": 3287477609419137685
+  },
+  {
+    "index": 734,
+    "history": 11,
+    "family": "45",
+    "task": 6,
+    "seed": 8656743973562096246
+  },
+  {
+    "index": 735,
+    "history": 11,
+    "family": "45",
+    "task": 7,
+    "seed": 7358402383352240615
+  },
+  {
+    "index": 736,
+    "history": 11,
+    "family": "60",
+    "task": 0,
+    "seed": 14078064921205792672
+  },
+  {
+    "index": 737,
+    "history": 11,
+    "family": "60",
+    "task": 1,
+    "seed": 9974275597143306916
+  },
+  {
+    "index": 738,
+    "history": 11,
+    "family": "60",
+    "task": 2,
+    "seed": 8485747804461770271
+  },
+  {
+    "index": 739,
+    "history": 11,
+    "family": "60",
+    "task": 3,
+    "seed": 7894473344691141883
+  },
+  {
+    "index": 740,
+    "history": 11,
+    "family": "60",
+    "task": 4,
+    "seed": 15952289810805187999
+  },
+  {
+    "index": 741,
+    "history": 11,
+    "family": "60",
+    "task": 5,
+    "seed": 2247819116534532699
+  },
+  {
+    "index": 742,
+    "history": 11,
+    "family": "60",
+    "task": 6,
+    "seed": 17394789741910671713
+  },
+  {
+    "index": 743,
+    "history": 11,
+    "family": "60",
+    "task": 7,
+    "seed": 1832650802861357852
+  },
+  {
+    "index": 744,
+    "history": 11,
+    "family": "75",
+    "task": 0,
+    "seed": 7037988953592798562
+  },
+  {
+    "index": 745,
+    "history": 11,
+    "family": "75",
+    "task": 1,
+    "seed": 530599147368895727
+  },
+  {
+    "index": 746,
+    "history": 11,
+    "family": "75",
+    "task": 2,
+    "seed": 8534598154664928222
+  },
+  {
+    "index": 747,
+    "history": 11,
+    "family": "75",
+    "task": 3,
+    "seed": 7989615385585676826
+  },
+  {
+    "index": 748,
+    "history": 11,
+    "family": "75",
+    "task": 4,
+    "seed": 9534696496059651279
+  },
+  {
+    "index": 749,
+    "history": 11,
+    "family": "75",
+    "task": 5,
+    "seed": 3519684229718418078
+  },
+  {
+    "index": 750,
+    "history": 11,
+    "family": "75",
+    "task": 6,
+    "seed": 2680743879043115725
+  },
+  {
+    "index": 751,
+    "history": 11,
+    "family": "75",
+    "task": 7,
+    "seed": 15500703609288222002
+  },
+  {
+    "index": 752,
+    "history": 11,
+    "family": "90",
+    "task": 0,
+    "seed": 1794966469835052311
+  },
+  {
+    "index": 753,
+    "history": 11,
+    "family": "90",
+    "task": 1,
+    "seed": 15499286721871474474
+  },
+  {
+    "index": 754,
+    "history": 11,
+    "family": "90",
+    "task": 2,
+    "seed": 6703368106653591561
+  },
+  {
+    "index": 755,
+    "history": 11,
+    "family": "90",
+    "task": 3,
+    "seed": 1703693268468996937
+  },
+  {
+    "index": 756,
+    "history": 11,
+    "family": "90",
+    "task": 4,
+    "seed": 11436283659368128010
+  },
+  {
+    "index": 757,
+    "history": 11,
+    "family": "90",
+    "task": 5,
+    "seed": 9875977188660092357
+  },
+  {
+    "index": 758,
+    "history": 11,
+    "family": "90",
+    "task": 6,
+    "seed": 3486590382929969802
+  },
+  {
+    "index": 759,
+    "history": 11,
+    "family": "90",
+    "task": 7,
+    "seed": 7548090642939313238
+  },
+  {
+    "index": 760,
+    "history": 11,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 5148740065941378862
+  },
+  {
+    "index": 761,
+    "history": 11,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 6881292512258140930
+  },
+  {
+    "index": 762,
+    "history": 11,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 6517743778704993740
+  },
+  {
+    "index": 763,
+    "history": 11,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 2969077740767544908
+  },
+  {
+    "index": 764,
+    "history": 11,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 12891936870615673049
+  },
+  {
+    "index": 765,
+    "history": 11,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 5188365775716724256
+  },
+  {
+    "index": 766,
+    "history": 11,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 6737558351242781656
+  },
+  {
+    "index": 767,
+    "history": 11,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 9553037013892457451
+  },
+  {
+    "index": 768,
+    "history": 12,
+    "family": "0",
+    "task": 0,
+    "seed": 821649592271325798
+  },
+  {
+    "index": 769,
+    "history": 12,
+    "family": "0",
+    "task": 1,
+    "seed": 17063953717029690337
+  },
+  {
+    "index": 770,
+    "history": 12,
+    "family": "0",
+    "task": 2,
+    "seed": 16006509952920694142
+  },
+  {
+    "index": 771,
+    "history": 12,
+    "family": "0",
+    "task": 3,
+    "seed": 2421993128092072684
+  },
+  {
+    "index": 772,
+    "history": 12,
+    "family": "0",
+    "task": 4,
+    "seed": 11761801743439846647
+  },
+  {
+    "index": 773,
+    "history": 12,
+    "family": "0",
+    "task": 5,
+    "seed": 15446899916519040011
+  },
+  {
+    "index": 774,
+    "history": 12,
+    "family": "0",
+    "task": 6,
+    "seed": 5680181930429969881
+  },
+  {
+    "index": 775,
+    "history": 12,
+    "family": "0",
+    "task": 7,
+    "seed": 1601744342387417695
+  },
+  {
+    "index": 776,
+    "history": 12,
+    "family": "15",
+    "task": 0,
+    "seed": 17459934539507846455
+  },
+  {
+    "index": 777,
+    "history": 12,
+    "family": "15",
+    "task": 1,
+    "seed": 1466484129542807251
+  },
+  {
+    "index": 778,
+    "history": 12,
+    "family": "15",
+    "task": 2,
+    "seed": 15412993694752946046
+  },
+  {
+    "index": 779,
+    "history": 12,
+    "family": "15",
+    "task": 3,
+    "seed": 17201767787686975151
+  },
+  {
+    "index": 780,
+    "history": 12,
+    "family": "15",
+    "task": 4,
+    "seed": 7960420961566036979
+  },
+  {
+    "index": 781,
+    "history": 12,
+    "family": "15",
+    "task": 5,
+    "seed": 10321195012368757834
+  },
+  {
+    "index": 782,
+    "history": 12,
+    "family": "15",
+    "task": 6,
+    "seed": 10842503872020775354
+  },
+  {
+    "index": 783,
+    "history": 12,
+    "family": "15",
+    "task": 7,
+    "seed": 14437942547678747864
+  },
+  {
+    "index": 784,
+    "history": 12,
+    "family": "30",
+    "task": 0,
+    "seed": 15639500416252574121
+  },
+  {
+    "index": 785,
+    "history": 12,
+    "family": "30",
+    "task": 1,
+    "seed": 753139296924933453
+  },
+  {
+    "index": 786,
+    "history": 12,
+    "family": "30",
+    "task": 2,
+    "seed": 7401140075669676721
+  },
+  {
+    "index": 787,
+    "history": 12,
+    "family": "30",
+    "task": 3,
+    "seed": 12820344297333308412
+  },
+  {
+    "index": 788,
+    "history": 12,
+    "family": "30",
+    "task": 4,
+    "seed": 14278771995540597511
+  },
+  {
+    "index": 789,
+    "history": 12,
+    "family": "30",
+    "task": 5,
+    "seed": 10401208573459347192
+  },
+  {
+    "index": 790,
+    "history": 12,
+    "family": "30",
+    "task": 6,
+    "seed": 18072389726968157546
+  },
+  {
+    "index": 791,
+    "history": 12,
+    "family": "30",
+    "task": 7,
+    "seed": 5300541601732910480
+  },
+  {
+    "index": 792,
+    "history": 12,
+    "family": "45",
+    "task": 0,
+    "seed": 2663155094672548289
+  },
+  {
+    "index": 793,
+    "history": 12,
+    "family": "45",
+    "task": 1,
+    "seed": 17749534545674141830
+  },
+  {
+    "index": 794,
+    "history": 12,
+    "family": "45",
+    "task": 2,
+    "seed": 531718153224566994
+  },
+  {
+    "index": 795,
+    "history": 12,
+    "family": "45",
+    "task": 3,
+    "seed": 12499532805647665441
+  },
+  {
+    "index": 796,
+    "history": 12,
+    "family": "45",
+    "task": 4,
+    "seed": 8673868972011612193
+  },
+  {
+    "index": 797,
+    "history": 12,
+    "family": "45",
+    "task": 5,
+    "seed": 16454678786483693847
+  },
+  {
+    "index": 798,
+    "history": 12,
+    "family": "45",
+    "task": 6,
+    "seed": 12196704098624500201
+  },
+  {
+    "index": 799,
+    "history": 12,
+    "family": "45",
+    "task": 7,
+    "seed": 12206644241232409012
+  },
+  {
+    "index": 800,
+    "history": 12,
+    "family": "60",
+    "task": 0,
+    "seed": 10127127674454655715
+  },
+  {
+    "index": 801,
+    "history": 12,
+    "family": "60",
+    "task": 1,
+    "seed": 11480422469955504847
+  },
+  {
+    "index": 802,
+    "history": 12,
+    "family": "60",
+    "task": 2,
+    "seed": 6178095271535700314
+  },
+  {
+    "index": 803,
+    "history": 12,
+    "family": "60",
+    "task": 3,
+    "seed": 1058185735587518654
+  },
+  {
+    "index": 804,
+    "history": 12,
+    "family": "60",
+    "task": 4,
+    "seed": 9692199098900120716
+  },
+  {
+    "index": 805,
+    "history": 12,
+    "family": "60",
+    "task": 5,
+    "seed": 9273193666008846315
+  },
+  {
+    "index": 806,
+    "history": 12,
+    "family": "60",
+    "task": 6,
+    "seed": 3278930355644698248
+  },
+  {
+    "index": 807,
+    "history": 12,
+    "family": "60",
+    "task": 7,
+    "seed": 2741663913553443660
+  },
+  {
+    "index": 808,
+    "history": 12,
+    "family": "75",
+    "task": 0,
+    "seed": 11515552193639260982
+  },
+  {
+    "index": 809,
+    "history": 12,
+    "family": "75",
+    "task": 1,
+    "seed": 1453734687241939834
+  },
+  {
+    "index": 810,
+    "history": 12,
+    "family": "75",
+    "task": 2,
+    "seed": 5007261134352908992
+  },
+  {
+    "index": 811,
+    "history": 12,
+    "family": "75",
+    "task": 3,
+    "seed": 6372151099034414941
+  },
+  {
+    "index": 812,
+    "history": 12,
+    "family": "75",
+    "task": 4,
+    "seed": 7948683314413573296
+  },
+  {
+    "index": 813,
+    "history": 12,
+    "family": "75",
+    "task": 5,
+    "seed": 4227890542314851460
+  },
+  {
+    "index": 814,
+    "history": 12,
+    "family": "75",
+    "task": 6,
+    "seed": 605634119849702028
+  },
+  {
+    "index": 815,
+    "history": 12,
+    "family": "75",
+    "task": 7,
+    "seed": 12236914524882643880
+  },
+  {
+    "index": 816,
+    "history": 12,
+    "family": "90",
+    "task": 0,
+    "seed": 11084961993839280941
+  },
+  {
+    "index": 817,
+    "history": 12,
+    "family": "90",
+    "task": 1,
+    "seed": 6637742976202611781
+  },
+  {
+    "index": 818,
+    "history": 12,
+    "family": "90",
+    "task": 2,
+    "seed": 16468259552757781353
+  },
+  {
+    "index": 819,
+    "history": 12,
+    "family": "90",
+    "task": 3,
+    "seed": 18030503359282086566
+  },
+  {
+    "index": 820,
+    "history": 12,
+    "family": "90",
+    "task": 4,
+    "seed": 5624263038918181547
+  },
+  {
+    "index": 821,
+    "history": 12,
+    "family": "90",
+    "task": 5,
+    "seed": 13780740301209479234
+  },
+  {
+    "index": 822,
+    "history": 12,
+    "family": "90",
+    "task": 6,
+    "seed": 1071211110936464658
+  },
+  {
+    "index": 823,
+    "history": 12,
+    "family": "90",
+    "task": 7,
+    "seed": 6812468285715142596
+  },
+  {
+    "index": 824,
+    "history": 12,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 7024850415732612278
+  },
+  {
+    "index": 825,
+    "history": 12,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 3477768650090403875
+  },
+  {
+    "index": 826,
+    "history": 12,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 17477333288516210808
+  },
+  {
+    "index": 827,
+    "history": 12,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 15386524568801509223
+  },
+  {
+    "index": 828,
+    "history": 12,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 720479889077997155
+  },
+  {
+    "index": 829,
+    "history": 12,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 7179729484921375618
+  },
+  {
+    "index": 830,
+    "history": 12,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 12284856714735729639
+  },
+  {
+    "index": 831,
+    "history": 12,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 4123482780245045833
+  },
+  {
+    "index": 832,
+    "history": 13,
+    "family": "0",
+    "task": 0,
+    "seed": 12027744853216367447
+  },
+  {
+    "index": 833,
+    "history": 13,
+    "family": "0",
+    "task": 1,
+    "seed": 5055971996516845117
+  },
+  {
+    "index": 834,
+    "history": 13,
+    "family": "0",
+    "task": 2,
+    "seed": 15030465656723956649
+  },
+  {
+    "index": 835,
+    "history": 13,
+    "family": "0",
+    "task": 3,
+    "seed": 8435711161267143721
+  },
+  {
+    "index": 836,
+    "history": 13,
+    "family": "0",
+    "task": 4,
+    "seed": 1243649890411339507
+  },
+  {
+    "index": 837,
+    "history": 13,
+    "family": "0",
+    "task": 5,
+    "seed": 5004342267305075414
+  },
+  {
+    "index": 838,
+    "history": 13,
+    "family": "0",
+    "task": 6,
+    "seed": 7887593370406102013
+  },
+  {
+    "index": 839,
+    "history": 13,
+    "family": "0",
+    "task": 7,
+    "seed": 5940770627445839644
+  },
+  {
+    "index": 840,
+    "history": 13,
+    "family": "15",
+    "task": 0,
+    "seed": 1546613970871676
+  },
+  {
+    "index": 841,
+    "history": 13,
+    "family": "15",
+    "task": 1,
+    "seed": 13698812810184360802
+  },
+  {
+    "index": 842,
+    "history": 13,
+    "family": "15",
+    "task": 2,
+    "seed": 1630711321924935854
+  },
+  {
+    "index": 843,
+    "history": 13,
+    "family": "15",
+    "task": 3,
+    "seed": 17485218321300632331
+  },
+  {
+    "index": 844,
+    "history": 13,
+    "family": "15",
+    "task": 4,
+    "seed": 16769288662243319181
+  },
+  {
+    "index": 845,
+    "history": 13,
+    "family": "15",
+    "task": 5,
+    "seed": 3613990906896503878
+  },
+  {
+    "index": 846,
+    "history": 13,
+    "family": "15",
+    "task": 6,
+    "seed": 15046674108592636856
+  },
+  {
+    "index": 847,
+    "history": 13,
+    "family": "15",
+    "task": 7,
+    "seed": 9623211918538129393
+  },
+  {
+    "index": 848,
+    "history": 13,
+    "family": "30",
+    "task": 0,
+    "seed": 11211650338446281090
+  },
+  {
+    "index": 849,
+    "history": 13,
+    "family": "30",
+    "task": 1,
+    "seed": 12026271168390622609
+  },
+  {
+    "index": 850,
+    "history": 13,
+    "family": "30",
+    "task": 2,
+    "seed": 18259484540892521984
+  },
+  {
+    "index": 851,
+    "history": 13,
+    "family": "30",
+    "task": 3,
+    "seed": 9002043300823821111
+  },
+  {
+    "index": 852,
+    "history": 13,
+    "family": "30",
+    "task": 4,
+    "seed": 1373096790839597357
+  },
+  {
+    "index": 853,
+    "history": 13,
+    "family": "30",
+    "task": 5,
+    "seed": 17186644599985911939
+  },
+  {
+    "index": 854,
+    "history": 13,
+    "family": "30",
+    "task": 6,
+    "seed": 9397430519745443403
+  },
+  {
+    "index": 855,
+    "history": 13,
+    "family": "30",
+    "task": 7,
+    "seed": 7452471456396786645
+  },
+  {
+    "index": 856,
+    "history": 13,
+    "family": "45",
+    "task": 0,
+    "seed": 5172500819036130345
+  },
+  {
+    "index": 857,
+    "history": 13,
+    "family": "45",
+    "task": 1,
+    "seed": 9480413373305709458
+  },
+  {
+    "index": 858,
+    "history": 13,
+    "family": "45",
+    "task": 2,
+    "seed": 9614686464576145184
+  },
+  {
+    "index": 859,
+    "history": 13,
+    "family": "45",
+    "task": 3,
+    "seed": 6366825135859092187
+  },
+  {
+    "index": 860,
+    "history": 13,
+    "family": "45",
+    "task": 4,
+    "seed": 12969074534008215155
+  },
+  {
+    "index": 861,
+    "history": 13,
+    "family": "45",
+    "task": 5,
+    "seed": 13969574684792816997
+  },
+  {
+    "index": 862,
+    "history": 13,
+    "family": "45",
+    "task": 6,
+    "seed": 7884801500153478329
+  },
+  {
+    "index": 863,
+    "history": 13,
+    "family": "45",
+    "task": 7,
+    "seed": 15893451356533735437
+  },
+  {
+    "index": 864,
+    "history": 13,
+    "family": "60",
+    "task": 0,
+    "seed": 2179844819369699584
+  },
+  {
+    "index": 865,
+    "history": 13,
+    "family": "60",
+    "task": 1,
+    "seed": 18044552514195409226
+  },
+  {
+    "index": 866,
+    "history": 13,
+    "family": "60",
+    "task": 2,
+    "seed": 2537640348541808174
+  },
+  {
+    "index": 867,
+    "history": 13,
+    "family": "60",
+    "task": 3,
+    "seed": 9416436414762840925
+  },
+  {
+    "index": 868,
+    "history": 13,
+    "family": "60",
+    "task": 4,
+    "seed": 17762059170908886843
+  },
+  {
+    "index": 869,
+    "history": 13,
+    "family": "60",
+    "task": 5,
+    "seed": 11573447316077522939
+  },
+  {
+    "index": 870,
+    "history": 13,
+    "family": "60",
+    "task": 6,
+    "seed": 15020276332225316783
+  },
+  {
+    "index": 871,
+    "history": 13,
+    "family": "60",
+    "task": 7,
+    "seed": 10973495630298068684
+  },
+  {
+    "index": 872,
+    "history": 13,
+    "family": "75",
+    "task": 0,
+    "seed": 9394523890497260743
+  },
+  {
+    "index": 873,
+    "history": 13,
+    "family": "75",
+    "task": 1,
+    "seed": 5912978527280670447
+  },
+  {
+    "index": 874,
+    "history": 13,
+    "family": "75",
+    "task": 2,
+    "seed": 13906293058785085856
+  },
+  {
+    "index": 875,
+    "history": 13,
+    "family": "75",
+    "task": 3,
+    "seed": 1281223106674123440
+  },
+  {
+    "index": 876,
+    "history": 13,
+    "family": "75",
+    "task": 4,
+    "seed": 5019087712188206439
+  },
+  {
+    "index": 877,
+    "history": 13,
+    "family": "75",
+    "task": 5,
+    "seed": 5232614352295744608
+  },
+  {
+    "index": 878,
+    "history": 13,
+    "family": "75",
+    "task": 6,
+    "seed": 4942375794317240007
+  },
+  {
+    "index": 879,
+    "history": 13,
+    "family": "75",
+    "task": 7,
+    "seed": 8177044404980959408
+  },
+  {
+    "index": 880,
+    "history": 13,
+    "family": "90",
+    "task": 0,
+    "seed": 4335136548685669376
+  },
+  {
+    "index": 881,
+    "history": 13,
+    "family": "90",
+    "task": 1,
+    "seed": 17150255407935977913
+  },
+  {
+    "index": 882,
+    "history": 13,
+    "family": "90",
+    "task": 2,
+    "seed": 16431893388973474130
+  },
+  {
+    "index": 883,
+    "history": 13,
+    "family": "90",
+    "task": 3,
+    "seed": 9986043676873442986
+  },
+  {
+    "index": 884,
+    "history": 13,
+    "family": "90",
+    "task": 4,
+    "seed": 354879434563382998
+  },
+  {
+    "index": 885,
+    "history": 13,
+    "family": "90",
+    "task": 5,
+    "seed": 12097629229583709945
+  },
+  {
+    "index": 886,
+    "history": 13,
+    "family": "90",
+    "task": 6,
+    "seed": 14669315216425138898
+  },
+  {
+    "index": 887,
+    "history": 13,
+    "family": "90",
+    "task": 7,
+    "seed": 5554108774363447176
+  },
+  {
+    "index": 888,
+    "history": 13,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 2751149784151535840
+  },
+  {
+    "index": 889,
+    "history": 13,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 8775596782325722337
+  },
+  {
+    "index": 890,
+    "history": 13,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 17712237736922038178
+  },
+  {
+    "index": 891,
+    "history": 13,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 15304850637883302731
+  },
+  {
+    "index": 892,
+    "history": 13,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 830708932058970298
+  },
+  {
+    "index": 893,
+    "history": 13,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 4664182876733946295
+  },
+  {
+    "index": 894,
+    "history": 13,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 3357804052036891684
+  },
+  {
+    "index": 895,
+    "history": 13,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 16155221292811812606
+  },
+  {
+    "index": 896,
+    "history": 14,
+    "family": "0",
+    "task": 0,
+    "seed": 2514980227112640483
+  },
+  {
+    "index": 897,
+    "history": 14,
+    "family": "0",
+    "task": 1,
+    "seed": 12791115982475645679
+  },
+  {
+    "index": 898,
+    "history": 14,
+    "family": "0",
+    "task": 2,
+    "seed": 5825438437172344002
+  },
+  {
+    "index": 899,
+    "history": 14,
+    "family": "0",
+    "task": 3,
+    "seed": 12633334329706933445
+  },
+  {
+    "index": 900,
+    "history": 14,
+    "family": "0",
+    "task": 4,
+    "seed": 17454405477218560364
+  },
+  {
+    "index": 901,
+    "history": 14,
+    "family": "0",
+    "task": 5,
+    "seed": 497928355015061896
+  },
+  {
+    "index": 902,
+    "history": 14,
+    "family": "0",
+    "task": 6,
+    "seed": 5311674809536933501
+  },
+  {
+    "index": 903,
+    "history": 14,
+    "family": "0",
+    "task": 7,
+    "seed": 8312710002264853063
+  },
+  {
+    "index": 904,
+    "history": 14,
+    "family": "15",
+    "task": 0,
+    "seed": 4404816598273276181
+  },
+  {
+    "index": 905,
+    "history": 14,
+    "family": "15",
+    "task": 1,
+    "seed": 15136830329947238677
+  },
+  {
+    "index": 906,
+    "history": 14,
+    "family": "15",
+    "task": 2,
+    "seed": 15226314963129115631
+  },
+  {
+    "index": 907,
+    "history": 14,
+    "family": "15",
+    "task": 3,
+    "seed": 1339431630903452175
+  },
+  {
+    "index": 908,
+    "history": 14,
+    "family": "15",
+    "task": 4,
+    "seed": 10869441056758933961
+  },
+  {
+    "index": 909,
+    "history": 14,
+    "family": "15",
+    "task": 5,
+    "seed": 16735314816380730938
+  },
+  {
+    "index": 910,
+    "history": 14,
+    "family": "15",
+    "task": 6,
+    "seed": 15283112718051057421
+  },
+  {
+    "index": 911,
+    "history": 14,
+    "family": "15",
+    "task": 7,
+    "seed": 11801578425335133503
+  },
+  {
+    "index": 912,
+    "history": 14,
+    "family": "30",
+    "task": 0,
+    "seed": 17881008535138786013
+  },
+  {
+    "index": 913,
+    "history": 14,
+    "family": "30",
+    "task": 1,
+    "seed": 16408701872386474428
+  },
+  {
+    "index": 914,
+    "history": 14,
+    "family": "30",
+    "task": 2,
+    "seed": 10166279820768227907
+  },
+  {
+    "index": 915,
+    "history": 14,
+    "family": "30",
+    "task": 3,
+    "seed": 17073869868621088093
+  },
+  {
+    "index": 916,
+    "history": 14,
+    "family": "30",
+    "task": 4,
+    "seed": 2726918311116200894
+  },
+  {
+    "index": 917,
+    "history": 14,
+    "family": "30",
+    "task": 5,
+    "seed": 11702141155176649952
+  },
+  {
+    "index": 918,
+    "history": 14,
+    "family": "30",
+    "task": 6,
+    "seed": 15096845381221644289
+  },
+  {
+    "index": 919,
+    "history": 14,
+    "family": "30",
+    "task": 7,
+    "seed": 5712063551862511245
+  },
+  {
+    "index": 920,
+    "history": 14,
+    "family": "45",
+    "task": 0,
+    "seed": 1932168445729439726
+  },
+  {
+    "index": 921,
+    "history": 14,
+    "family": "45",
+    "task": 1,
+    "seed": 10619815645033813234
+  },
+  {
+    "index": 922,
+    "history": 14,
+    "family": "45",
+    "task": 2,
+    "seed": 3136381696740293409
+  },
+  {
+    "index": 923,
+    "history": 14,
+    "family": "45",
+    "task": 3,
+    "seed": 3651201906499606861
+  },
+  {
+    "index": 924,
+    "history": 14,
+    "family": "45",
+    "task": 4,
+    "seed": 1767699419528676252
+  },
+  {
+    "index": 925,
+    "history": 14,
+    "family": "45",
+    "task": 5,
+    "seed": 5268605070878288738
+  },
+  {
+    "index": 926,
+    "history": 14,
+    "family": "45",
+    "task": 6,
+    "seed": 9164066350368878643
+  },
+  {
+    "index": 927,
+    "history": 14,
+    "family": "45",
+    "task": 7,
+    "seed": 14690153119170754070
+  },
+  {
+    "index": 928,
+    "history": 14,
+    "family": "60",
+    "task": 0,
+    "seed": 15056099248459611676
+  },
+  {
+    "index": 929,
+    "history": 14,
+    "family": "60",
+    "task": 1,
+    "seed": 1665530759372166433
+  },
+  {
+    "index": 930,
+    "history": 14,
+    "family": "60",
+    "task": 2,
+    "seed": 17422921313051693376
+  },
+  {
+    "index": 931,
+    "history": 14,
+    "family": "60",
+    "task": 3,
+    "seed": 18210186803983056793
+  },
+  {
+    "index": 932,
+    "history": 14,
+    "family": "60",
+    "task": 4,
+    "seed": 2212038071872632000
+  },
+  {
+    "index": 933,
+    "history": 14,
+    "family": "60",
+    "task": 5,
+    "seed": 3712500026578699348
+  },
+  {
+    "index": 934,
+    "history": 14,
+    "family": "60",
+    "task": 6,
+    "seed": 11889111369182200840
+  },
+  {
+    "index": 935,
+    "history": 14,
+    "family": "60",
+    "task": 7,
+    "seed": 6690724174010166333
+  },
+  {
+    "index": 936,
+    "history": 14,
+    "family": "75",
+    "task": 0,
+    "seed": 10521024791870114480
+  },
+  {
+    "index": 937,
+    "history": 14,
+    "family": "75",
+    "task": 1,
+    "seed": 16032544551886050442
+  },
+  {
+    "index": 938,
+    "history": 14,
+    "family": "75",
+    "task": 2,
+    "seed": 6967247336267552732
+  },
+  {
+    "index": 939,
+    "history": 14,
+    "family": "75",
+    "task": 3,
+    "seed": 13975824183390853176
+  },
+  {
+    "index": 940,
+    "history": 14,
+    "family": "75",
+    "task": 4,
+    "seed": 9520084906617234687
+  },
+  {
+    "index": 941,
+    "history": 14,
+    "family": "75",
+    "task": 5,
+    "seed": 12667894629230237677
+  },
+  {
+    "index": 942,
+    "history": 14,
+    "family": "75",
+    "task": 6,
+    "seed": 6236787583830750086
+  },
+  {
+    "index": 943,
+    "history": 14,
+    "family": "75",
+    "task": 7,
+    "seed": 10699739535882734607
+  },
+  {
+    "index": 944,
+    "history": 14,
+    "family": "90",
+    "task": 0,
+    "seed": 2802511373125362893
+  },
+  {
+    "index": 945,
+    "history": 14,
+    "family": "90",
+    "task": 1,
+    "seed": 7056220491555834321
+  },
+  {
+    "index": 946,
+    "history": 14,
+    "family": "90",
+    "task": 2,
+    "seed": 11777585677223856996
+  },
+  {
+    "index": 947,
+    "history": 14,
+    "family": "90",
+    "task": 3,
+    "seed": 3629441285852710386
+  },
+  {
+    "index": 948,
+    "history": 14,
+    "family": "90",
+    "task": 4,
+    "seed": 2865286531220679366
+  },
+  {
+    "index": 949,
+    "history": 14,
+    "family": "90",
+    "task": 5,
+    "seed": 17020233355657438880
+  },
+  {
+    "index": 950,
+    "history": 14,
+    "family": "90",
+    "task": 6,
+    "seed": 16584886848477281471
+  },
+  {
+    "index": 951,
+    "history": 14,
+    "family": "90",
+    "task": 7,
+    "seed": 16243714475838888455
+  },
+  {
+    "index": 952,
+    "history": 14,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 11562845750145949185
+  },
+  {
+    "index": 953,
+    "history": 14,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 15949045698297125080
+  },
+  {
+    "index": 954,
+    "history": 14,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 10397411811179532857
+  },
+  {
+    "index": 955,
+    "history": 14,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 5858909733183820513
+  },
+  {
+    "index": 956,
+    "history": 14,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 11755701487912029986
+  },
+  {
+    "index": 957,
+    "history": 14,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 7660361343057657992
+  },
+  {
+    "index": 958,
+    "history": 14,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 3148722523640428847
+  },
+  {
+    "index": 959,
+    "history": 14,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 11107989404526409393
+  },
+  {
+    "index": 960,
+    "history": 15,
+    "family": "0",
+    "task": 0,
+    "seed": 17466734944723229772
+  },
+  {
+    "index": 961,
+    "history": 15,
+    "family": "0",
+    "task": 1,
+    "seed": 9422041176927022139
+  },
+  {
+    "index": 962,
+    "history": 15,
+    "family": "0",
+    "task": 2,
+    "seed": 10029007866179378429
+  },
+  {
+    "index": 963,
+    "history": 15,
+    "family": "0",
+    "task": 3,
+    "seed": 7590706526031399810
+  },
+  {
+    "index": 964,
+    "history": 15,
+    "family": "0",
+    "task": 4,
+    "seed": 13871294708250018129
+  },
+  {
+    "index": 965,
+    "history": 15,
+    "family": "0",
+    "task": 5,
+    "seed": 2701630955154383333
+  },
+  {
+    "index": 966,
+    "history": 15,
+    "family": "0",
+    "task": 6,
+    "seed": 13176516546630257844
+  },
+  {
+    "index": 967,
+    "history": 15,
+    "family": "0",
+    "task": 7,
+    "seed": 5788199672815015363
+  },
+  {
+    "index": 968,
+    "history": 15,
+    "family": "15",
+    "task": 0,
+    "seed": 13606841860152454890
+  },
+  {
+    "index": 969,
+    "history": 15,
+    "family": "15",
+    "task": 1,
+    "seed": 2869787005986617114
+  },
+  {
+    "index": 970,
+    "history": 15,
+    "family": "15",
+    "task": 2,
+    "seed": 11411953138271201085
+  },
+  {
+    "index": 971,
+    "history": 15,
+    "family": "15",
+    "task": 3,
+    "seed": 12662988082380416415
+  },
+  {
+    "index": 972,
+    "history": 15,
+    "family": "15",
+    "task": 4,
+    "seed": 16361505045407839065
+  },
+  {
+    "index": 973,
+    "history": 15,
+    "family": "15",
+    "task": 5,
+    "seed": 9193404962721331902
+  },
+  {
+    "index": 974,
+    "history": 15,
+    "family": "15",
+    "task": 6,
+    "seed": 2553160122760849418
+  },
+  {
+    "index": 975,
+    "history": 15,
+    "family": "15",
+    "task": 7,
+    "seed": 7476031423738194042
+  },
+  {
+    "index": 976,
+    "history": 15,
+    "family": "30",
+    "task": 0,
+    "seed": 9803891136562893792
+  },
+  {
+    "index": 977,
+    "history": 15,
+    "family": "30",
+    "task": 1,
+    "seed": 16778069626438038629
+  },
+  {
+    "index": 978,
+    "history": 15,
+    "family": "30",
+    "task": 2,
+    "seed": 14795485892666862921
+  },
+  {
+    "index": 979,
+    "history": 15,
+    "family": "30",
+    "task": 3,
+    "seed": 12105164760021666574
+  },
+  {
+    "index": 980,
+    "history": 15,
+    "family": "30",
+    "task": 4,
+    "seed": 3366674104407333492
+  },
+  {
+    "index": 981,
+    "history": 15,
+    "family": "30",
+    "task": 5,
+    "seed": 7801505200525247155
+  },
+  {
+    "index": 982,
+    "history": 15,
+    "family": "30",
+    "task": 6,
+    "seed": 8900634665273336939
+  },
+  {
+    "index": 983,
+    "history": 15,
+    "family": "30",
+    "task": 7,
+    "seed": 3848359688256370961
+  },
+  {
+    "index": 984,
+    "history": 15,
+    "family": "45",
+    "task": 0,
+    "seed": 7850853384855028881
+  },
+  {
+    "index": 985,
+    "history": 15,
+    "family": "45",
+    "task": 1,
+    "seed": 14064361620364163342
+  },
+  {
+    "index": 986,
+    "history": 15,
+    "family": "45",
+    "task": 2,
+    "seed": 4389273403622861760
+  },
+  {
+    "index": 987,
+    "history": 15,
+    "family": "45",
+    "task": 3,
+    "seed": 8331997535283199762
+  },
+  {
+    "index": 988,
+    "history": 15,
+    "family": "45",
+    "task": 4,
+    "seed": 1000266680768638844
+  },
+  {
+    "index": 989,
+    "history": 15,
+    "family": "45",
+    "task": 5,
+    "seed": 169363861862320010
+  },
+  {
+    "index": 990,
+    "history": 15,
+    "family": "45",
+    "task": 6,
+    "seed": 4259720949026933492
+  },
+  {
+    "index": 991,
+    "history": 15,
+    "family": "45",
+    "task": 7,
+    "seed": 2626075835644751260
+  },
+  {
+    "index": 992,
+    "history": 15,
+    "family": "60",
+    "task": 0,
+    "seed": 4092856382650637886
+  },
+  {
+    "index": 993,
+    "history": 15,
+    "family": "60",
+    "task": 1,
+    "seed": 7951137876700477001
+  },
+  {
+    "index": 994,
+    "history": 15,
+    "family": "60",
+    "task": 2,
+    "seed": 17471515485064938402
+  },
+  {
+    "index": 995,
+    "history": 15,
+    "family": "60",
+    "task": 3,
+    "seed": 5814186228232646437
+  },
+  {
+    "index": 996,
+    "history": 15,
+    "family": "60",
+    "task": 4,
+    "seed": 2363531746911797519
+  },
+  {
+    "index": 997,
+    "history": 15,
+    "family": "60",
+    "task": 5,
+    "seed": 6888416365666351368
+  },
+  {
+    "index": 998,
+    "history": 15,
+    "family": "60",
+    "task": 6,
+    "seed": 13343300291868510181
+  },
+  {
+    "index": 999,
+    "history": 15,
+    "family": "60",
+    "task": 7,
+    "seed": 2203727362543242738
+  },
+  {
+    "index": 1000,
+    "history": 15,
+    "family": "75",
+    "task": 0,
+    "seed": 7779390517803118811
+  },
+  {
+    "index": 1001,
+    "history": 15,
+    "family": "75",
+    "task": 1,
+    "seed": 16888315343689895682
+  },
+  {
+    "index": 1002,
+    "history": 15,
+    "family": "75",
+    "task": 2,
+    "seed": 13273843776017864736
+  },
+  {
+    "index": 1003,
+    "history": 15,
+    "family": "75",
+    "task": 3,
+    "seed": 10186610977512772093
+  },
+  {
+    "index": 1004,
+    "history": 15,
+    "family": "75",
+    "task": 4,
+    "seed": 6273147033825918804
+  },
+  {
+    "index": 1005,
+    "history": 15,
+    "family": "75",
+    "task": 5,
+    "seed": 18422682297984799655
+  },
+  {
+    "index": 1006,
+    "history": 15,
+    "family": "75",
+    "task": 6,
+    "seed": 10672748617638316914
+  },
+  {
+    "index": 1007,
+    "history": 15,
+    "family": "75",
+    "task": 7,
+    "seed": 17840508615672241151
+  },
+  {
+    "index": 1008,
+    "history": 15,
+    "family": "90",
+    "task": 0,
+    "seed": 7815636127316827554
+  },
+  {
+    "index": 1009,
+    "history": 15,
+    "family": "90",
+    "task": 1,
+    "seed": 2424204797376173804
+  },
+  {
+    "index": 1010,
+    "history": 15,
+    "family": "90",
+    "task": 2,
+    "seed": 9621040515620265588
+  },
+  {
+    "index": 1011,
+    "history": 15,
+    "family": "90",
+    "task": 3,
+    "seed": 3545654575895094997
+  },
+  {
+    "index": 1012,
+    "history": 15,
+    "family": "90",
+    "task": 4,
+    "seed": 2393934533301343163
+  },
+  {
+    "index": 1013,
+    "history": 15,
+    "family": "90",
+    "task": 5,
+    "seed": 7469203713473874661
+  },
+  {
+    "index": 1014,
+    "history": 15,
+    "family": "90",
+    "task": 6,
+    "seed": 10183483777344795773
+  },
+  {
+    "index": 1015,
+    "history": 15,
+    "family": "90",
+    "task": 7,
+    "seed": 6883980726378012218
+  },
+  {
+    "index": 1016,
+    "history": 15,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 2614011337925612746
+  },
+  {
+    "index": 1017,
+    "history": 15,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 17221604665092563003
+  },
+  {
+    "index": 1018,
+    "history": 15,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 6643901835482926541
+  },
+  {
+    "index": 1019,
+    "history": 15,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 11651065069951375111
+  },
+  {
+    "index": 1020,
+    "history": 15,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 6503042634316265987
+  },
+  {
+    "index": 1021,
+    "history": 15,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 4369776951658744615
+  },
+  {
+    "index": 1022,
+    "history": 15,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 1420954709762086484
+  },
+  {
+    "index": 1023,
+    "history": 15,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 11917815791688409007
+  },
+  {
+    "index": 1024,
+    "history": 16,
+    "family": "0",
+    "task": 0,
+    "seed": 1520417962844380718
+  },
+  {
+    "index": 1025,
+    "history": 16,
+    "family": "0",
+    "task": 1,
+    "seed": 15521932001076448209
+  },
+  {
+    "index": 1026,
+    "history": 16,
+    "family": "0",
+    "task": 2,
+    "seed": 5286625598317050489
+  },
+  {
+    "index": 1027,
+    "history": 16,
+    "family": "0",
+    "task": 3,
+    "seed": 1378323438161192312
+  },
+  {
+    "index": 1028,
+    "history": 16,
+    "family": "0",
+    "task": 4,
+    "seed": 10951882024402892933
+  },
+  {
+    "index": 1029,
+    "history": 16,
+    "family": "0",
+    "task": 5,
+    "seed": 15676331412641885598
+  },
+  {
+    "index": 1030,
+    "history": 16,
+    "family": "0",
+    "task": 6,
+    "seed": 9714826991780774538
+  },
+  {
+    "index": 1031,
+    "history": 16,
+    "family": "0",
+    "task": 7,
+    "seed": 13955721999016461092
+  },
+  {
+    "index": 1032,
+    "history": 16,
+    "family": "15",
+    "task": 0,
+    "seed": 9021444734759622576
+  },
+  {
+    "index": 1033,
+    "history": 16,
+    "family": "15",
+    "task": 1,
+    "seed": 6392949646222870053
+  },
+  {
+    "index": 1034,
+    "history": 16,
+    "family": "15",
+    "task": 2,
+    "seed": 1665481190836986788
+  },
+  {
+    "index": 1035,
+    "history": 16,
+    "family": "15",
+    "task": 3,
+    "seed": 18309345764416779487
+  },
+  {
+    "index": 1036,
+    "history": 16,
+    "family": "15",
+    "task": 4,
+    "seed": 12318435391910169628
+  },
+  {
+    "index": 1037,
+    "history": 16,
+    "family": "15",
+    "task": 5,
+    "seed": 975809888613645652
+  },
+  {
+    "index": 1038,
+    "history": 16,
+    "family": "15",
+    "task": 6,
+    "seed": 10861507355098837766
+  },
+  {
+    "index": 1039,
+    "history": 16,
+    "family": "15",
+    "task": 7,
+    "seed": 11438403854144040115
+  },
+  {
+    "index": 1040,
+    "history": 16,
+    "family": "30",
+    "task": 0,
+    "seed": 5376272508426034566
+  },
+  {
+    "index": 1041,
+    "history": 16,
+    "family": "30",
+    "task": 1,
+    "seed": 1291976998269390866
+  },
+  {
+    "index": 1042,
+    "history": 16,
+    "family": "30",
+    "task": 2,
+    "seed": 8365882139987461822
+  },
+  {
+    "index": 1043,
+    "history": 16,
+    "family": "30",
+    "task": 3,
+    "seed": 55277227800549670
+  },
+  {
+    "index": 1044,
+    "history": 16,
+    "family": "30",
+    "task": 4,
+    "seed": 9550995795237950482
+  },
+  {
+    "index": 1045,
+    "history": 16,
+    "family": "30",
+    "task": 5,
+    "seed": 10899191364635164527
+  },
+  {
+    "index": 1046,
+    "history": 16,
+    "family": "30",
+    "task": 6,
+    "seed": 5820653387673991522
+  },
+  {
+    "index": 1047,
+    "history": 16,
+    "family": "30",
+    "task": 7,
+    "seed": 13286668612321706551
+  },
+  {
+    "index": 1048,
+    "history": 16,
+    "family": "45",
+    "task": 0,
+    "seed": 15556666201356450424
+  },
+  {
+    "index": 1049,
+    "history": 16,
+    "family": "45",
+    "task": 1,
+    "seed": 15619560395755887025
+  },
+  {
+    "index": 1050,
+    "history": 16,
+    "family": "45",
+    "task": 2,
+    "seed": 17525958859691501776
+  },
+  {
+    "index": 1051,
+    "history": 16,
+    "family": "45",
+    "task": 3,
+    "seed": 17349848775512533186
+  },
+  {
+    "index": 1052,
+    "history": 16,
+    "family": "45",
+    "task": 4,
+    "seed": 17267104207895742269
+  },
+  {
+    "index": 1053,
+    "history": 16,
+    "family": "45",
+    "task": 5,
+    "seed": 12823474636873802692
+  },
+  {
+    "index": 1054,
+    "history": 16,
+    "family": "45",
+    "task": 6,
+    "seed": 14634654125297040360
+  },
+  {
+    "index": 1055,
+    "history": 16,
+    "family": "45",
+    "task": 7,
+    "seed": 4317955835691600703
+  },
+  {
+    "index": 1056,
+    "history": 16,
+    "family": "60",
+    "task": 0,
+    "seed": 2088995405822961403
+  },
+  {
+    "index": 1057,
+    "history": 16,
+    "family": "60",
+    "task": 1,
+    "seed": 8085951814749698686
+  },
+  {
+    "index": 1058,
+    "history": 16,
+    "family": "60",
+    "task": 2,
+    "seed": 16260995330356214774
+  },
+  {
+    "index": 1059,
+    "history": 16,
+    "family": "60",
+    "task": 3,
+    "seed": 16804261969547042652
+  },
+  {
+    "index": 1060,
+    "history": 16,
+    "family": "60",
+    "task": 4,
+    "seed": 9934097085039264728
+  },
+  {
+    "index": 1061,
+    "history": 16,
+    "family": "60",
+    "task": 5,
+    "seed": 6413132596633362006
+  },
+  {
+    "index": 1062,
+    "history": 16,
+    "family": "60",
+    "task": 6,
+    "seed": 5608230565632410966
+  },
+  {
+    "index": 1063,
+    "history": 16,
+    "family": "60",
+    "task": 7,
+    "seed": 17938055586737179944
+  },
+  {
+    "index": 1064,
+    "history": 16,
+    "family": "75",
+    "task": 0,
+    "seed": 9526717404010195803
+  },
+  {
+    "index": 1065,
+    "history": 16,
+    "family": "75",
+    "task": 1,
+    "seed": 9655598477666751835
+  },
+  {
+    "index": 1066,
+    "history": 16,
+    "family": "75",
+    "task": 2,
+    "seed": 11191926346409188999
+  },
+  {
+    "index": 1067,
+    "history": 16,
+    "family": "75",
+    "task": 3,
+    "seed": 17463551267275405247
+  },
+  {
+    "index": 1068,
+    "history": 16,
+    "family": "75",
+    "task": 4,
+    "seed": 5349794748859258694
+  },
+  {
+    "index": 1069,
+    "history": 16,
+    "family": "75",
+    "task": 5,
+    "seed": 14567597647881696175
+  },
+  {
+    "index": 1070,
+    "history": 16,
+    "family": "75",
+    "task": 6,
+    "seed": 13124088018867428312
+  },
+  {
+    "index": 1071,
+    "history": 16,
+    "family": "75",
+    "task": 7,
+    "seed": 7023081482174687219
+  },
+  {
+    "index": 1072,
+    "history": 16,
+    "family": "90",
+    "task": 0,
+    "seed": 4388289337463230846
+  },
+  {
+    "index": 1073,
+    "history": 16,
+    "family": "90",
+    "task": 1,
+    "seed": 13699846775810037541
+  },
+  {
+    "index": 1074,
+    "history": 16,
+    "family": "90",
+    "task": 2,
+    "seed": 16519467443060744442
+  },
+  {
+    "index": 1075,
+    "history": 16,
+    "family": "90",
+    "task": 3,
+    "seed": 8586196353710047481
+  },
+  {
+    "index": 1076,
+    "history": 16,
+    "family": "90",
+    "task": 4,
+    "seed": 9555463395364586393
+  },
+  {
+    "index": 1077,
+    "history": 16,
+    "family": "90",
+    "task": 5,
+    "seed": 8830919058657229982
+  },
+  {
+    "index": 1078,
+    "history": 16,
+    "family": "90",
+    "task": 6,
+    "seed": 5727021906761884184
+  },
+  {
+    "index": 1079,
+    "history": 16,
+    "family": "90",
+    "task": 7,
+    "seed": 14071931968293358883
+  },
+  {
+    "index": 1080,
+    "history": 16,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 3130488046793893424
+  },
+  {
+    "index": 1081,
+    "history": 16,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 3273693254700686350
+  },
+  {
+    "index": 1082,
+    "history": 16,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 10784558295473884785
+  },
+  {
+    "index": 1083,
+    "history": 16,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 12582488460090967655
+  },
+  {
+    "index": 1084,
+    "history": 16,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 14637180456965178462
+  },
+  {
+    "index": 1085,
+    "history": 16,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 12745309544671286706
+  },
+  {
+    "index": 1086,
+    "history": 16,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 10745054363681885658
+  },
+  {
+    "index": 1087,
+    "history": 16,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 3436718474126147391
+  },
+  {
+    "index": 1088,
+    "history": 17,
+    "family": "0",
+    "task": 0,
+    "seed": 5146945685128475997
+  },
+  {
+    "index": 1089,
+    "history": 17,
+    "family": "0",
+    "task": 1,
+    "seed": 4949706704535908413
+  },
+  {
+    "index": 1090,
+    "history": 17,
+    "family": "0",
+    "task": 2,
+    "seed": 2450702416853306588
+  },
+  {
+    "index": 1091,
+    "history": 17,
+    "family": "0",
+    "task": 3,
+    "seed": 10930597949768751365
+  },
+  {
+    "index": 1092,
+    "history": 17,
+    "family": "0",
+    "task": 4,
+    "seed": 15585573111028489358
+  },
+  {
+    "index": 1093,
+    "history": 17,
+    "family": "0",
+    "task": 5,
+    "seed": 8483684065224605665
+  },
+  {
+    "index": 1094,
+    "history": 17,
+    "family": "0",
+    "task": 6,
+    "seed": 16615483176580718285
+  },
+  {
+    "index": 1095,
+    "history": 17,
+    "family": "0",
+    "task": 7,
+    "seed": 1268089027083091811
+  },
+  {
+    "index": 1096,
+    "history": 17,
+    "family": "15",
+    "task": 0,
+    "seed": 12618024526322425553
+  },
+  {
+    "index": 1097,
+    "history": 17,
+    "family": "15",
+    "task": 1,
+    "seed": 11850816809985479566
+  },
+  {
+    "index": 1098,
+    "history": 17,
+    "family": "15",
+    "task": 2,
+    "seed": 2061386088652694106
+  },
+  {
+    "index": 1099,
+    "history": 17,
+    "family": "15",
+    "task": 3,
+    "seed": 14535050745691853578
+  },
+  {
+    "index": 1100,
+    "history": 17,
+    "family": "15",
+    "task": 4,
+    "seed": 10443798844871260245
+  },
+  {
+    "index": 1101,
+    "history": 17,
+    "family": "15",
+    "task": 5,
+    "seed": 15848008390757644164
+  },
+  {
+    "index": 1102,
+    "history": 17,
+    "family": "15",
+    "task": 6,
+    "seed": 165580763056690505
+  },
+  {
+    "index": 1103,
+    "history": 17,
+    "family": "15",
+    "task": 7,
+    "seed": 9757649454635755787
+  },
+  {
+    "index": 1104,
+    "history": 17,
+    "family": "30",
+    "task": 0,
+    "seed": 12541892974123588978
+  },
+  {
+    "index": 1105,
+    "history": 17,
+    "family": "30",
+    "task": 1,
+    "seed": 4318952499444678014
+  },
+  {
+    "index": 1106,
+    "history": 17,
+    "family": "30",
+    "task": 2,
+    "seed": 15410075501720992752
+  },
+  {
+    "index": 1107,
+    "history": 17,
+    "family": "30",
+    "task": 3,
+    "seed": 4472210454127453521
+  },
+  {
+    "index": 1108,
+    "history": 17,
+    "family": "30",
+    "task": 4,
+    "seed": 15549738864765276318
+  },
+  {
+    "index": 1109,
+    "history": 17,
+    "family": "30",
+    "task": 5,
+    "seed": 7741098079479668922
+  },
+  {
+    "index": 1110,
+    "history": 17,
+    "family": "30",
+    "task": 6,
+    "seed": 1581199308578213001
+  },
+  {
+    "index": 1111,
+    "history": 17,
+    "family": "30",
+    "task": 7,
+    "seed": 919123124138025438
+  },
+  {
+    "index": 1112,
+    "history": 17,
+    "family": "45",
+    "task": 0,
+    "seed": 10281256297383535205
+  },
+  {
+    "index": 1113,
+    "history": 17,
+    "family": "45",
+    "task": 1,
+    "seed": 9212697176522276358
+  },
+  {
+    "index": 1114,
+    "history": 17,
+    "family": "45",
+    "task": 2,
+    "seed": 12174923926527694390
+  },
+  {
+    "index": 1115,
+    "history": 17,
+    "family": "45",
+    "task": 3,
+    "seed": 15194047417972511697
+  },
+  {
+    "index": 1116,
+    "history": 17,
+    "family": "45",
+    "task": 4,
+    "seed": 3094037391021160030
+  },
+  {
+    "index": 1117,
+    "history": 17,
+    "family": "45",
+    "task": 5,
+    "seed": 8070663933528691503
+  },
+  {
+    "index": 1118,
+    "history": 17,
+    "family": "45",
+    "task": 6,
+    "seed": 16648866473682694212
+  },
+  {
+    "index": 1119,
+    "history": 17,
+    "family": "45",
+    "task": 7,
+    "seed": 972348591996443358
+  },
+  {
+    "index": 1120,
+    "history": 17,
+    "family": "60",
+    "task": 0,
+    "seed": 11167970970089444446
+  },
+  {
+    "index": 1121,
+    "history": 17,
+    "family": "60",
+    "task": 1,
+    "seed": 513882736032447281
+  },
+  {
+    "index": 1122,
+    "history": 17,
+    "family": "60",
+    "task": 2,
+    "seed": 1308313887428602111
+  },
+  {
+    "index": 1123,
+    "history": 17,
+    "family": "60",
+    "task": 3,
+    "seed": 16694941295869882991
+  },
+  {
+    "index": 1124,
+    "history": 17,
+    "family": "60",
+    "task": 4,
+    "seed": 11490334548189151678
+  },
+  {
+    "index": 1125,
+    "history": 17,
+    "family": "60",
+    "task": 5,
+    "seed": 11758455191932620893
+  },
+  {
+    "index": 1126,
+    "history": 17,
+    "family": "60",
+    "task": 6,
+    "seed": 6647388693186649860
+  },
+  {
+    "index": 1127,
+    "history": 17,
+    "family": "60",
+    "task": 7,
+    "seed": 17529023429426780252
+  },
+  {
+    "index": 1128,
+    "history": 17,
+    "family": "75",
+    "task": 0,
+    "seed": 5519744234745870985
+  },
+  {
+    "index": 1129,
+    "history": 17,
+    "family": "75",
+    "task": 1,
+    "seed": 4460502010683766963
+  },
+  {
+    "index": 1130,
+    "history": 17,
+    "family": "75",
+    "task": 2,
+    "seed": 7961309647721053784
+  },
+  {
+    "index": 1131,
+    "history": 17,
+    "family": "75",
+    "task": 3,
+    "seed": 10641406504053009751
+  },
+  {
+    "index": 1132,
+    "history": 17,
+    "family": "75",
+    "task": 4,
+    "seed": 10215589104269864261
+  },
+  {
+    "index": 1133,
+    "history": 17,
+    "family": "75",
+    "task": 5,
+    "seed": 7720956360178915204
+  },
+  {
+    "index": 1134,
+    "history": 17,
+    "family": "75",
+    "task": 6,
+    "seed": 1477286675407289325
+  },
+  {
+    "index": 1135,
+    "history": 17,
+    "family": "75",
+    "task": 7,
+    "seed": 9013400230971431056
+  },
+  {
+    "index": 1136,
+    "history": 17,
+    "family": "90",
+    "task": 0,
+    "seed": 2456528153043986093
+  },
+  {
+    "index": 1137,
+    "history": 17,
+    "family": "90",
+    "task": 1,
+    "seed": 10348129436386035201
+  },
+  {
+    "index": 1138,
+    "history": 17,
+    "family": "90",
+    "task": 2,
+    "seed": 17090404301705104538
+  },
+  {
+    "index": 1139,
+    "history": 17,
+    "family": "90",
+    "task": 3,
+    "seed": 6091992589278074079
+  },
+  {
+    "index": 1140,
+    "history": 17,
+    "family": "90",
+    "task": 4,
+    "seed": 16294443587247499433
+  },
+  {
+    "index": 1141,
+    "history": 17,
+    "family": "90",
+    "task": 5,
+    "seed": 14044766745764848263
+  },
+  {
+    "index": 1142,
+    "history": 17,
+    "family": "90",
+    "task": 6,
+    "seed": 1996559740247987311
+  },
+  {
+    "index": 1143,
+    "history": 17,
+    "family": "90",
+    "task": 7,
+    "seed": 5748862550522367663
+  },
+  {
+    "index": 1144,
+    "history": 17,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 16870925318710369387
+  },
+  {
+    "index": 1145,
+    "history": 17,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 12654820432420997859
+  },
+  {
+    "index": 1146,
+    "history": 17,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 5895959813224652015
+  },
+  {
+    "index": 1147,
+    "history": 17,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 9207949424983062165
+  },
+  {
+    "index": 1148,
+    "history": 17,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 1677369692143195729
+  },
+  {
+    "index": 1149,
+    "history": 17,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 14008234411914400952
+  },
+  {
+    "index": 1150,
+    "history": 17,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 3376611221069683577
+  },
+  {
+    "index": 1151,
+    "history": 17,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 6534518266389031646
+  },
+  {
+    "index": 1152,
+    "history": 18,
+    "family": "0",
+    "task": 0,
+    "seed": 16466033842872727890
+  },
+  {
+    "index": 1153,
+    "history": 18,
+    "family": "0",
+    "task": 1,
+    "seed": 1358169105467501994
+  },
+  {
+    "index": 1154,
+    "history": 18,
+    "family": "0",
+    "task": 2,
+    "seed": 2902620865292676573
+  },
+  {
+    "index": 1155,
+    "history": 18,
+    "family": "0",
+    "task": 3,
+    "seed": 9093260476693058044
+  },
+  {
+    "index": 1156,
+    "history": 18,
+    "family": "0",
+    "task": 4,
+    "seed": 2795644315911106489
+  },
+  {
+    "index": 1157,
+    "history": 18,
+    "family": "0",
+    "task": 5,
+    "seed": 6264332927569812265
+  },
+  {
+    "index": 1158,
+    "history": 18,
+    "family": "0",
+    "task": 6,
+    "seed": 3811175110588671156
+  },
+  {
+    "index": 1159,
+    "history": 18,
+    "family": "0",
+    "task": 7,
+    "seed": 7303778932176732460
+  },
+  {
+    "index": 1160,
+    "history": 18,
+    "family": "15",
+    "task": 0,
+    "seed": 17827279616337990966
+  },
+  {
+    "index": 1161,
+    "history": 18,
+    "family": "15",
+    "task": 1,
+    "seed": 3799968525252212225
+  },
+  {
+    "index": 1162,
+    "history": 18,
+    "family": "15",
+    "task": 2,
+    "seed": 8786442706382273512
+  },
+  {
+    "index": 1163,
+    "history": 18,
+    "family": "15",
+    "task": 3,
+    "seed": 6846144369615475808
+  },
+  {
+    "index": 1164,
+    "history": 18,
+    "family": "15",
+    "task": 4,
+    "seed": 5535873571744367315
+  },
+  {
+    "index": 1165,
+    "history": 18,
+    "family": "15",
+    "task": 5,
+    "seed": 10066441287461911377
+  },
+  {
+    "index": 1166,
+    "history": 18,
+    "family": "15",
+    "task": 6,
+    "seed": 9273969232619895363
+  },
+  {
+    "index": 1167,
+    "history": 18,
+    "family": "15",
+    "task": 7,
+    "seed": 17196769591504594002
+  },
+  {
+    "index": 1168,
+    "history": 18,
+    "family": "30",
+    "task": 0,
+    "seed": 4667365411572161219
+  },
+  {
+    "index": 1169,
+    "history": 18,
+    "family": "30",
+    "task": 1,
+    "seed": 18121647991974305390
+  },
+  {
+    "index": 1170,
+    "history": 18,
+    "family": "30",
+    "task": 2,
+    "seed": 15172633657880510505
+  },
+  {
+    "index": 1171,
+    "history": 18,
+    "family": "30",
+    "task": 3,
+    "seed": 478976598873868668
+  },
+  {
+    "index": 1172,
+    "history": 18,
+    "family": "30",
+    "task": 4,
+    "seed": 11529408267494636170
+  },
+  {
+    "index": 1173,
+    "history": 18,
+    "family": "30",
+    "task": 5,
+    "seed": 4707751594711914989
+  },
+  {
+    "index": 1174,
+    "history": 18,
+    "family": "30",
+    "task": 6,
+    "seed": 14338580199815836259
+  },
+  {
+    "index": 1175,
+    "history": 18,
+    "family": "30",
+    "task": 7,
+    "seed": 15819585679847808995
+  },
+  {
+    "index": 1176,
+    "history": 18,
+    "family": "45",
+    "task": 0,
+    "seed": 11285825932186416442
+  },
+  {
+    "index": 1177,
+    "history": 18,
+    "family": "45",
+    "task": 1,
+    "seed": 16061838102079941080
+  },
+  {
+    "index": 1178,
+    "history": 18,
+    "family": "45",
+    "task": 2,
+    "seed": 422879626034900578
+  },
+  {
+    "index": 1179,
+    "history": 18,
+    "family": "45",
+    "task": 3,
+    "seed": 12283367327488434986
+  },
+  {
+    "index": 1180,
+    "history": 18,
+    "family": "45",
+    "task": 4,
+    "seed": 10206591077958352560
+  },
+  {
+    "index": 1181,
+    "history": 18,
+    "family": "45",
+    "task": 5,
+    "seed": 6326060863350017895
+  },
+  {
+    "index": 1182,
+    "history": 18,
+    "family": "45",
+    "task": 6,
+    "seed": 16463421332236143620
+  },
+  {
+    "index": 1183,
+    "history": 18,
+    "family": "45",
+    "task": 7,
+    "seed": 2529927554656637159
+  },
+  {
+    "index": 1184,
+    "history": 18,
+    "family": "60",
+    "task": 0,
+    "seed": 5957379369975846450
+  },
+  {
+    "index": 1185,
+    "history": 18,
+    "family": "60",
+    "task": 1,
+    "seed": 11912035029966992703
+  },
+  {
+    "index": 1186,
+    "history": 18,
+    "family": "60",
+    "task": 2,
+    "seed": 1987925152781458401
+  },
+  {
+    "index": 1187,
+    "history": 18,
+    "family": "60",
+    "task": 3,
+    "seed": 12475679850524957702
+  },
+  {
+    "index": 1188,
+    "history": 18,
+    "family": "60",
+    "task": 4,
+    "seed": 12243737534058102800
+  },
+  {
+    "index": 1189,
+    "history": 18,
+    "family": "60",
+    "task": 5,
+    "seed": 15606243564986842295
+  },
+  {
+    "index": 1190,
+    "history": 18,
+    "family": "60",
+    "task": 6,
+    "seed": 12383990038702886520
+  },
+  {
+    "index": 1191,
+    "history": 18,
+    "family": "60",
+    "task": 7,
+    "seed": 18173010473061260276
+  },
+  {
+    "index": 1192,
+    "history": 18,
+    "family": "75",
+    "task": 0,
+    "seed": 6835787968596071314
+  },
+  {
+    "index": 1193,
+    "history": 18,
+    "family": "75",
+    "task": 1,
+    "seed": 11102365924919250329
+  },
+  {
+    "index": 1194,
+    "history": 18,
+    "family": "75",
+    "task": 2,
+    "seed": 1568400418245566455
+  },
+  {
+    "index": 1195,
+    "history": 18,
+    "family": "75",
+    "task": 3,
+    "seed": 11537889943270142275
+  },
+  {
+    "index": 1196,
+    "history": 18,
+    "family": "75",
+    "task": 4,
+    "seed": 6354872809532491639
+  },
+  {
+    "index": 1197,
+    "history": 18,
+    "family": "75",
+    "task": 5,
+    "seed": 4359707466487705266
+  },
+  {
+    "index": 1198,
+    "history": 18,
+    "family": "75",
+    "task": 6,
+    "seed": 17423015017781094632
+  },
+  {
+    "index": 1199,
+    "history": 18,
+    "family": "75",
+    "task": 7,
+    "seed": 2760826978786253217
+  },
+  {
+    "index": 1200,
+    "history": 18,
+    "family": "90",
+    "task": 0,
+    "seed": 7533000251557343091
+  },
+  {
+    "index": 1201,
+    "history": 18,
+    "family": "90",
+    "task": 1,
+    "seed": 4289570586500917880
+  },
+  {
+    "index": 1202,
+    "history": 18,
+    "family": "90",
+    "task": 2,
+    "seed": 7625369560473666449
+  },
+  {
+    "index": 1203,
+    "history": 18,
+    "family": "90",
+    "task": 3,
+    "seed": 6756251700961453460
+  },
+  {
+    "index": 1204,
+    "history": 18,
+    "family": "90",
+    "task": 4,
+    "seed": 1730372986634832725
+  },
+  {
+    "index": 1205,
+    "history": 18,
+    "family": "90",
+    "task": 5,
+    "seed": 16700420223860699232
+  },
+  {
+    "index": 1206,
+    "history": 18,
+    "family": "90",
+    "task": 6,
+    "seed": 14167394573319661819
+  },
+  {
+    "index": 1207,
+    "history": 18,
+    "family": "90",
+    "task": 7,
+    "seed": 4439817579053450472
+  },
+  {
+    "index": 1208,
+    "history": 18,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 14903909009452682626
+  },
+  {
+    "index": 1209,
+    "history": 18,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 1568913925749279399
+  },
+  {
+    "index": 1210,
+    "history": 18,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 3371893487562596401
+  },
+  {
+    "index": 1211,
+    "history": 18,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 7383428894202955524
+  },
+  {
+    "index": 1212,
+    "history": 18,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 8776381985177022139
+  },
+  {
+    "index": 1213,
+    "history": 18,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 6481357223750344826
+  },
+  {
+    "index": 1214,
+    "history": 18,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 15456030617692552299
+  },
+  {
+    "index": 1215,
+    "history": 18,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 13753952591627667605
+  },
+  {
+    "index": 1216,
+    "history": 19,
+    "family": "0",
+    "task": 0,
+    "seed": 7722951202014184203
+  },
+  {
+    "index": 1217,
+    "history": 19,
+    "family": "0",
+    "task": 1,
+    "seed": 1221613238445996636
+  },
+  {
+    "index": 1218,
+    "history": 19,
+    "family": "0",
+    "task": 2,
+    "seed": 11906030758511229051
+  },
+  {
+    "index": 1219,
+    "history": 19,
+    "family": "0",
+    "task": 3,
+    "seed": 14527181779522080904
+  },
+  {
+    "index": 1220,
+    "history": 19,
+    "family": "0",
+    "task": 4,
+    "seed": 11805714372500131557
+  },
+  {
+    "index": 1221,
+    "history": 19,
+    "family": "0",
+    "task": 5,
+    "seed": 5578892107723870754
+  },
+  {
+    "index": 1222,
+    "history": 19,
+    "family": "0",
+    "task": 6,
+    "seed": 10977000481583575292
+  },
+  {
+    "index": 1223,
+    "history": 19,
+    "family": "0",
+    "task": 7,
+    "seed": 4073386484136224215
+  },
+  {
+    "index": 1224,
+    "history": 19,
+    "family": "15",
+    "task": 0,
+    "seed": 14702427298799499956
+  },
+  {
+    "index": 1225,
+    "history": 19,
+    "family": "15",
+    "task": 1,
+    "seed": 16413784763232696861
+  },
+  {
+    "index": 1226,
+    "history": 19,
+    "family": "15",
+    "task": 2,
+    "seed": 13173981330153356852
+  },
+  {
+    "index": 1227,
+    "history": 19,
+    "family": "15",
+    "task": 3,
+    "seed": 8258518352752556072
+  },
+  {
+    "index": 1228,
+    "history": 19,
+    "family": "15",
+    "task": 4,
+    "seed": 2158527732948155609
+  },
+  {
+    "index": 1229,
+    "history": 19,
+    "family": "15",
+    "task": 5,
+    "seed": 8135584180139305308
+  },
+  {
+    "index": 1230,
+    "history": 19,
+    "family": "15",
+    "task": 6,
+    "seed": 14607453368675901070
+  },
+  {
+    "index": 1231,
+    "history": 19,
+    "family": "15",
+    "task": 7,
+    "seed": 5807838829280120456
+  },
+  {
+    "index": 1232,
+    "history": 19,
+    "family": "30",
+    "task": 0,
+    "seed": 988249125276386916
+  },
+  {
+    "index": 1233,
+    "history": 19,
+    "family": "30",
+    "task": 1,
+    "seed": 14170898463754751141
+  },
+  {
+    "index": 1234,
+    "history": 19,
+    "family": "30",
+    "task": 2,
+    "seed": 1678051568508155381
+  },
+  {
+    "index": 1235,
+    "history": 19,
+    "family": "30",
+    "task": 3,
+    "seed": 18359273085562618929
+  },
+  {
+    "index": 1236,
+    "history": 19,
+    "family": "30",
+    "task": 4,
+    "seed": 14328637412696521587
+  },
+  {
+    "index": 1237,
+    "history": 19,
+    "family": "30",
+    "task": 5,
+    "seed": 16515834303915416824
+  },
+  {
+    "index": 1238,
+    "history": 19,
+    "family": "30",
+    "task": 6,
+    "seed": 4846899071648852983
+  },
+  {
+    "index": 1239,
+    "history": 19,
+    "family": "30",
+    "task": 7,
+    "seed": 15007279783443921666
+  },
+  {
+    "index": 1240,
+    "history": 19,
+    "family": "45",
+    "task": 0,
+    "seed": 18015480325519846041
+  },
+  {
+    "index": 1241,
+    "history": 19,
+    "family": "45",
+    "task": 1,
+    "seed": 11214525923333609516
+  },
+  {
+    "index": 1242,
+    "history": 19,
+    "family": "45",
+    "task": 2,
+    "seed": 16456652533788035681
+  },
+  {
+    "index": 1243,
+    "history": 19,
+    "family": "45",
+    "task": 3,
+    "seed": 6056780293299229705
+  },
+  {
+    "index": 1244,
+    "history": 19,
+    "family": "45",
+    "task": 4,
+    "seed": 10466428807947828908
+  },
+  {
+    "index": 1245,
+    "history": 19,
+    "family": "45",
+    "task": 5,
+    "seed": 9393957416918068276
+  },
+  {
+    "index": 1246,
+    "history": 19,
+    "family": "45",
+    "task": 6,
+    "seed": 13682105110546132111
+  },
+  {
+    "index": 1247,
+    "history": 19,
+    "family": "45",
+    "task": 7,
+    "seed": 6799642933737323389
+  },
+  {
+    "index": 1248,
+    "history": 19,
+    "family": "60",
+    "task": 0,
+    "seed": 5206168781815155453
+  },
+  {
+    "index": 1249,
+    "history": 19,
+    "family": "60",
+    "task": 1,
+    "seed": 12825565765071528081
+  },
+  {
+    "index": 1250,
+    "history": 19,
+    "family": "60",
+    "task": 2,
+    "seed": 9252388850389325523
+  },
+  {
+    "index": 1251,
+    "history": 19,
+    "family": "60",
+    "task": 3,
+    "seed": 9975307802658765246
+  },
+  {
+    "index": 1252,
+    "history": 19,
+    "family": "60",
+    "task": 4,
+    "seed": 13529416581557704560
+  },
+  {
+    "index": 1253,
+    "history": 19,
+    "family": "60",
+    "task": 5,
+    "seed": 13673310668288997860
+  },
+  {
+    "index": 1254,
+    "history": 19,
+    "family": "60",
+    "task": 6,
+    "seed": 16857237195836560638
+  },
+  {
+    "index": 1255,
+    "history": 19,
+    "family": "60",
+    "task": 7,
+    "seed": 689151625060106622
+  },
+  {
+    "index": 1256,
+    "history": 19,
+    "family": "75",
+    "task": 0,
+    "seed": 8576230122244542408
+  },
+  {
+    "index": 1257,
+    "history": 19,
+    "family": "75",
+    "task": 1,
+    "seed": 447874818716915718
+  },
+  {
+    "index": 1258,
+    "history": 19,
+    "family": "75",
+    "task": 2,
+    "seed": 15926956879996370298
+  },
+  {
+    "index": 1259,
+    "history": 19,
+    "family": "75",
+    "task": 3,
+    "seed": 13338607532996403750
+  },
+  {
+    "index": 1260,
+    "history": 19,
+    "family": "75",
+    "task": 4,
+    "seed": 18380230471966493002
+  },
+  {
+    "index": 1261,
+    "history": 19,
+    "family": "75",
+    "task": 5,
+    "seed": 11455956700053055904
+  },
+  {
+    "index": 1262,
+    "history": 19,
+    "family": "75",
+    "task": 6,
+    "seed": 8852122138691532700
+  },
+  {
+    "index": 1263,
+    "history": 19,
+    "family": "75",
+    "task": 7,
+    "seed": 12164480481661192465
+  },
+  {
+    "index": 1264,
+    "history": 19,
+    "family": "90",
+    "task": 0,
+    "seed": 15444111903590093068
+  },
+  {
+    "index": 1265,
+    "history": 19,
+    "family": "90",
+    "task": 1,
+    "seed": 10240194182968215286
+  },
+  {
+    "index": 1266,
+    "history": 19,
+    "family": "90",
+    "task": 2,
+    "seed": 15417016768200087020
+  },
+  {
+    "index": 1267,
+    "history": 19,
+    "family": "90",
+    "task": 3,
+    "seed": 16389227204991665919
+  },
+  {
+    "index": 1268,
+    "history": 19,
+    "family": "90",
+    "task": 4,
+    "seed": 3767428450938768250
+  },
+  {
+    "index": 1269,
+    "history": 19,
+    "family": "90",
+    "task": 5,
+    "seed": 3174225277842907855
+  },
+  {
+    "index": 1270,
+    "history": 19,
+    "family": "90",
+    "task": 6,
+    "seed": 12841466748008681658
+  },
+  {
+    "index": 1271,
+    "history": 19,
+    "family": "90",
+    "task": 7,
+    "seed": 3294063962355509543
+  },
+  {
+    "index": 1272,
+    "history": 19,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 14948650474900394183
+  },
+  {
+    "index": 1273,
+    "history": 19,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 4497611944029708556
+  },
+  {
+    "index": 1274,
+    "history": 19,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 4269873329229819964
+  },
+  {
+    "index": 1275,
+    "history": 19,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 15282780066675948272
+  },
+  {
+    "index": 1276,
+    "history": 19,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 15828204460880703635
+  },
+  {
+    "index": 1277,
+    "history": 19,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 7363741536935409131
+  },
+  {
+    "index": 1278,
+    "history": 19,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 794542327135656543
+  },
+  {
+    "index": 1279,
+    "history": 19,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 3850354747327688727
+  },
+  {
+    "index": 1280,
+    "history": 20,
+    "family": "0",
+    "task": 0,
+    "seed": 8305277407493182135
+  },
+  {
+    "index": 1281,
+    "history": 20,
+    "family": "0",
+    "task": 1,
+    "seed": 2430237458495801433
+  },
+  {
+    "index": 1282,
+    "history": 20,
+    "family": "0",
+    "task": 2,
+    "seed": 12925680602182019886
+  },
+  {
+    "index": 1283,
+    "history": 20,
+    "family": "0",
+    "task": 3,
+    "seed": 11804039803750395342
+  },
+  {
+    "index": 1284,
+    "history": 20,
+    "family": "0",
+    "task": 4,
+    "seed": 4830211135529880867
+  },
+  {
+    "index": 1285,
+    "history": 20,
+    "family": "0",
+    "task": 5,
+    "seed": 429047970489724780
+  },
+  {
+    "index": 1286,
+    "history": 20,
+    "family": "0",
+    "task": 6,
+    "seed": 15939643143975456974
+  },
+  {
+    "index": 1287,
+    "history": 20,
+    "family": "0",
+    "task": 7,
+    "seed": 17347664828441906656
+  },
+  {
+    "index": 1288,
+    "history": 20,
+    "family": "15",
+    "task": 0,
+    "seed": 2158062632847115769
+  },
+  {
+    "index": 1289,
+    "history": 20,
+    "family": "15",
+    "task": 1,
+    "seed": 17911825698152520161
+  },
+  {
+    "index": 1290,
+    "history": 20,
+    "family": "15",
+    "task": 2,
+    "seed": 2747331686866222095
+  },
+  {
+    "index": 1291,
+    "history": 20,
+    "family": "15",
+    "task": 3,
+    "seed": 12980930245511963529
+  },
+  {
+    "index": 1292,
+    "history": 20,
+    "family": "15",
+    "task": 4,
+    "seed": 12265253267149903319
+  },
+  {
+    "index": 1293,
+    "history": 20,
+    "family": "15",
+    "task": 5,
+    "seed": 15051713091582779489
+  },
+  {
+    "index": 1294,
+    "history": 20,
+    "family": "15",
+    "task": 6,
+    "seed": 15575136545855138396
+  },
+  {
+    "index": 1295,
+    "history": 20,
+    "family": "15",
+    "task": 7,
+    "seed": 17239297072806483371
+  },
+  {
+    "index": 1296,
+    "history": 20,
+    "family": "30",
+    "task": 0,
+    "seed": 4814746779867031888
+  },
+  {
+    "index": 1297,
+    "history": 20,
+    "family": "30",
+    "task": 1,
+    "seed": 10744769921815019503
+  },
+  {
+    "index": 1298,
+    "history": 20,
+    "family": "30",
+    "task": 2,
+    "seed": 16762369003923593368
+  },
+  {
+    "index": 1299,
+    "history": 20,
+    "family": "30",
+    "task": 3,
+    "seed": 2204848896315775455
+  },
+  {
+    "index": 1300,
+    "history": 20,
+    "family": "30",
+    "task": 4,
+    "seed": 7211502920021079882
+  },
+  {
+    "index": 1301,
+    "history": 20,
+    "family": "30",
+    "task": 5,
+    "seed": 7189079260939563165
+  },
+  {
+    "index": 1302,
+    "history": 20,
+    "family": "30",
+    "task": 6,
+    "seed": 4082240844223412055
+  },
+  {
+    "index": 1303,
+    "history": 20,
+    "family": "30",
+    "task": 7,
+    "seed": 10775205903881435790
+  },
+  {
+    "index": 1304,
+    "history": 20,
+    "family": "45",
+    "task": 0,
+    "seed": 8426680165829734943
+  },
+  {
+    "index": 1305,
+    "history": 20,
+    "family": "45",
+    "task": 1,
+    "seed": 2050439748709537291
+  },
+  {
+    "index": 1306,
+    "history": 20,
+    "family": "45",
+    "task": 2,
+    "seed": 652225588441986623
+  },
+  {
+    "index": 1307,
+    "history": 20,
+    "family": "45",
+    "task": 3,
+    "seed": 1032779484621773837
+  },
+  {
+    "index": 1308,
+    "history": 20,
+    "family": "45",
+    "task": 4,
+    "seed": 7507835081342638496
+  },
+  {
+    "index": 1309,
+    "history": 20,
+    "family": "45",
+    "task": 5,
+    "seed": 16742447534796224354
+  },
+  {
+    "index": 1310,
+    "history": 20,
+    "family": "45",
+    "task": 6,
+    "seed": 15766353940357877254
+  },
+  {
+    "index": 1311,
+    "history": 20,
+    "family": "45",
+    "task": 7,
+    "seed": 17420603987367931214
+  },
+  {
+    "index": 1312,
+    "history": 20,
+    "family": "60",
+    "task": 0,
+    "seed": 7574885086740157687
+  },
+  {
+    "index": 1313,
+    "history": 20,
+    "family": "60",
+    "task": 1,
+    "seed": 15833068023405444220
+  },
+  {
+    "index": 1314,
+    "history": 20,
+    "family": "60",
+    "task": 2,
+    "seed": 2603381821435602810
+  },
+  {
+    "index": 1315,
+    "history": 20,
+    "family": "60",
+    "task": 3,
+    "seed": 9860127200930926285
+  },
+  {
+    "index": 1316,
+    "history": 20,
+    "family": "60",
+    "task": 4,
+    "seed": 11011666737682882760
+  },
+  {
+    "index": 1317,
+    "history": 20,
+    "family": "60",
+    "task": 5,
+    "seed": 4023935896049552163
+  },
+  {
+    "index": 1318,
+    "history": 20,
+    "family": "60",
+    "task": 6,
+    "seed": 10945064142252962763
+  },
+  {
+    "index": 1319,
+    "history": 20,
+    "family": "60",
+    "task": 7,
+    "seed": 12641753287970095602
+  },
+  {
+    "index": 1320,
+    "history": 20,
+    "family": "75",
+    "task": 0,
+    "seed": 15619719579019831386
+  },
+  {
+    "index": 1321,
+    "history": 20,
+    "family": "75",
+    "task": 1,
+    "seed": 15131892513175603182
+  },
+  {
+    "index": 1322,
+    "history": 20,
+    "family": "75",
+    "task": 2,
+    "seed": 392805889217361898
+  },
+  {
+    "index": 1323,
+    "history": 20,
+    "family": "75",
+    "task": 3,
+    "seed": 10123262209808473997
+  },
+  {
+    "index": 1324,
+    "history": 20,
+    "family": "75",
+    "task": 4,
+    "seed": 12735480410302419437
+  },
+  {
+    "index": 1325,
+    "history": 20,
+    "family": "75",
+    "task": 5,
+    "seed": 8159530025257785411
+  },
+  {
+    "index": 1326,
+    "history": 20,
+    "family": "75",
+    "task": 6,
+    "seed": 16924275262699271120
+  },
+  {
+    "index": 1327,
+    "history": 20,
+    "family": "75",
+    "task": 7,
+    "seed": 12348715878495747879
+  },
+  {
+    "index": 1328,
+    "history": 20,
+    "family": "90",
+    "task": 0,
+    "seed": 5829494911611458350
+  },
+  {
+    "index": 1329,
+    "history": 20,
+    "family": "90",
+    "task": 1,
+    "seed": 1093878010394411206
+  },
+  {
+    "index": 1330,
+    "history": 20,
+    "family": "90",
+    "task": 2,
+    "seed": 13669704801249288847
+  },
+  {
+    "index": 1331,
+    "history": 20,
+    "family": "90",
+    "task": 3,
+    "seed": 9104379607411245462
+  },
+  {
+    "index": 1332,
+    "history": 20,
+    "family": "90",
+    "task": 4,
+    "seed": 5257020025120442571
+  },
+  {
+    "index": 1333,
+    "history": 20,
+    "family": "90",
+    "task": 5,
+    "seed": 1371462788163426849
+  },
+  {
+    "index": 1334,
+    "history": 20,
+    "family": "90",
+    "task": 6,
+    "seed": 4555267993803987983
+  },
+  {
+    "index": 1335,
+    "history": 20,
+    "family": "90",
+    "task": 7,
+    "seed": 6716565487613047525
+  },
+  {
+    "index": 1336,
+    "history": 20,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 8057658080113652059
+  },
+  {
+    "index": 1337,
+    "history": 20,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 13610194538762628762
+  },
+  {
+    "index": 1338,
+    "history": 20,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 14444769706864403833
+  },
+  {
+    "index": 1339,
+    "history": 20,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 6756136187732200101
+  },
+  {
+    "index": 1340,
+    "history": 20,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 13410308909103948520
+  },
+  {
+    "index": 1341,
+    "history": 20,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 15322607613791144817
+  },
+  {
+    "index": 1342,
+    "history": 20,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 2928181001478842057
+  },
+  {
+    "index": 1343,
+    "history": 20,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 14737078160774634754
+  },
+  {
+    "index": 1344,
+    "history": 21,
+    "family": "0",
+    "task": 0,
+    "seed": 2560301935993359949
+  },
+  {
+    "index": 1345,
+    "history": 21,
+    "family": "0",
+    "task": 1,
+    "seed": 18242475649711868579
+  },
+  {
+    "index": 1346,
+    "history": 21,
+    "family": "0",
+    "task": 2,
+    "seed": 16869056646984765826
+  },
+  {
+    "index": 1347,
+    "history": 21,
+    "family": "0",
+    "task": 3,
+    "seed": 6626375220346940631
+  },
+  {
+    "index": 1348,
+    "history": 21,
+    "family": "0",
+    "task": 4,
+    "seed": 13250198318007936035
+  },
+  {
+    "index": 1349,
+    "history": 21,
+    "family": "0",
+    "task": 5,
+    "seed": 15292333304446853882
+  },
+  {
+    "index": 1350,
+    "history": 21,
+    "family": "0",
+    "task": 6,
+    "seed": 17112664683327240901
+  },
+  {
+    "index": 1351,
+    "history": 21,
+    "family": "0",
+    "task": 7,
+    "seed": 17490687311903873483
+  },
+  {
+    "index": 1352,
+    "history": 21,
+    "family": "15",
+    "task": 0,
+    "seed": 2641689507069299547
+  },
+  {
+    "index": 1353,
+    "history": 21,
+    "family": "15",
+    "task": 1,
+    "seed": 480855944689158407
+  },
+  {
+    "index": 1354,
+    "history": 21,
+    "family": "15",
+    "task": 2,
+    "seed": 9652406140009617543
+  },
+  {
+    "index": 1355,
+    "history": 21,
+    "family": "15",
+    "task": 3,
+    "seed": 12929150065473137327
+  },
+  {
+    "index": 1356,
+    "history": 21,
+    "family": "15",
+    "task": 4,
+    "seed": 17736889646367218475
+  },
+  {
+    "index": 1357,
+    "history": 21,
+    "family": "15",
+    "task": 5,
+    "seed": 12251821087432649998
+  },
+  {
+    "index": 1358,
+    "history": 21,
+    "family": "15",
+    "task": 6,
+    "seed": 510593203623785720
+  },
+  {
+    "index": 1359,
+    "history": 21,
+    "family": "15",
+    "task": 7,
+    "seed": 9778938536095398668
+  },
+  {
+    "index": 1360,
+    "history": 21,
+    "family": "30",
+    "task": 0,
+    "seed": 1875743170872091633
+  },
+  {
+    "index": 1361,
+    "history": 21,
+    "family": "30",
+    "task": 1,
+    "seed": 4417754274821468561
+  },
+  {
+    "index": 1362,
+    "history": 21,
+    "family": "30",
+    "task": 2,
+    "seed": 17459034762911418094
+  },
+  {
+    "index": 1363,
+    "history": 21,
+    "family": "30",
+    "task": 3,
+    "seed": 10838903959235124914
+  },
+  {
+    "index": 1364,
+    "history": 21,
+    "family": "30",
+    "task": 4,
+    "seed": 7631563059912579079
+  },
+  {
+    "index": 1365,
+    "history": 21,
+    "family": "30",
+    "task": 5,
+    "seed": 5101639644620736607
+  },
+  {
+    "index": 1366,
+    "history": 21,
+    "family": "30",
+    "task": 6,
+    "seed": 11629163907348042090
+  },
+  {
+    "index": 1367,
+    "history": 21,
+    "family": "30",
+    "task": 7,
+    "seed": 4648236557667259956
+  },
+  {
+    "index": 1368,
+    "history": 21,
+    "family": "45",
+    "task": 0,
+    "seed": 12638606883242587397
+  },
+  {
+    "index": 1369,
+    "history": 21,
+    "family": "45",
+    "task": 1,
+    "seed": 4201498102031802898
+  },
+  {
+    "index": 1370,
+    "history": 21,
+    "family": "45",
+    "task": 2,
+    "seed": 14304243856338649141
+  },
+  {
+    "index": 1371,
+    "history": 21,
+    "family": "45",
+    "task": 3,
+    "seed": 8570754539161842015
+  },
+  {
+    "index": 1372,
+    "history": 21,
+    "family": "45",
+    "task": 4,
+    "seed": 6968169493530154936
+  },
+  {
+    "index": 1373,
+    "history": 21,
+    "family": "45",
+    "task": 5,
+    "seed": 9202212429436816001
+  },
+  {
+    "index": 1374,
+    "history": 21,
+    "family": "45",
+    "task": 6,
+    "seed": 14255339292298909667
+  },
+  {
+    "index": 1375,
+    "history": 21,
+    "family": "45",
+    "task": 7,
+    "seed": 15465513135137061898
+  },
+  {
+    "index": 1376,
+    "history": 21,
+    "family": "60",
+    "task": 0,
+    "seed": 7387337624999654865
+  },
+  {
+    "index": 1377,
+    "history": 21,
+    "family": "60",
+    "task": 1,
+    "seed": 9459588931172603963
+  },
+  {
+    "index": 1378,
+    "history": 21,
+    "family": "60",
+    "task": 2,
+    "seed": 14224338117001476889
+  },
+  {
+    "index": 1379,
+    "history": 21,
+    "family": "60",
+    "task": 3,
+    "seed": 2192425840823319383
+  },
+  {
+    "index": 1380,
+    "history": 21,
+    "family": "60",
+    "task": 4,
+    "seed": 5606514041430927036
+  },
+  {
+    "index": 1381,
+    "history": 21,
+    "family": "60",
+    "task": 5,
+    "seed": 14514410135819936063
+  },
+  {
+    "index": 1382,
+    "history": 21,
+    "family": "60",
+    "task": 6,
+    "seed": 16752330875824146210
+  },
+  {
+    "index": 1383,
+    "history": 21,
+    "family": "60",
+    "task": 7,
+    "seed": 11175735764779268744
+  },
+  {
+    "index": 1384,
+    "history": 21,
+    "family": "75",
+    "task": 0,
+    "seed": 15344938822389634126
+  },
+  {
+    "index": 1385,
+    "history": 21,
+    "family": "75",
+    "task": 1,
+    "seed": 7300178834906624805
+  },
+  {
+    "index": 1386,
+    "history": 21,
+    "family": "75",
+    "task": 2,
+    "seed": 15623113507771420081
+  },
+  {
+    "index": 1387,
+    "history": 21,
+    "family": "75",
+    "task": 3,
+    "seed": 4659436347011473040
+  },
+  {
+    "index": 1388,
+    "history": 21,
+    "family": "75",
+    "task": 4,
+    "seed": 8709497280318126044
+  },
+  {
+    "index": 1389,
+    "history": 21,
+    "family": "75",
+    "task": 5,
+    "seed": 4426993101689799339
+  },
+  {
+    "index": 1390,
+    "history": 21,
+    "family": "75",
+    "task": 6,
+    "seed": 3049851906327886609
+  },
+  {
+    "index": 1391,
+    "history": 21,
+    "family": "75",
+    "task": 7,
+    "seed": 10481892917607870903
+  },
+  {
+    "index": 1392,
+    "history": 21,
+    "family": "90",
+    "task": 0,
+    "seed": 10139693342880640794
+  },
+  {
+    "index": 1393,
+    "history": 21,
+    "family": "90",
+    "task": 1,
+    "seed": 10241757225982664194
+  },
+  {
+    "index": 1394,
+    "history": 21,
+    "family": "90",
+    "task": 2,
+    "seed": 18217340150134932553
+  },
+  {
+    "index": 1395,
+    "history": 21,
+    "family": "90",
+    "task": 3,
+    "seed": 15435562180413095243
+  },
+  {
+    "index": 1396,
+    "history": 21,
+    "family": "90",
+    "task": 4,
+    "seed": 9238061464043831744
+  },
+  {
+    "index": 1397,
+    "history": 21,
+    "family": "90",
+    "task": 5,
+    "seed": 2861372618677670239
+  },
+  {
+    "index": 1398,
+    "history": 21,
+    "family": "90",
+    "task": 6,
+    "seed": 2514527871633584420
+  },
+  {
+    "index": 1399,
+    "history": 21,
+    "family": "90",
+    "task": 7,
+    "seed": 11327681410244866413
+  },
+  {
+    "index": 1400,
+    "history": 21,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 4095083905025937647
+  },
+  {
+    "index": 1401,
+    "history": 21,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 1511111846340760998
+  },
+  {
+    "index": 1402,
+    "history": 21,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 1573054367374697491
+  },
+  {
+    "index": 1403,
+    "history": 21,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 10790327940341579888
+  },
+  {
+    "index": 1404,
+    "history": 21,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 8709348072180633938
+  },
+  {
+    "index": 1405,
+    "history": 21,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 15449993837880024117
+  },
+  {
+    "index": 1406,
+    "history": 21,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 13817396875211866688
+  },
+  {
+    "index": 1407,
+    "history": 21,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 14772299984143945444
+  },
+  {
+    "index": 1408,
+    "history": 22,
+    "family": "0",
+    "task": 0,
+    "seed": 7476772113570631249
+  },
+  {
+    "index": 1409,
+    "history": 22,
+    "family": "0",
+    "task": 1,
+    "seed": 3449110349217760283
+  },
+  {
+    "index": 1410,
+    "history": 22,
+    "family": "0",
+    "task": 2,
+    "seed": 2940423169952743230
+  },
+  {
+    "index": 1411,
+    "history": 22,
+    "family": "0",
+    "task": 3,
+    "seed": 12537920191053199825
+  },
+  {
+    "index": 1412,
+    "history": 22,
+    "family": "0",
+    "task": 4,
+    "seed": 5875657431154975459
+  },
+  {
+    "index": 1413,
+    "history": 22,
+    "family": "0",
+    "task": 5,
+    "seed": 3322523826233062949
+  },
+  {
+    "index": 1414,
+    "history": 22,
+    "family": "0",
+    "task": 6,
+    "seed": 16289425945918973850
+  },
+  {
+    "index": 1415,
+    "history": 22,
+    "family": "0",
+    "task": 7,
+    "seed": 16839907571162397818
+  },
+  {
+    "index": 1416,
+    "history": 22,
+    "family": "15",
+    "task": 0,
+    "seed": 9996461635826865711
+  },
+  {
+    "index": 1417,
+    "history": 22,
+    "family": "15",
+    "task": 1,
+    "seed": 11825915881002800533
+  },
+  {
+    "index": 1418,
+    "history": 22,
+    "family": "15",
+    "task": 2,
+    "seed": 2922503899943211449
+  },
+  {
+    "index": 1419,
+    "history": 22,
+    "family": "15",
+    "task": 3,
+    "seed": 14062017450073016386
+  },
+  {
+    "index": 1420,
+    "history": 22,
+    "family": "15",
+    "task": 4,
+    "seed": 8333950756077726406
+  },
+  {
+    "index": 1421,
+    "history": 22,
+    "family": "15",
+    "task": 5,
+    "seed": 4920443818349221869
+  },
+  {
+    "index": 1422,
+    "history": 22,
+    "family": "15",
+    "task": 6,
+    "seed": 17933794370335930847
+  },
+  {
+    "index": 1423,
+    "history": 22,
+    "family": "15",
+    "task": 7,
+    "seed": 8532063032629326222
+  },
+  {
+    "index": 1424,
+    "history": 22,
+    "family": "30",
+    "task": 0,
+    "seed": 2869927317149481771
+  },
+  {
+    "index": 1425,
+    "history": 22,
+    "family": "30",
+    "task": 1,
+    "seed": 8857475947100045432
+  },
+  {
+    "index": 1426,
+    "history": 22,
+    "family": "30",
+    "task": 2,
+    "seed": 8170527691861271788
+  },
+  {
+    "index": 1427,
+    "history": 22,
+    "family": "30",
+    "task": 3,
+    "seed": 7969889966704662823
+  },
+  {
+    "index": 1428,
+    "history": 22,
+    "family": "30",
+    "task": 4,
+    "seed": 6537248740435202591
+  },
+  {
+    "index": 1429,
+    "history": 22,
+    "family": "30",
+    "task": 5,
+    "seed": 13593891677397672452
+  },
+  {
+    "index": 1430,
+    "history": 22,
+    "family": "30",
+    "task": 6,
+    "seed": 9743418392087162273
+  },
+  {
+    "index": 1431,
+    "history": 22,
+    "family": "30",
+    "task": 7,
+    "seed": 15957115665227652657
+  },
+  {
+    "index": 1432,
+    "history": 22,
+    "family": "45",
+    "task": 0,
+    "seed": 8892217395485093997
+  },
+  {
+    "index": 1433,
+    "history": 22,
+    "family": "45",
+    "task": 1,
+    "seed": 8120422707294603601
+  },
+  {
+    "index": 1434,
+    "history": 22,
+    "family": "45",
+    "task": 2,
+    "seed": 4583467195323470552
+  },
+  {
+    "index": 1435,
+    "history": 22,
+    "family": "45",
+    "task": 3,
+    "seed": 15331602722102882247
+  },
+  {
+    "index": 1436,
+    "history": 22,
+    "family": "45",
+    "task": 4,
+    "seed": 9723184898070263452
+  },
+  {
+    "index": 1437,
+    "history": 22,
+    "family": "45",
+    "task": 5,
+    "seed": 9112483708196436411
+  },
+  {
+    "index": 1438,
+    "history": 22,
+    "family": "45",
+    "task": 6,
+    "seed": 7116412939206128221
+  },
+  {
+    "index": 1439,
+    "history": 22,
+    "family": "45",
+    "task": 7,
+    "seed": 4185861070516550199
+  },
+  {
+    "index": 1440,
+    "history": 22,
+    "family": "60",
+    "task": 0,
+    "seed": 15542069213877004383
+  },
+  {
+    "index": 1441,
+    "history": 22,
+    "family": "60",
+    "task": 1,
+    "seed": 5136878178275134066
+  },
+  {
+    "index": 1442,
+    "history": 22,
+    "family": "60",
+    "task": 2,
+    "seed": 3141102675354443796
+  },
+  {
+    "index": 1443,
+    "history": 22,
+    "family": "60",
+    "task": 3,
+    "seed": 12282038733757182281
+  },
+  {
+    "index": 1444,
+    "history": 22,
+    "family": "60",
+    "task": 4,
+    "seed": 15138872304359113491
+  },
+  {
+    "index": 1445,
+    "history": 22,
+    "family": "60",
+    "task": 5,
+    "seed": 17695523558048056808
+  },
+  {
+    "index": 1446,
+    "history": 22,
+    "family": "60",
+    "task": 6,
+    "seed": 10843663786603337182
+  },
+  {
+    "index": 1447,
+    "history": 22,
+    "family": "60",
+    "task": 7,
+    "seed": 15418938991706413801
+  },
+  {
+    "index": 1448,
+    "history": 22,
+    "family": "75",
+    "task": 0,
+    "seed": 5410002829792971921
+  },
+  {
+    "index": 1449,
+    "history": 22,
+    "family": "75",
+    "task": 1,
+    "seed": 1388786463808405724
+  },
+  {
+    "index": 1450,
+    "history": 22,
+    "family": "75",
+    "task": 2,
+    "seed": 14226672487367400699
+  },
+  {
+    "index": 1451,
+    "history": 22,
+    "family": "75",
+    "task": 3,
+    "seed": 5930032134040493660
+  },
+  {
+    "index": 1452,
+    "history": 22,
+    "family": "75",
+    "task": 4,
+    "seed": 9631097629089331951
+  },
+  {
+    "index": 1453,
+    "history": 22,
+    "family": "75",
+    "task": 5,
+    "seed": 16513031780073080582
+  },
+  {
+    "index": 1454,
+    "history": 22,
+    "family": "75",
+    "task": 6,
+    "seed": 11499076878473028606
+  },
+  {
+    "index": 1455,
+    "history": 22,
+    "family": "75",
+    "task": 7,
+    "seed": 426474131545023080
+  },
+  {
+    "index": 1456,
+    "history": 22,
+    "family": "90",
+    "task": 0,
+    "seed": 10394717069862921007
+  },
+  {
+    "index": 1457,
+    "history": 22,
+    "family": "90",
+    "task": 1,
+    "seed": 15761841970326601333
+  },
+  {
+    "index": 1458,
+    "history": 22,
+    "family": "90",
+    "task": 2,
+    "seed": 15726108483842986913
+  },
+  {
+    "index": 1459,
+    "history": 22,
+    "family": "90",
+    "task": 3,
+    "seed": 17366566347383341758
+  },
+  {
+    "index": 1460,
+    "history": 22,
+    "family": "90",
+    "task": 4,
+    "seed": 7833329335149407563
+  },
+  {
+    "index": 1461,
+    "history": 22,
+    "family": "90",
+    "task": 5,
+    "seed": 15944644368672586645
+  },
+  {
+    "index": 1462,
+    "history": 22,
+    "family": "90",
+    "task": 6,
+    "seed": 2609119132938571387
+  },
+  {
+    "index": 1463,
+    "history": 22,
+    "family": "90",
+    "task": 7,
+    "seed": 8672861663618227403
+  },
+  {
+    "index": 1464,
+    "history": 22,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 10660416412059734474
+  },
+  {
+    "index": 1465,
+    "history": 22,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 12235519535173517011
+  },
+  {
+    "index": 1466,
+    "history": 22,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 12545991534574491816
+  },
+  {
+    "index": 1467,
+    "history": 22,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 10801407065393348569
+  },
+  {
+    "index": 1468,
+    "history": 22,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 14499382260327528075
+  },
+  {
+    "index": 1469,
+    "history": 22,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 8300505510944251282
+  },
+  {
+    "index": 1470,
+    "history": 22,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 10694820583927377043
+  },
+  {
+    "index": 1471,
+    "history": 22,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 14496671067170160075
+  },
+  {
+    "index": 1472,
+    "history": 23,
+    "family": "0",
+    "task": 0,
+    "seed": 9955576089878916566
+  },
+  {
+    "index": 1473,
+    "history": 23,
+    "family": "0",
+    "task": 1,
+    "seed": 12207849404277178156
+  },
+  {
+    "index": 1474,
+    "history": 23,
+    "family": "0",
+    "task": 2,
+    "seed": 2533512781482833897
+  },
+  {
+    "index": 1475,
+    "history": 23,
+    "family": "0",
+    "task": 3,
+    "seed": 8497862079537173863
+  },
+  {
+    "index": 1476,
+    "history": 23,
+    "family": "0",
+    "task": 4,
+    "seed": 3805337221622969802
+  },
+  {
+    "index": 1477,
+    "history": 23,
+    "family": "0",
+    "task": 5,
+    "seed": 6954012095057418539
+  },
+  {
+    "index": 1478,
+    "history": 23,
+    "family": "0",
+    "task": 6,
+    "seed": 17709396672949036975
+  },
+  {
+    "index": 1479,
+    "history": 23,
+    "family": "0",
+    "task": 7,
+    "seed": 2492499633069668964
+  },
+  {
+    "index": 1480,
+    "history": 23,
+    "family": "15",
+    "task": 0,
+    "seed": 17162023909729203776
+  },
+  {
+    "index": 1481,
+    "history": 23,
+    "family": "15",
+    "task": 1,
+    "seed": 5294728887639588191
+  },
+  {
+    "index": 1482,
+    "history": 23,
+    "family": "15",
+    "task": 2,
+    "seed": 10385824160838668552
+  },
+  {
+    "index": 1483,
+    "history": 23,
+    "family": "15",
+    "task": 3,
+    "seed": 14776328146469686297
+  },
+  {
+    "index": 1484,
+    "history": 23,
+    "family": "15",
+    "task": 4,
+    "seed": 1446392046363780623
+  },
+  {
+    "index": 1485,
+    "history": 23,
+    "family": "15",
+    "task": 5,
+    "seed": 2285011294911378043
+  },
+  {
+    "index": 1486,
+    "history": 23,
+    "family": "15",
+    "task": 6,
+    "seed": 2791581515643962543
+  },
+  {
+    "index": 1487,
+    "history": 23,
+    "family": "15",
+    "task": 7,
+    "seed": 7719600698576913662
+  },
+  {
+    "index": 1488,
+    "history": 23,
+    "family": "30",
+    "task": 0,
+    "seed": 14448877991332538119
+  },
+  {
+    "index": 1489,
+    "history": 23,
+    "family": "30",
+    "task": 1,
+    "seed": 10274119168872973942
+  },
+  {
+    "index": 1490,
+    "history": 23,
+    "family": "30",
+    "task": 2,
+    "seed": 13158826388731074857
+  },
+  {
+    "index": 1491,
+    "history": 23,
+    "family": "30",
+    "task": 3,
+    "seed": 10138794662916276168
+  },
+  {
+    "index": 1492,
+    "history": 23,
+    "family": "30",
+    "task": 4,
+    "seed": 6064524832548047201
+  },
+  {
+    "index": 1493,
+    "history": 23,
+    "family": "30",
+    "task": 5,
+    "seed": 7336222377787453006
+  },
+  {
+    "index": 1494,
+    "history": 23,
+    "family": "30",
+    "task": 6,
+    "seed": 439293508854583741
+  },
+  {
+    "index": 1495,
+    "history": 23,
+    "family": "30",
+    "task": 7,
+    "seed": 6263038632100723320
+  },
+  {
+    "index": 1496,
+    "history": 23,
+    "family": "45",
+    "task": 0,
+    "seed": 3702638024665868435
+  },
+  {
+    "index": 1497,
+    "history": 23,
+    "family": "45",
+    "task": 1,
+    "seed": 12559218685053040306
+  },
+  {
+    "index": 1498,
+    "history": 23,
+    "family": "45",
+    "task": 2,
+    "seed": 12482176012031659225
+  },
+  {
+    "index": 1499,
+    "history": 23,
+    "family": "45",
+    "task": 3,
+    "seed": 13621925553032352627
+  },
+  {
+    "index": 1500,
+    "history": 23,
+    "family": "45",
+    "task": 4,
+    "seed": 1115417339724701778
+  },
+  {
+    "index": 1501,
+    "history": 23,
+    "family": "45",
+    "task": 5,
+    "seed": 15306936998703407061
+  },
+  {
+    "index": 1502,
+    "history": 23,
+    "family": "45",
+    "task": 6,
+    "seed": 11928356918162293847
+  },
+  {
+    "index": 1503,
+    "history": 23,
+    "family": "45",
+    "task": 7,
+    "seed": 12234251689301347844
+  },
+  {
+    "index": 1504,
+    "history": 23,
+    "family": "60",
+    "task": 0,
+    "seed": 7805316855983175530
+  },
+  {
+    "index": 1505,
+    "history": 23,
+    "family": "60",
+    "task": 1,
+    "seed": 5106840566996839373
+  },
+  {
+    "index": 1506,
+    "history": 23,
+    "family": "60",
+    "task": 2,
+    "seed": 2555842241588026812
+  },
+  {
+    "index": 1507,
+    "history": 23,
+    "family": "60",
+    "task": 3,
+    "seed": 1134007086934676429
+  },
+  {
+    "index": 1508,
+    "history": 23,
+    "family": "60",
+    "task": 4,
+    "seed": 6270592495368369664
+  },
+  {
+    "index": 1509,
+    "history": 23,
+    "family": "60",
+    "task": 5,
+    "seed": 9635639273110330964
+  },
+  {
+    "index": 1510,
+    "history": 23,
+    "family": "60",
+    "task": 6,
+    "seed": 11790945605367046963
+  },
+  {
+    "index": 1511,
+    "history": 23,
+    "family": "60",
+    "task": 7,
+    "seed": 10617243860427895468
+  },
+  {
+    "index": 1512,
+    "history": 23,
+    "family": "75",
+    "task": 0,
+    "seed": 5651657596219378964
+  },
+  {
+    "index": 1513,
+    "history": 23,
+    "family": "75",
+    "task": 1,
+    "seed": 9869497679625064266
+  },
+  {
+    "index": 1514,
+    "history": 23,
+    "family": "75",
+    "task": 2,
+    "seed": 13495180181921151751
+  },
+  {
+    "index": 1515,
+    "history": 23,
+    "family": "75",
+    "task": 3,
+    "seed": 12805864240879531779
+  },
+  {
+    "index": 1516,
+    "history": 23,
+    "family": "75",
+    "task": 4,
+    "seed": 4204099886726516216
+  },
+  {
+    "index": 1517,
+    "history": 23,
+    "family": "75",
+    "task": 5,
+    "seed": 8516094325713530358
+  },
+  {
+    "index": 1518,
+    "history": 23,
+    "family": "75",
+    "task": 6,
+    "seed": 12186761708846447453
+  },
+  {
+    "index": 1519,
+    "history": 23,
+    "family": "75",
+    "task": 7,
+    "seed": 12393566204901842985
+  },
+  {
+    "index": 1520,
+    "history": 23,
+    "family": "90",
+    "task": 0,
+    "seed": 5577889213835000481
+  },
+  {
+    "index": 1521,
+    "history": 23,
+    "family": "90",
+    "task": 1,
+    "seed": 14990971956986023845
+  },
+  {
+    "index": 1522,
+    "history": 23,
+    "family": "90",
+    "task": 2,
+    "seed": 16854634620931606048
+  },
+  {
+    "index": 1523,
+    "history": 23,
+    "family": "90",
+    "task": 3,
+    "seed": 7491569112983722898
+  },
+  {
+    "index": 1524,
+    "history": 23,
+    "family": "90",
+    "task": 4,
+    "seed": 16007849086554451148
+  },
+  {
+    "index": 1525,
+    "history": 23,
+    "family": "90",
+    "task": 5,
+    "seed": 6328232778382601230
+  },
+  {
+    "index": 1526,
+    "history": 23,
+    "family": "90",
+    "task": 6,
+    "seed": 9712141868940289287
+  },
+  {
+    "index": 1527,
+    "history": 23,
+    "family": "90",
+    "task": 7,
+    "seed": 6745008491117496829
+  },
+  {
+    "index": 1528,
+    "history": 23,
+    "family": "isotropic",
+    "task": 0,
+    "seed": 4774644622091165692
+  },
+  {
+    "index": 1529,
+    "history": 23,
+    "family": "isotropic",
+    "task": 1,
+    "seed": 9461282038589088427
+  },
+  {
+    "index": 1530,
+    "history": 23,
+    "family": "isotropic",
+    "task": 2,
+    "seed": 12704147435200990305
+  },
+  {
+    "index": 1531,
+    "history": 23,
+    "family": "isotropic",
+    "task": 3,
+    "seed": 10011416202520573776
+  },
+  {
+    "index": 1532,
+    "history": 23,
+    "family": "isotropic",
+    "task": 4,
+    "seed": 3649910517462778407
+  },
+  {
+    "index": 1533,
+    "history": 23,
+    "family": "isotropic",
+    "task": 5,
+    "seed": 1915983055422854129
+  },
+  {
+    "index": 1534,
+    "history": 23,
+    "family": "isotropic",
+    "task": 6,
+    "seed": 133657235623696982
+  },
+  {
+    "index": 1535,
+    "history": 23,
+    "family": "isotropic",
+    "task": 7,
+    "seed": 5814268830403491749
+  }
+]

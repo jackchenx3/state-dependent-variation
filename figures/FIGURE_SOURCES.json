@@ -8005,6 +8005,1275 @@
           "note": "Different fitness metric and fresh transfer noise; values are context, not a same-loss adaptation comparison."
         }
       }
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|0|DELTA",
+        "mean"
+      ],
+      "value": -0.006210935491714919
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|0|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.014379500466618702,
+        0.002121272487762802
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|0|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|15|DELTA",
+        "mean"
+      ],
+      "value": -0.009576839203323277
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|15|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.01644591814415808,
+        -0.002319104054844022
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|15|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|30|DELTA",
+        "mean"
+      ],
+      "value": -0.009739156161745277
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|30|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.018126854986644535,
+        -0.0007253173702164335
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|30|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|45|DELTA",
+        "mean"
+      ],
+      "value": -0.009090851543633047
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|45|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.016702945326711276,
+        -0.002452639832139958
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|45|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|60|DELTA",
+        "mean"
+      ],
+      "value": -0.0024410455669004387
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|60|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.009272599055450482,
+        0.0041305955759082585
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|60|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|75|DELTA",
+        "mean"
+      ],
+      "value": -0.003909901883695315
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|75|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.014340204754063165,
+        0.0068304555787388945
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|75|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|90|DELTA",
+        "mean"
+      ],
+      "value": -0.009940215509272014
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|90|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.018317708575678014,
+        -0.0023120153843690853
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|90|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|isotropic|DELTA",
+        "mean"
+      ],
+      "value": -0.008353653199547631
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|isotropic|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.017222729153709173,
+        0.00038042627421381583
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|isotropic|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|0|DELTA",
+        "mean"
+      ],
+      "value": 6.625984225195243e-06
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|0|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.006240607483577974,
+        0.006401800592913159
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|0|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|15|DELTA",
+        "mean"
+      ],
+      "value": -0.0006802545367254614
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|15|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.009144694840655988,
+        0.008428817220080341
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|15|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|30|DELTA",
+        "mean"
+      ],
+      "value": -0.005098445160665043
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|30|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.01140341753940363,
+        0.0010726947565080068
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|30|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|45|DELTA",
+        "mean"
+      ],
+      "value": 5.38063887220077e-05
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|45|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.00760724891905557,
+        0.007213693457132036
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|45|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|60|DELTA",
+        "mean"
+      ],
+      "value": -0.0048295593579732584
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|60|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.01124907764524458,
+        0.0015278094083525748
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|60|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|75|DELTA",
+        "mean"
+      ],
+      "value": -0.005702577448810436
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|75|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.01579429329486469,
+        0.0048829155144571035
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|75|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|90|DELTA",
+        "mean"
+      ],
+      "value": 0.0001525554940964268
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|90|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.010622720084603354,
+        0.011356715925507284
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|90|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|isotropic|DELTA",
+        "mean"
+      ],
+      "value": -0.007828759366825443
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|isotropic|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.014814212584084819,
+        -0.0010336720849892943
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|isotropic|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|ALL8|DELTA",
+        "mean"
+      ],
+      "value": -0.007407824819978988
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|ALL8|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.010159885551502162,
+        -0.004489223915655508
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured|ALL8|DELTA",
+        "classification"
+      ],
+      "value": "negative"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|ALL8|DELTA",
+        "mean"
+      ],
+      "value": -0.002990826000494502
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|ALL8|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.006668427936255184,
+        0.0005040689117295059
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "isotropic|ALL8|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured_MINUS_isotropic|ALL8|DELTA",
+        "mean"
+      ],
+      "value": -0.0044169988194844865
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured_MINUS_isotropic|ALL8|DELTA",
+        "ci95"
+      ],
+      "value": [
+        -0.009744160770809555,
+        0.0008630642534942596
+      ]
+    },
+    {
+      "path": "results/064/ESTIMATES.json",
+      "route": [
+        "structured_MINUS_isotropic|ALL8|DELTA",
+        "classification"
+      ],
+      "value": "unresolved"
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        0,
+        "generation"
+      ],
+      "value": 5
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        0,
+        "centroid_max_difference"
+      ],
+      "value": 3.3306690738754696e-16
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        0,
+        "covariance_max_difference"
+      ],
+      "value": 4.163336342344337e-17
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        0,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 1.0213184464813899e-16
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        1,
+        "generation"
+      ],
+      "value": 6
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        1,
+        "centroid_max_difference"
+      ],
+      "value": 0.09643216566853863
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        1,
+        "covariance_max_difference"
+      ],
+      "value": 0.04088726240500541
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        1,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.011614393601506262
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        2,
+        "generation"
+      ],
+      "value": 7
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        2,
+        "centroid_max_difference"
+      ],
+      "value": 0.1269678598860406
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        2,
+        "covariance_max_difference"
+      ],
+      "value": 0.05919870260385329
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        2,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.014312001058007576
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        3,
+        "generation"
+      ],
+      "value": 8
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        3,
+        "centroid_max_difference"
+      ],
+      "value": 0.17877013119682694
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        3,
+        "covariance_max_difference"
+      ],
+      "value": 0.07679214150625004
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        3,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.017831041123543907
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        4,
+        "generation"
+      ],
+      "value": 9
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        4,
+        "centroid_max_difference"
+      ],
+      "value": 0.2325905788352975
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        4,
+        "covariance_max_difference"
+      ],
+      "value": 0.07507243300838315
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        4,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.020623364604107047
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        5,
+        "generation"
+      ],
+      "value": 10
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        5,
+        "centroid_max_difference"
+      ],
+      "value": 0.3120138678938945
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        5,
+        "covariance_max_difference"
+      ],
+      "value": 0.07692865090713252
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        5,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02228345100033719
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        6,
+        "generation"
+      ],
+      "value": 11
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        6,
+        "centroid_max_difference"
+      ],
+      "value": 0.40119573966821787
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        6,
+        "covariance_max_difference"
+      ],
+      "value": 0.07603989255823242
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        6,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.022883971694139204
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        7,
+        "generation"
+      ],
+      "value": 12
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        7,
+        "centroid_max_difference"
+      ],
+      "value": 0.4322722557683151
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        7,
+        "covariance_max_difference"
+      ],
+      "value": 0.08026498856471583
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        7,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02295211879441557
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        8,
+        "generation"
+      ],
+      "value": 13
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        8,
+        "centroid_max_difference"
+      ],
+      "value": 0.4190504829744175
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        8,
+        "covariance_max_difference"
+      ],
+      "value": 0.07813149475852765
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        8,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.022625445983482803
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        9,
+        "generation"
+      ],
+      "value": 14
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        9,
+        "centroid_max_difference"
+      ],
+      "value": 0.4484180849256975
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        9,
+        "covariance_max_difference"
+      ],
+      "value": 0.07784383924833946
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        9,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.022065516861157174
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        10,
+        "generation"
+      ],
+      "value": 15
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        10,
+        "centroid_max_difference"
+      ],
+      "value": 0.4386690040819495
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        10,
+        "covariance_max_difference"
+      ],
+      "value": 0.08790686002645696
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        10,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.021750658463074658
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        11,
+        "generation"
+      ],
+      "value": 16
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        11,
+        "centroid_max_difference"
+      ],
+      "value": 0.46884891400156437
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        11,
+        "covariance_max_difference"
+      ],
+      "value": 0.08756565998216634
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        11,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02144988254708295
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        12,
+        "generation"
+      ],
+      "value": 17
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        12,
+        "centroid_max_difference"
+      ],
+      "value": 0.4708221696408048
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        12,
+        "covariance_max_difference"
+      ],
+      "value": 0.07609268279552645
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        12,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.021247694613160215
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        13,
+        "generation"
+      ],
+      "value": 18
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        13,
+        "centroid_max_difference"
+      ],
+      "value": 0.4874454771143373
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        13,
+        "covariance_max_difference"
+      ],
+      "value": 0.07931286445372965
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        13,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02107707289780549
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        14,
+        "generation"
+      ],
+      "value": 19
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        14,
+        "centroid_max_difference"
+      ],
+      "value": 0.4749180996243665
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        14,
+        "covariance_max_difference"
+      ],
+      "value": 0.07407822328431095
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        14,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.021003351534951545
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        15,
+        "generation"
+      ],
+      "value": 20
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        15,
+        "centroid_max_difference"
+      ],
+      "value": 0.4735384746827544
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        15,
+        "covariance_max_difference"
+      ],
+      "value": 0.08903026785664214
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        15,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.020935248117452163
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        16,
+        "generation"
+      ],
+      "value": 21
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        16,
+        "centroid_max_difference"
+      ],
+      "value": 0.4977760365790887
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        16,
+        "covariance_max_difference"
+      ],
+      "value": 0.06332315769450628
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        16,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02090802775139807
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        17,
+        "generation"
+      ],
+      "value": 22
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        17,
+        "centroid_max_difference"
+      ],
+      "value": 0.4870536645722475
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        17,
+        "covariance_max_difference"
+      ],
+      "value": 0.06917864370791571
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        17,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.020825202370871654
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        18,
+        "generation"
+      ],
+      "value": 23
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        18,
+        "centroid_max_difference"
+      ],
+      "value": 0.47130867962396084
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        18,
+        "covariance_max_difference"
+      ],
+      "value": 0.05515930576801401
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        18,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.020599526466637735
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        19,
+        "generation"
+      ],
+      "value": 24
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        19,
+        "centroid_max_difference"
+      ],
+      "value": 0.4745042424887997
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        19,
+        "covariance_max_difference"
+      ],
+      "value": 0.05738085917536192
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        19,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.02042643107278357
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        20,
+        "generation"
+      ],
+      "value": 25
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        20,
+        "centroid_max_difference"
+      ],
+      "value": 0.45872163551495754
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        20,
+        "covariance_max_difference"
+      ],
+      "value": 0.06498901903449725
+    },
+    {
+      "path": "results/064/DIAGNOSTICS.json",
+      "route": [
+        "generations",
+        20,
+        "mean_absolute_performance_difference"
+      ],
+      "value": 0.020347346495122935
     }
   ],
   "intervals": "Approximate pointwise intervals; dependence and endpoint scope are stated in the manuscript."

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "figures": 9,
+  "source_bindings": 465,
+  "all_rebuilt_source_records_equal": true,
+  "original_figures_equal_accepted_draft": true,
+  "scope": "All nine figures regenerated using saved outcomes. All 465 numeric source bindings equal the release registry. No byte-identity claim for renderer-dependent output files."
+}

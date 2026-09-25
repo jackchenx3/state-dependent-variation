@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "Executor-supplied independent-arithmetic checker; supervisor acceptance separate",
+  "initial_states": 6144,
+  "raw_roster_rows": 128,
+  "raw_paths": 512,
+  "raw_updates": 10240,
+  "candidate_scores": 655360,
+  "sampler_matrices": 64,
+  "estimates": 380,
+  "maximum_errors": {
+    "initial_moments": 5.551115123125783e-16,
+    "raw_traits": 0.0,
+    "raw_scores": 0.0,
+    "sampler": 0.0,
+    "statistics": 4.440892098500626e-16
+  }
+}

@@ -1,7 +1,10 @@
-# Research preprint v1.0.0
+# Research preprint v1.1.0
 
-Population state changes the transfer value of organized variation in a finite-population model
+Adds a fixed moment-preserving population-shape intervention on the original002cohort. The structured native-minus-reshaped interaction is -0.740782 percentage points [-1.015989,-0.448922]. The large original interaction persists; isotropic and direct-regime contrasts remain unresolved. This supports a small configuration effect beyond initial mean/covariance under the specified intervention, not a unique higher-moment mediator, dominant mechanism or new useful policy. Initial matching and reused histories/continuation streams are explicit.
 
-This release supplies the focused manuscript, supporting information, figures, complete statistical grids and reproducibility scripts. All outcomes come from the accepted archived studies; no new population simulations were run for publication. Negative and unresolved findings, cohort dependence and replication limits remain explicit.
+All prior adverse predictor/policy results remain. Includes 8,320 statistical estimates, nine figures, authentic scientific source with documented administrative substitutions, public saved-statistic/figure reproduction and internal audit records. The scientific job and raw audit were not rerun for publication.
 
-This is a compact evidence release, excluding large raw trajectories and random tapes. Manuscript/data: CC BY 4.0. Original code: MIT. Not externally peer reviewed.
+Version DOI: https://doi.org/10.5281/zenodo.22956936
+Previous version remains unchanged: https://doi.org/10.5281/zenodo.22907602
+
+Manuscript/data CC BY 4.0; original code MIT. AI-assisted preprint; not externally peer reviewed.

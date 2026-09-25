@@ -1,16 +1,16 @@
 {
   "status": "PASS",
-  "statistics_mean_interval_pairs": 7940,
-  "maximum_statistics_discrepancy": 6.661338147750939e-16,
-  "pdf_pages": {
-    "MANUSCRIPT": 13,
-    "SUPPLEMENT": 3
-  },
-  "main_figures": 6,
-  "additional_figures": 1,
-  "python_files_syntax_checked": 71,
-  "visual_review": "Every rendered manuscript and supplement page inspected; feature-interaction legend moved outside data area and policy-name column widened. No clipped text, overlapping labels or missing mathematical glyphs detected.",
-  "new_population_simulations": 0,
-  "external_peer_review": false,
-  "scope": "Publication preparation of accepted archived studies. Compact statistical reproduction; full raw trajectory replay is not claimed."
+  "version": "1.1.0",
+  "prepared_at_utc": "2026-09-25T10:28:20.679074+00:00",
+  "scope": "Unified saved-statistic recomputation, nine-figure source reproduction, authentic compact exports and final PDF/metadata checks. No population execution or raw audit repeated.",
+  "statistics": "provenance/STATISTICS_CHECK.json",
+  "figure_check": "provenance/FIGURE_REPRODUCTION_CHECK.json",
+  "pdf_check": "provenance/PDF_TEXT_CHECK.json",
+  "statistical_estimates": 8320,
+  "figures": 9,
+  "figure_bindings": 465,
+  "new_simulations": 0,
+  "content_data_license": "CC-BY-4.0",
+  "original_code_license": "MIT",
+  "raw_trajectory_archive_included": false
 }

@@ -35,9 +35,14 @@
       "study": "005",
       "mean_interval_pairs": 4698,
       "maximum_absolute_discrepancy": 4.440892098500626e-16
+    },
+    {
+      "study": "064",
+      "mean_interval_pairs": 380,
+      "maximum_absolute_discrepancy": 6.661338147750939e-16
     }
   ],
-  "total_mean_interval_pairs": 7940,
+  "total_mean_interval_pairs": 8320,
   "maximum_absolute_discrepancy": 6.661338147750939e-16,
   "new_population_paths": 0,
   "new_random_draws": 0,

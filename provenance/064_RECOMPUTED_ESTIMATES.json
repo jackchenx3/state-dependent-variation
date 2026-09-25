@@ -1,0 +1,3042 @@
+{
+  "structured|0|NATIVE_OO": {
+    "mean": 0.9506002734202639,
+    "ci95": [
+      0.9328805083478094,
+      0.9661439474080205
+    ],
+    "classification": "positive"
+  },
+  "structured|0|NATIVE_OR": {
+    "mean": 0.9383918291339541,
+    "ci95": [
+      0.932265015530528,
+      0.9444018904219552
+    ],
+    "classification": "positive"
+  },
+  "structured|0|NATIVE_RO": {
+    "mean": 0.966496810686754,
+    "ci95": [
+      0.9632573422445863,
+      0.970026190204091
+    ],
+    "classification": "positive"
+  },
+  "structured|0|NATIVE_RR": {
+    "mean": 0.61583116888798,
+    "ci95": [
+      0.5782159582296101,
+      0.6576747541249673
+    ],
+    "classification": "positive"
+  },
+  "structured|0|SHAPE_OO": {
+    "mean": 0.9503590754565147,
+    "ci95": [
+      0.933119243339224,
+      0.9656165670792752
+    ],
+    "classification": "positive"
+  },
+  "structured|0|SHAPE_OR": {
+    "mean": 0.9272089953651198,
+    "ci95": [
+      0.9193079085160425,
+      0.9350397632086983
+    ],
+    "classification": "positive"
+  },
+  "structured|0|SHAPE_RO": {
+    "mean": 0.9671830139809381,
+    "ci95": [
+      0.9645338191733868,
+      0.9700903957585256
+    ],
+    "classification": "positive"
+  },
+  "structured|0|SHAPE_RR": {
+    "mean": 0.6117866718687938,
+    "ci95": [
+      0.5735373454722733,
+      0.6532147383404606
+    ],
+    "classification": "positive"
+  },
+  "structured|0|F_O_NATIVE": {
+    "mean": 0.012208444286309609,
+    "ci95": [
+      -0.01077229043698375,
+      0.03222722793482778
+    ],
+    "classification": "unresolved"
+  },
+  "structured|0|F_O_SHAPE": {
+    "mean": 0.0231500800913949,
+    "ci95": [
+      0.00016958367222638613,
+      0.043489247740719425
+    ],
+    "classification": "positive"
+  },
+  "structured|0|F_R_NATIVE": {
+    "mean": 0.3506656417987741,
+    "ci95": [
+      0.31148442086457334,
+      0.38547772860381224
+    ],
+    "classification": "positive"
+  },
+  "structured|0|F_R_SHAPE": {
+    "mean": 0.35539634211214444,
+    "ci95": [
+      0.31592781890599064,
+      0.39156172839185327
+    ],
+    "classification": "positive"
+  },
+  "structured|0|J_NATIVE": {
+    "mean": -0.33845719751246445,
+    "ci95": [
+      -0.36226343499148206,
+      -0.31413856376912097
+    ],
+    "classification": "negative"
+  },
+  "structured|0|J_SHAPE": {
+    "mean": -0.3322462620207495,
+    "ci95": [
+      -0.35741794532691956,
+      -0.3065458426144334
+    ],
+    "classification": "negative"
+  },
+  "structured|0|G_OO": {
+    "mean": 0.0002411979637490577,
+    "ci95": [
+      -0.0014207241262223687,
+      0.0018083226804465869
+    ],
+    "classification": "unresolved"
+  },
+  "structured|0|G_OR": {
+    "mean": 0.011182833768834348,
+    "ci95": [
+      0.007164903678271469,
+      0.014786931350964358
+    ],
+    "classification": "positive"
+  },
+  "structured|0|G_RO": {
+    "mean": -0.0006862032941841503,
+    "ci95": [
+      -0.0028113609677330458,
+      0.001400647536332216
+    ],
+    "classification": "unresolved"
+  },
+  "structured|0|G_RR": {
+    "mean": 0.004044497019186222,
+    "ci95": [
+      -0.003129977489387446,
+      0.011198878439012313
+    ],
+    "classification": "unresolved"
+  },
+  "structured|0|DELTA": {
+    "mean": -0.0062109354917149195,
+    "ci95": [
+      -0.0143795004666187,
+      0.002121272487762802
+    ],
+    "classification": "unresolved"
+  },
+  "structured|0|G_MEAN": {
+    "mean": 0.0036955813643963693,
+    "ci95": [
+      0.0013832784881003175,
+      0.005956100751783622
+    ],
+    "classification": "positive"
+  },
+  "structured|15|NATIVE_OO": {
+    "mean": 0.9386728469755257,
+    "ci95": [
+      0.909645434245062,
+      0.9617571098923521
+    ],
+    "classification": "positive"
+  },
+  "structured|15|NATIVE_OR": {
+    "mean": 0.9417808186927696,
+    "ci95": [
+      0.9332098737204918,
+      0.9499053240815838
+    ],
+    "classification": "positive"
+  },
+  "structured|15|NATIVE_RO": {
+    "mean": 0.9753208145636328,
+    "ci95": [
+      0.9738901057621624,
+      0.9766661840360857
+    ],
+    "classification": "positive"
+  },
+  "structured|15|NATIVE_RR": {
+    "mean": 0.6575777319669477,
+    "ci95": [
+      0.612162268426136,
+      0.7080017397235199
+    ],
+    "classification": "positive"
+  },
+  "structured|15|SHAPE_OO": {
+    "mean": 0.9376008857975909,
+    "ci95": [
+      0.9083218824227002,
+      0.9609908718924268
+    ],
+    "classification": "positive"
+  },
+  "structured|15|SHAPE_OR": {
+    "mean": 0.9342441977228835,
+    "ci95": [
+      0.9251846867652151,
+      0.9435515257916909
+    ],
+    "classification": "positive"
+  },
+  "structured|15|SHAPE_RO": {
+    "mean": 0.9749495217488376,
+    "ci95": [
+      0.9732176921557193,
+      0.9765719392626001
+    ],
+    "classification": "positive"
+  },
+  "structured|15|SHAPE_RR": {
+    "mean": 0.6603186185635244,
+    "ci95": [
+      0.6139972899428144,
+      0.7106624227653333
+    ],
+    "classification": "positive"
+  },
+  "structured|15|F_O_NATIVE": {
+    "mean": -0.003107971717244067,
+    "ci95": [
+      -0.03796200941798787,
+      0.026480190925580047
+    ],
+    "classification": "unresolved"
+  },
+  "structured|15|F_O_SHAPE": {
+    "mean": 0.003356688074707442,
+    "ci95": [
+      -0.033450852478480876,
+      0.034148136286450324
+    ],
+    "classification": "unresolved"
+  },
+  "structured|15|F_R_NATIVE": {
+    "mean": 0.3177430825966851,
+    "ci95": [
+      0.2676880618498662,
+      0.36300719449028745
+    ],
+    "classification": "positive"
+  },
+  "structured|15|F_R_SHAPE": {
+    "mean": 0.31463090318531334,
+    "ci95": [
+      0.26401168380544315,
+      0.3605200452082534
+    ],
+    "classification": "positive"
+  },
+  "structured|15|J_NATIVE": {
+    "mean": -0.3208510543139292,
+    "ci95": [
+      -0.34484630033345837,
+      -0.29669416448904146
+    ],
+    "classification": "negative"
+  },
+  "structured|15|J_SHAPE": {
+    "mean": -0.3112742151106059,
+    "ci95": [
+      -0.33471860572877005,
+      -0.2874233732633535
+    ],
+    "classification": "negative"
+  },
+  "structured|15|G_OO": {
+    "mean": 0.0010719611779347257,
+    "ci95": [
+      -0.0008098697299576347,
+      0.0032068998522345464
+    ],
+    "classification": "unresolved"
+  },
+  "structured|15|G_OR": {
+    "mean": 0.007536620969886237,
+    "ci95": [
+      0.004035207509536968,
+      0.011221190052220463
+    ],
+    "classification": "positive"
+  },
+  "structured|15|G_RO": {
+    "mean": 0.00037129281479504904,
+    "ci95": [
+      -0.0015670341415988135,
+      0.0022917429172096865
+    ],
+    "classification": "unresolved"
+  },
+  "structured|15|G_RR": {
+    "mean": -0.0027408865965767135,
+    "ci95": [
+      -0.007953403159315772,
+      0.0024918411907149398
+    ],
+    "classification": "unresolved"
+  },
+  "structured|15|DELTA": {
+    "mean": -0.009576839203323273,
+    "ci95": [
+      -0.01644591814415808,
+      -0.0023191040548440215
+    ],
+    "classification": "negative"
+  },
+  "structured|15|G_MEAN": {
+    "mean": 0.0015597470915098249,
+    "ci95": [
+      -7.72715045176416e-05,
+      0.003203770332581805
+    ],
+    "classification": "unresolved"
+  },
+  "structured|30|NATIVE_OO": {
+    "mean": 0.9023111889201897,
+    "ci95": [
+      0.8612411653663106,
+      0.9351010618042429
+    ],
+    "classification": "positive"
+  },
+  "structured|30|NATIVE_OR": {
+    "mean": 0.9564010671747512,
+    "ci95": [
+      0.9498656187920829,
+      0.9624611537598826
+    ],
+    "classification": "positive"
+  },
+  "structured|30|NATIVE_RO": {
+    "mean": 0.9736710406981106,
+    "ci95": [
+      0.9699286862190721,
+      0.9768752308464242
+    ],
+    "classification": "positive"
+  },
+  "structured|30|NATIVE_RR": {
+    "mean": 0.7083196034860428,
+    "ci95": [
+      0.6543562955343374,
+      0.7665228064532
+    ],
+    "classification": "positive"
+  },
+  "structured|30|SHAPE_OO": {
+    "mean": 0.9040434883873604,
+    "ci95": [
+      0.8640517849149764,
+      0.9352233642041212
+    ],
+    "classification": "positive"
+  },
+  "structured|30|SHAPE_OR": {
+    "mean": 0.9476200655746186,
+    "ci95": [
+      0.9397392275032762,
+      0.9559049328959431
+    ],
+    "classification": "positive"
+  },
+  "structured|30|SHAPE_RO": {
+    "mean": 0.973046924165657,
+    "ci95": [
+      0.9680881817230365,
+      0.977013791396565
+    ],
+    "classification": "positive"
+  },
+  "structured|30|SHAPE_RR": {
+    "mean": 0.7069213420480311,
+    "ci95": [
+      0.6538531448074189,
+      0.7649046290466
+    ],
+    "classification": "positive"
+  },
+  "structured|30|F_O_NATIVE": {
+    "mean": -0.05408987825456141,
+    "ci95": [
+      -0.10058248399944608,
+      -0.01557684209816962
+    ],
+    "classification": "negative"
+  },
+  "structured|30|F_O_SHAPE": {
+    "mean": -0.043576577187258214,
+    "ci95": [
+      -0.09073540388014735,
+      -0.005345060353616345
+    ],
+    "classification": "negative"
+  },
+  "structured|30|F_R_NATIVE": {
+    "mean": 0.26535143721206783,
+    "ci95": [
+      0.20550388113956988,
+      0.3214762256910639
+    ],
+    "classification": "positive"
+  },
+  "structured|30|F_R_SHAPE": {
+    "mean": 0.26612558211762577,
+    "ci95": [
+      0.20476259832637606,
+      0.3224635741281383
+    ],
+    "classification": "positive"
+  },
+  "structured|30|J_NATIVE": {
+    "mean": -0.31944131546662924,
+    "ci95": [
+      -0.34819126283673085,
+      -0.29062163228520943
+    ],
+    "classification": "negative"
+  },
+  "structured|30|J_SHAPE": {
+    "mean": -0.309702159304884,
+    "ci95": [
+      -0.33579041479597943,
+      -0.2848384520370764
+    ],
+    "classification": "negative"
+  },
+  "structured|30|G_OO": {
+    "mean": -0.0017322994671706386,
+    "ci95": [
+      -0.005394025544566459,
+      0.0013361682118726201
+    ],
+    "classification": "unresolved"
+  },
+  "structured|30|G_OR": {
+    "mean": 0.008781001600132553,
+    "ci95": [
+      0.004109532129120298,
+      0.013114004717900094
+    ],
+    "classification": "positive"
+  },
+  "structured|30|G_RO": {
+    "mean": 0.0006241165324536897,
+    "ci95": [
+      -0.0013403349209034044,
+      0.0027941062141695677
+    ],
+    "classification": "unresolved"
+  },
+  "structured|30|G_RR": {
+    "mean": 0.0013982614380116086,
+    "ci95": [
+      -0.004788815008818277,
+      0.007894537877558106
+    ],
+    "classification": "unresolved"
+  },
+  "structured|30|DELTA": {
+    "mean": -0.009739156161745274,
+    "ci95": [
+      -0.01812685498664454,
+      -0.0007253173702164335
+    ],
+    "classification": "negative"
+  },
+  "structured|30|G_MEAN": {
+    "mean": 0.0022677700258568034,
+    "ci95": [
+      0.00034907862136450196,
+      0.004429427934670009
+    ],
+    "classification": "positive"
+  },
+  "structured|45|NATIVE_OO": {
+    "mean": 0.8493902354985634,
+    "ci95": [
+      0.8012523918730341,
+      0.8901100176037323
+    ],
+    "classification": "positive"
+  },
+  "structured|45|NATIVE_OR": {
+    "mean": 0.9659274129655989,
+    "ci95": [
+      0.9588907835312253,
+      0.9724597784709968
+    ],
+    "classification": "positive"
+  },
+  "structured|45|NATIVE_RO": {
+    "mean": 0.9644516389453502,
+    "ci95": [
+      0.9588104359031975,
+      0.9691772776499811
+    ],
+    "classification": "positive"
+  },
+  "structured|45|NATIVE_RR": {
+    "mean": 0.7702356552539976,
+    "ci95": [
+      0.7116250371343934,
+      0.8300675151688955
+    ],
+    "classification": "positive"
+  },
+  "structured|45|SHAPE_OO": {
+    "mean": 0.8491702967671375,
+    "ci95": [
+      0.8031570652187361,
+      0.888447072429059
+    ],
+    "classification": "positive"
+  },
+  "structured|45|SHAPE_OR": {
+    "mean": 0.9615804179864504,
+    "ci95": [
+      0.952773222157788,
+      0.9694555280563127
+    ],
+    "classification": "positive"
+  },
+  "structured|45|SHAPE_RO": {
+    "mean": 0.9610290386645137,
+    "ci95": [
+      0.9523134966168291,
+      0.9681746603238462
+    ],
+    "classification": "positive"
+  },
+  "structured|45|SHAPE_RR": {
+    "mean": 0.7717768502690716,
+    "ci95": [
+      0.7148399005578705,
+      0.8314907241665523
+    ],
+    "classification": "positive"
+  },
+  "structured|45|F_O_NATIVE": {
+    "mean": -0.11653717746703557,
+    "ci95": [
+      -0.16710114691887157,
+      -0.07028483703974849
+    ],
+    "classification": "negative"
+  },
+  "structured|45|F_O_SHAPE": {
+    "mean": -0.11241012121931299,
+    "ci95": [
+      -0.1637153199052748,
+      -0.06664593282426053
+    ],
+    "classification": "negative"
+  },
+  "structured|45|F_R_NATIVE": {
+    "mean": 0.19421598369135254,
+    "ci95": [
+      0.12982223338364848,
+      0.25550557010527797
+    ],
+    "classification": "positive"
+  },
+  "structured|45|F_R_SHAPE": {
+    "mean": 0.18925218839544208,
+    "ci95": [
+      0.12343831928965185,
+      0.25114297949841247
+    ],
+    "classification": "positive"
+  },
+  "structured|45|J_NATIVE": {
+    "mean": -0.31075316115838814,
+    "ci95": [
+      -0.33631739015560136,
+      -0.2851867807091892
+    ],
+    "classification": "negative"
+  },
+  "structured|45|J_SHAPE": {
+    "mean": -0.3016623096147551,
+    "ci95": [
+      -0.3260858124130064,
+      -0.27741459450148015
+    ],
+    "classification": "negative"
+  },
+  "structured|45|G_OO": {
+    "mean": 0.0002199387314259111,
+    "ci95": [
+      -0.0029183780055662203,
+      0.003255525849923206
+    ],
+    "classification": "unresolved"
+  },
+  "structured|45|G_OR": {
+    "mean": 0.004346994979148486,
+    "ci95": [
+      0.0018538478771943036,
+      0.006904581983437184
+    ],
+    "classification": "positive"
+  },
+  "structured|45|G_RO": {
+    "mean": 0.003422600280836434,
+    "ci95": [
+      0.0003028011826707702,
+      0.007683468509699286
+    ],
+    "classification": "positive"
+  },
+  "structured|45|G_RR": {
+    "mean": -0.0015411950150740386,
+    "ci95": [
+      -0.006027775870009015,
+      0.002358532205049556
+    ],
+    "classification": "unresolved"
+  },
+  "structured|45|DELTA": {
+    "mean": -0.009090851543633047,
+    "ci95": [
+      -0.016702945326711276,
+      -0.002452639832139958
+    ],
+    "classification": "negative"
+  },
+  "structured|45|G_MEAN": {
+    "mean": 0.0016120847440841983,
+    "ci95": [
+      0.000123714797384378,
+      0.003125387847694169
+    ],
+    "classification": "positive"
+  },
+  "structured|60|NATIVE_OO": {
+    "mean": 0.7811931243205587,
+    "ci95": [
+      0.7349810992484079,
+      0.8240841998169718
+    ],
+    "classification": "positive"
+  },
+  "structured|60|NATIVE_OR": {
+    "mean": 0.9699277104545594,
+    "ci95": [
+      0.9637524176671147,
+      0.975200673773331
+    ],
+    "classification": "positive"
+  },
+  "structured|60|NATIVE_RO": {
+    "mean": 0.9520741000651558,
+    "ci95": [
+      0.9458902340102687,
+      0.9575800251113026
+    ],
+    "classification": "positive"
+  },
+  "structured|60|NATIVE_RR": {
+    "mean": 0.838837173721848,
+    "ci95": [
+      0.7830313699516126,
+      0.8915191866205658
+    ],
+    "classification": "positive"
+  },
+  "structured|60|SHAPE_OO": {
+    "mean": 0.7782438165374751,
+    "ci95": [
+      0.7322079697954665,
+      0.8203090617627732
+    ],
+    "classification": "positive"
+  },
+  "structured|60|SHAPE_OR": {
+    "mean": 0.9693902054955791,
+    "ci95": [
+      0.963018688446866,
+      0.9746332184924976
+    ],
+    "classification": "positive"
+  },
+  "structured|60|SHAPE_RO": {
+    "mean": 0.9479847323994116,
+    "ci95": [
+      0.939582851304122,
+      0.9551365643769495
+    ],
+    "classification": "positive"
+  },
+  "structured|60|SHAPE_RR": {
+    "mean": 0.8396006544471075,
+    "ci95": [
+      0.783426491862151,
+      0.8933901581390883
+    ],
+    "classification": "positive"
+  },
+  "structured|60|F_O_NATIVE": {
+    "mean": -0.18873458613400076,
+    "ci95": [
+      -0.2343427870991105,
+      -0.1445583158930712
+    ],
+    "classification": "negative"
+  },
+  "structured|60|F_O_SHAPE": {
+    "mean": -0.19114638895810399,
+    "ci95": [
+      -0.23839146548268508,
+      -0.14567618730443166
+    ],
+    "classification": "negative"
+  },
+  "structured|60|F_R_NATIVE": {
+    "mean": 0.11323692634330769,
+    "ci95": [
+      0.055348984173012906,
+      0.17076901162538172
+    ],
+    "classification": "positive"
+  },
+  "structured|60|F_R_SHAPE": {
+    "mean": 0.10838407795230404,
+    "ci95": [
+      0.04841481981691465,
+      0.16775230772881192
+    ],
+    "classification": "positive"
+  },
+  "structured|60|J_NATIVE": {
+    "mean": -0.30197151247730847,
+    "ci95": [
+      -0.3249710841056996,
+      -0.2797586862175628
+    ],
+    "classification": "negative"
+  },
+  "structured|60|J_SHAPE": {
+    "mean": -0.299530466910408,
+    "ci95": [
+      -0.32352297001800884,
+      -0.2772871339114563
+    ],
+    "classification": "negative"
+  },
+  "structured|60|G_OO": {
+    "mean": 0.0029493077830835407,
+    "ci95": [
+      -0.0006789803210951679,
+      0.006685129823874586
+    ],
+    "classification": "unresolved"
+  },
+  "structured|60|G_OR": {
+    "mean": 0.0005375049589803153,
+    "ci95": [
+      -0.0022937357151687886,
+      0.003567908547253509
+    ],
+    "classification": "unresolved"
+  },
+  "structured|60|G_RO": {
+    "mean": 0.0040893676657441464,
+    "ci95": [
+      0.0003298718097815838,
+      0.008024430774300114
+    ],
+    "classification": "positive"
+  },
+  "structured|60|G_RR": {
+    "mean": -0.0007634807252595172,
+    "ci95": [
+      -0.006036960481853043,
+      0.004026053049537825
+    ],
+    "classification": "unresolved"
+  },
+  "structured|60|DELTA": {
+    "mean": -0.0024410455669004387,
+    "ci95": [
+      -0.009272599055450479,
+      0.0041305955759082585
+    ],
+    "classification": "unresolved"
+  },
+  "structured|60|G_MEAN": {
+    "mean": 0.0017031749206371214,
+    "ci95": [
+      -0.00043439836669698854,
+      0.0037816934306943305
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|NATIVE_OO": {
+    "mean": 0.6927140644783427,
+    "ci95": [
+      0.6503820183349922,
+      0.7327072159618423
+    ],
+    "classification": "positive"
+  },
+  "structured|75|NATIVE_OR": {
+    "mean": 0.9644627706215,
+    "ci95": [
+      0.9573852027286448,
+      0.9706189763581022
+    ],
+    "classification": "positive"
+  },
+  "structured|75|NATIVE_RO": {
+    "mean": 0.9383089870551832,
+    "ci95": [
+      0.9340511004153701,
+      0.9428053149474377
+    ],
+    "classification": "positive"
+  },
+  "structured|75|NATIVE_RR": {
+    "mean": 0.898635136708574,
+    "ci95": [
+      0.8503535652244872,
+      0.9379053414605649
+    ],
+    "classification": "positive"
+  },
+  "structured|75|SHAPE_OO": {
+    "mean": 0.6866396054213523,
+    "ci95": [
+      0.643868077934588,
+      0.726299344258833
+    ],
+    "classification": "positive"
+  },
+  "structured|75|SHAPE_OR": {
+    "mean": 0.9632522385954679,
+    "ci95": [
+      0.9559099877125311,
+      0.9695999263096179
+    ],
+    "classification": "positive"
+  },
+  "structured|75|SHAPE_RO": {
+    "mean": 0.930166038378797,
+    "ci95": [
+      0.9235130932302077,
+      0.9371375489540325
+    ],
+    "classification": "positive"
+  },
+  "structured|75|SHAPE_RR": {
+    "mean": 0.8992660169468416,
+    "ci95": [
+      0.8513954040596976,
+      0.9395652452181451
+    ],
+    "classification": "positive"
+  },
+  "structured|75|F_O_NATIVE": {
+    "mean": -0.2717487061431572,
+    "ci95": [
+      -0.30885641830518634,
+      -0.2350952356057331
+    ],
+    "classification": "negative"
+  },
+  "structured|75|F_O_SHAPE": {
+    "mean": -0.2766126331741156,
+    "ci95": [
+      -0.3138448861742679,
+      -0.23883360838084583
+    ],
+    "classification": "negative"
+  },
+  "structured|75|F_R_NATIVE": {
+    "mean": 0.0396738503466091,
+    "ci95": [
+      -0.0019512677231330643,
+      0.08924523059913374
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|F_R_SHAPE": {
+    "mean": 0.030900021431955357,
+    "ci95": [
+      -0.01383928905893649,
+      0.08426578762446199
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|J_NATIVE": {
+    "mean": -0.3114225564897663,
+    "ci95": [
+      -0.3359426432065718,
+      -0.2896896232324003
+    ],
+    "classification": "negative"
+  },
+  "structured|75|J_SHAPE": {
+    "mean": -0.30751265460607097,
+    "ci95": [
+      -0.3327201663729274,
+      -0.2860258474317418
+    ],
+    "classification": "negative"
+  },
+  "structured|75|G_OO": {
+    "mean": 0.00607445905699047,
+    "ci95": [
+      -0.0008203402914392957,
+      0.012648674035882629
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|G_OR": {
+    "mean": 0.001210532026032039,
+    "ci95": [
+      -0.0013202372033022142,
+      0.0037099707991446185
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|G_RO": {
+    "mean": 0.008142948676386208,
+    "ci95": [
+      0.0035367084526801633,
+      0.012631149833468561
+    ],
+    "classification": "positive"
+  },
+  "structured|75|G_RR": {
+    "mean": -0.0006308802382675385,
+    "ci95": [
+      -0.004839796937939715,
+      0.004615918148075597
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|DELTA": {
+    "mean": -0.003909901883695314,
+    "ci95": [
+      -0.014340204754063165,
+      0.006830455578738895
+    ],
+    "classification": "unresolved"
+  },
+  "structured|75|G_MEAN": {
+    "mean": 0.0036992648802852946,
+    "ci95": [
+      0.0013253469868473072,
+      0.0058997589438795515
+    ],
+    "classification": "positive"
+  },
+  "structured|90|NATIVE_OO": {
+    "mean": 0.5877564777125563,
+    "ci95": [
+      0.561679841356227,
+      0.6172383278070805
+    ],
+    "classification": "positive"
+  },
+  "structured|90|NATIVE_OR": {
+    "mean": 0.9445048558710125,
+    "ci95": [
+      0.9323801437596976,
+      0.955741525144518
+    ],
+    "classification": "positive"
+  },
+  "structured|90|NATIVE_RO": {
+    "mean": 0.9196599578791594,
+    "ci95": [
+      0.9131229145056057,
+      0.9261793742101756
+    ],
+    "classification": "positive"
+  },
+  "structured|90|NATIVE_RR": {
+    "mean": 0.9289362373483873,
+    "ci95": [
+      0.8953343204023203,
+      0.9555666106081665
+    ],
+    "classification": "positive"
+  },
+  "structured|90|SHAPE_OO": {
+    "mean": 0.5901530451966469,
+    "ci95": [
+      0.5641481224080984,
+      0.6197976940373824
+    ],
+    "classification": "positive"
+  },
+  "structured|90|SHAPE_OR": {
+    "mean": 0.9419808589037437,
+    "ci95": [
+      0.9284944818647288,
+      0.9541916671023655
+    ],
+    "classification": "positive"
+  },
+  "structured|90|SHAPE_RO": {
+    "mean": 0.9121432306161567,
+    "ci95": [
+      0.9049609193084781,
+      0.9188812547934989
+    ],
+    "classification": "positive"
+  },
+  "structured|90|SHAPE_RR": {
+    "mean": 0.926439161143297,
+    "ci95": [
+      0.8918995613731927,
+      0.9546300337858686
+    ],
+    "classification": "positive"
+  },
+  "structured|90|F_O_NATIVE": {
+    "mean": -0.3567483781584561,
+    "ci95": [
+      -0.37519961007509794,
+      -0.3335423948172305
+    ],
+    "classification": "negative"
+  },
+  "structured|90|F_O_SHAPE": {
+    "mean": -0.35182781370709676,
+    "ci95": [
+      -0.37261563210446974,
+      -0.32691410799541354
+    ],
+    "classification": "negative"
+  },
+  "structured|90|F_R_NATIVE": {
+    "mean": -0.009276279469227761,
+    "ci95": [
+      -0.03959608995848217,
+      0.026806254912459117
+    ],
+    "classification": "unresolved"
+  },
+  "structured|90|F_R_SHAPE": {
+    "mean": -0.014295930527140408,
+    "ci95": [
+      -0.046712922037499854,
+      0.02315120282641904
+    ],
+    "classification": "unresolved"
+  },
+  "structured|90|J_NATIVE": {
+    "mean": -0.34747209868922835,
+    "ci95": [
+      -0.3658066006626026,
+      -0.33141456233096456
+    ],
+    "classification": "negative"
+  },
+  "structured|90|J_SHAPE": {
+    "mean": -0.3375318831799563,
+    "ci95": [
+      -0.354699721923374,
+      -0.32212255387422983
+    ],
+    "classification": "negative"
+  },
+  "structured|90|G_OO": {
+    "mean": -0.002396567484090534,
+    "ci95": [
+      -0.008104708315069105,
+      0.0037572966484896047
+    ],
+    "classification": "unresolved"
+  },
+  "structured|90|G_OR": {
+    "mean": 0.002523996967268835,
+    "ci95": [
+      -0.0009428169965320658,
+      0.005811186343184471
+    ],
+    "classification": "unresolved"
+  },
+  "structured|90|G_RO": {
+    "mean": 0.007516727263002819,
+    "ci95": [
+      0.0028978336527740395,
+      0.012141311982736769
+    ],
+    "classification": "positive"
+  },
+  "structured|90|G_RR": {
+    "mean": 0.0024970762050901753,
+    "ci95": [
+      -0.0009207498262626928,
+      0.006923125326308965
+    ],
+    "classification": "unresolved"
+  },
+  "structured|90|DELTA": {
+    "mean": -0.009940215509272014,
+    "ci95": [
+      -0.018317708575678014,
+      -0.002312015384369085
+    ],
+    "classification": "negative"
+  },
+  "structured|90|G_MEAN": {
+    "mean": 0.002535308237817824,
+    "ci95": [
+      0.0006173295600333737,
+      0.004603046824399982
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|NATIVE_OO": {
+    "mean": 0.7805783726094363,
+    "ci95": [
+      0.7522380500436132,
+      0.8056383446537033
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|NATIVE_OR": {
+    "mean": 0.9435305192531306,
+    "ci95": [
+      0.9372153858587103,
+      0.9493472757690229
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|NATIVE_RO": {
+    "mean": 0.9372473735699884,
+    "ci95": [
+      0.930227579860527,
+      0.9442577534238314
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|NATIVE_RR": {
+    "mean": 0.7329563903176236,
+    "ci95": [
+      0.709123010822231,
+      0.7588523945696779
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|SHAPE_OO": {
+    "mean": 0.7789702220346643,
+    "ci95": [
+      0.7518945532324769,
+      0.8018218950474425
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|SHAPE_OR": {
+    "mean": 0.9406076254094774,
+    "ci95": [
+      0.93500102846602,
+      0.9462364127274256
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|SHAPE_RO": {
+    "mean": 0.9311574284937861,
+    "ci95": [
+      0.9227488675088474,
+      0.9387536753968875
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|SHAPE_RR": {
+    "mean": 0.7339053551720874,
+    "ci95": [
+      0.7088992623122595,
+      0.7595235634125623
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|F_O_NATIVE": {
+    "mean": -0.1629521466436943,
+    "ci95": [
+      -0.19117176431557403,
+      -0.13842332850694067
+    ],
+    "classification": "negative"
+  },
+  "structured|isotropic|F_O_SHAPE": {
+    "mean": -0.16163740337481303,
+    "ci95": [
+      -0.18791660547140582,
+      -0.13871485924895635
+    ],
+    "classification": "negative"
+  },
+  "structured|isotropic|F_R_NATIVE": {
+    "mean": 0.20429098325236497,
+    "ci95": [
+      0.17616317649488802,
+      0.23059223541017831
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|F_R_SHAPE": {
+    "mean": 0.19725207332169867,
+    "ci95": [
+      0.16840471365880766,
+      0.22322550158713275
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|J_NATIVE": {
+    "mean": -0.3672431298960593,
+    "ci95": [
+      -0.38407537093865807,
+      -0.35052441345238167
+    ],
+    "classification": "negative"
+  },
+  "structured|isotropic|J_SHAPE": {
+    "mean": -0.35888947669651167,
+    "ci95": [
+      -0.3735809096625494,
+      -0.3445406936478206
+    ],
+    "classification": "negative"
+  },
+  "structured|isotropic|G_OO": {
+    "mean": 0.0016081505747718699,
+    "ci95": [
+      -0.0035835014016754913,
+      0.006923693761671478
+    ],
+    "classification": "unresolved"
+  },
+  "structured|isotropic|G_OR": {
+    "mean": 0.0029228938436531636,
+    "ci95": [
+      -0.00030945750913486823,
+      0.00602816456256651
+    ],
+    "classification": "unresolved"
+  },
+  "structured|isotropic|G_RO": {
+    "mean": 0.006089945076202357,
+    "ci95": [
+      0.0022800402657238866,
+      0.010334676424150683
+    ],
+    "classification": "positive"
+  },
+  "structured|isotropic|G_RR": {
+    "mean": -0.0009489648544639793,
+    "ci95": [
+      -0.0052471397406265,
+      0.0032054385579242803
+    ],
+    "classification": "unresolved"
+  },
+  "structured|isotropic|DELTA": {
+    "mean": -0.008353653199547631,
+    "ci95": [
+      -0.01722272915370917,
+      0.0003804262742138159
+    ],
+    "classification": "unresolved"
+  },
+  "structured|isotropic|G_MEAN": {
+    "mean": 0.002418006160040853,
+    "ci95": [
+      0.00025875867732379145,
+      0.004520060719037591
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|NATIVE_OO": {
+    "mean": 0.8326368277153969,
+    "ci95": [
+      0.7741370504332562,
+      0.8880254962482398
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|NATIVE_OR": {
+    "mean": 0.952909900806436,
+    "ci95": [
+      0.9454035413481532,
+      0.9600731708892717
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|NATIVE_RO": {
+    "mean": 0.960998088820595,
+    "ci95": [
+      0.9555507947907514,
+      0.9659676602404957
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|NATIVE_RR": {
+    "mean": 0.7563619080041911,
+    "ci95": [
+      0.6882685155025701,
+      0.8221570438040365
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|SHAPE_OO": {
+    "mean": 0.8284282541534669,
+    "ci95": [
+      0.7702320892711576,
+      0.8848730713164749
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|SHAPE_OR": {
+    "mean": 0.950689951372552,
+    "ci95": [
+      0.9408857061711522,
+      0.9598110386100968
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|SHAPE_RO": {
+    "mean": 0.9583176950672522,
+    "ci95": [
+      0.950899055887754,
+      0.9649615522210355
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|SHAPE_RR": {
+    "mean": 0.755663512394669,
+    "ci95": [
+      0.6879270349078003,
+      0.8237269458792628
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|F_O_NATIVE": {
+    "mean": -0.12027307309103918,
+    "ci95": [
+      -0.18340586504903875,
+      -0.059129827787231234
+    ],
+    "classification": "negative"
+  },
+  "isotropic|0|F_O_SHAPE": {
+    "mean": -0.12226169721908504,
+    "ci95": [
+      -0.1877390578430079,
+      -0.05765253231632142
+    ],
+    "classification": "negative"
+  },
+  "isotropic|0|F_R_NATIVE": {
+    "mean": 0.2046361808164038,
+    "ci95": [
+      0.13638561779794683,
+      0.2757135627673333
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|F_R_SHAPE": {
+    "mean": 0.20265418267258317,
+    "ci95": [
+      0.12974548912749798,
+      0.2755466936090743
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|J_NATIVE": {
+    "mean": -0.324909253907443,
+    "ci95": [
+      -0.3527872201096455,
+      -0.2993135414587707
+    ],
+    "classification": "negative"
+  },
+  "isotropic|0|J_SHAPE": {
+    "mean": -0.3249158798916682,
+    "ci95": [
+      -0.3533784253833479,
+      -0.29872311966428755
+    ],
+    "classification": "negative"
+  },
+  "isotropic|0|G_OO": {
+    "mean": 0.004208573561929964,
+    "ci95": [
+      0.0007002437628099549,
+      0.00793912327849822
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|G_OR": {
+    "mean": 0.002219949433884101,
+    "ci95": [
+      -0.0006730914118908093,
+      0.005276961225798317
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|0|G_RO": {
+    "mean": 0.002680393753342841,
+    "ci95": [
+      6.306110612557477e-05,
+      0.005275837884933408
+    ],
+    "classification": "positive"
+  },
+  "isotropic|0|G_RR": {
+    "mean": 0.0006983956095221733,
+    "ci95": [
+      -0.005257376641922474,
+      0.006115705978037866
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|0|DELTA": {
+    "mean": 6.625984225195243e-06,
+    "ci95": [
+      -0.006240607483577974,
+      0.006401800592913158
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|0|G_MEAN": {
+    "mean": 0.00245182808966977,
+    "ci95": [
+      0.00047157194536684373,
+      0.004414911988943024
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|NATIVE_OO": {
+    "mean": 0.8362298498438318,
+    "ci95": [
+      0.7783412179600186,
+      0.8928684735543758
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|NATIVE_OR": {
+    "mean": 0.9581336850108433,
+    "ci95": [
+      0.9506609941715484,
+      0.9651834972188487
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|NATIVE_RO": {
+    "mean": 0.9671599180713047,
+    "ci95": [
+      0.9611543380558096,
+      0.9725829862888293
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|NATIVE_RR": {
+    "mean": 0.7683007689691009,
+    "ci95": [
+      0.7004968545591104,
+      0.8317934361278831
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|SHAPE_OO": {
+    "mean": 0.8377416330510945,
+    "ci95": [
+      0.7804323435169251,
+      0.8949573922270401
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|SHAPE_OR": {
+    "mean": 0.9547449841567976,
+    "ci95": [
+      0.944131666263639,
+      0.9644549132037766
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|SHAPE_RO": {
+    "mean": 0.9637309966402029,
+    "ci95": [
+      0.9559761481089466,
+      0.9709156648326763
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|SHAPE_RR": {
+    "mean": 0.7606516180134165,
+    "ci95": [
+      0.6906831971741155,
+      0.8272133786729328
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|F_O_NATIVE": {
+    "mean": -0.12190383516701137,
+    "ci95": [
+      -0.18510954862229195,
+      -0.05956692378582736
+    ],
+    "classification": "negative"
+  },
+  "isotropic|15|F_O_SHAPE": {
+    "mean": -0.11700335110570322,
+    "ci95": [
+      -0.18227164022820178,
+      -0.05172497311067045
+    ],
+    "classification": "negative"
+  },
+  "isotropic|15|F_R_NATIVE": {
+    "mean": 0.19885914910220373,
+    "ci95": [
+      0.12928995068389276,
+      0.2710063820813683
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|F_R_SHAPE": {
+    "mean": 0.2030793786267864,
+    "ci95": [
+      0.13016811367590814,
+      0.2781853770877537
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|J_NATIVE": {
+    "mean": -0.3207629842692151,
+    "ci95": [
+      -0.35120073139865116,
+      -0.29227014331308826
+    ],
+    "classification": "negative"
+  },
+  "isotropic|15|J_SHAPE": {
+    "mean": -0.3200827297324897,
+    "ci95": [
+      -0.3489765646445377,
+      -0.29269535128351376
+    ],
+    "classification": "negative"
+  },
+  "isotropic|15|G_OO": {
+    "mean": -0.0015117832072626212,
+    "ci95": [
+      -0.006229513851871084,
+      0.003038493431370246
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|15|G_OR": {
+    "mean": 0.00338870085404552,
+    "ci95": [
+      -0.00016458093745344031,
+      0.0075613842508930945
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|15|G_RO": {
+    "mean": 0.0034289214311017785,
+    "ci95": [
+      0.0005865112254350522,
+      0.006561880348872539
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|G_RR": {
+    "mean": 0.007649150955684458,
+    "ci95": [
+      0.0011743383198336566,
+      0.01563504008494739
+    ],
+    "classification": "positive"
+  },
+  "isotropic|15|DELTA": {
+    "mean": -0.0006802545367254614,
+    "ci95": [
+      -0.009144694840655988,
+      0.008428817220080343
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|15|G_MEAN": {
+    "mean": 0.0032387475083922837,
+    "ci95": [
+      0.0008987210956683512,
+      0.006042767525700421
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|NATIVE_OO": {
+    "mean": 0.8346664632080084,
+    "ci95": [
+      0.7734327412823131,
+      0.8922012865725124
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|NATIVE_OR": {
+    "mean": 0.9579860722109674,
+    "ci95": [
+      0.9482240458011906,
+      0.9665840239767408
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|NATIVE_RO": {
+    "mean": 0.9643455181437902,
+    "ci95": [
+      0.9562229900522736,
+      0.9718854243972438
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|NATIVE_RR": {
+    "mean": 0.7648268971782647,
+    "ci95": [
+      0.6942089863207531,
+      0.8313013779216469
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|SHAPE_OO": {
+    "mean": 0.8315417242779767,
+    "ci95": [
+      0.7675888094950264,
+      0.8910574917367432
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|SHAPE_OR": {
+    "mean": 0.9531109053314714,
+    "ci95": [
+      0.9420455185565092,
+      0.963298220884788
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|SHAPE_RO": {
+    "mean": 0.9611104976962844,
+    "ci95": [
+      0.9504296095469331,
+      0.9710336861643555
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|SHAPE_RR": {
+    "mean": 0.7649398939419597,
+    "ci95": [
+      0.694775185700166,
+      0.8322490772685736
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|F_O_NATIVE": {
+    "mean": -0.123319609002959,
+    "ci95": [
+      -0.19096786631786214,
+      -0.057968529114078196
+    ],
+    "classification": "negative"
+  },
+  "isotropic|30|F_O_SHAPE": {
+    "mean": -0.12156918105349475,
+    "ci95": [
+      -0.19116042363571065,
+      -0.05293494759005627
+    ],
+    "classification": "negative"
+  },
+  "isotropic|30|F_R_NATIVE": {
+    "mean": 0.19951862096552542,
+    "ci95": [
+      0.12634072506869212,
+      0.27628559801331776
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|F_R_SHAPE": {
+    "mean": 0.19617060375432463,
+    "ci95": [
+      0.12119520999480969,
+      0.2741833552565452
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|J_NATIVE": {
+    "mean": -0.32283822996848444,
+    "ci95": [
+      -0.3521819069087286,
+      -0.294390964468502
+    ],
+    "classification": "negative"
+  },
+  "isotropic|30|J_SHAPE": {
+    "mean": -0.3177397848078194,
+    "ci95": [
+      -0.3466436396502911,
+      -0.28935277733491277
+    ],
+    "classification": "negative"
+  },
+  "isotropic|30|G_OO": {
+    "mean": 0.003124738930031871,
+    "ci95": [
+      -0.0006706560901335911,
+      0.0068055295718375
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|30|G_OR": {
+    "mean": 0.004875166879496118,
+    "ci95": [
+      0.0015993399698179336,
+      0.008495420366973648
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|G_RO": {
+    "mean": 0.0032350204475056926,
+    "ci95": [
+      0.00046921764070857226,
+      0.006277713026517205
+    ],
+    "classification": "positive"
+  },
+  "isotropic|30|G_RR": {
+    "mean": -0.00011299676369510372,
+    "ci95": [
+      -0.005631027559436292,
+      0.005212602535034859
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|30|DELTA": {
+    "mean": -0.005098445160665043,
+    "ci95": [
+      -0.01140341753940363,
+      0.0010726947565080065
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|30|G_MEAN": {
+    "mean": 0.002780482373334645,
+    "ci95": [
+      0.0004936410559044944,
+      0.004759946942506334
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|NATIVE_OO": {
+    "mean": 0.8236903721863288,
+    "ci95": [
+      0.7612473047876678,
+      0.8806923474818575
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|NATIVE_OR": {
+    "mean": 0.9586681092751732,
+    "ci95": [
+      0.9495504631554817,
+      0.966701168010942
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|NATIVE_RO": {
+    "mean": 0.9628420042379716,
+    "ci95": [
+      0.9557749489856162,
+      0.9689163161870206
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|NATIVE_RR": {
+    "mean": 0.7771722897966616,
+    "ci95": [
+      0.711149480400013,
+      0.8405223341083257
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|SHAPE_OO": {
+    "mean": 0.8234642834678576,
+    "ci95": [
+      0.7606451890763036,
+      0.881391057689076
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|SHAPE_OR": {
+    "mean": 0.9517310488696938,
+    "ci95": [
+      0.9412230701316762,
+      0.9611646828920677
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|SHAPE_RO": {
+    "mean": 0.9597187406901789,
+    "ci95": [
+      0.950047624453728,
+      0.9680417101644764
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|SHAPE_RR": {
+    "mean": 0.7672842481731386,
+    "ci95": [
+      0.6984818088656725,
+      0.8331696371318754
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|F_O_NATIVE": {
+    "mean": -0.13497773708884445,
+    "ci95": [
+      -0.20336101272069732,
+      -0.07098837196138477
+    ],
+    "classification": "negative"
+  },
+  "isotropic|45|F_O_SHAPE": {
+    "mean": -0.12826676540183615,
+    "ci95": [
+      -0.19833552556629175,
+      -0.06246630223616282
+    ],
+    "classification": "negative"
+  },
+  "isotropic|45|F_R_NATIVE": {
+    "mean": 0.18566971444130997,
+    "ci95": [
+      0.11635903662248347,
+      0.2563979106577138
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|F_R_SHAPE": {
+    "mean": 0.19243449251704028,
+    "ci95": [
+      0.11731508024020323,
+      0.2682859333061504
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|J_NATIVE": {
+    "mean": -0.32064745153015445,
+    "ci95": [
+      -0.34865026518999775,
+      -0.2941575710740351
+    ],
+    "classification": "negative"
+  },
+  "isotropic|45|J_SHAPE": {
+    "mean": -0.32070125791887644,
+    "ci95": [
+      -0.3490515277630724,
+      -0.29330159262404637
+    ],
+    "classification": "negative"
+  },
+  "isotropic|45|G_OO": {
+    "mean": 0.0002260887184710337,
+    "ci95": [
+      -0.00394331619842366,
+      0.004060305014079578
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|45|G_OR": {
+    "mean": 0.006937060405479319,
+    "ci95": [
+      0.00409691896067473,
+      0.010309199318571632
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|G_RO": {
+    "mean": 0.003123263547792767,
+    "ci95": [
+      0.00044898603927113296,
+      0.0060080954007108245
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|G_RR": {
+    "mean": 0.00988804162352306,
+    "ci95": [
+      0.005570201020577178,
+      0.014661130307180283
+    ],
+    "classification": "positive"
+  },
+  "isotropic|45|DELTA": {
+    "mean": 5.38063887220077e-05,
+    "ci95": [
+      -0.00760724891905557,
+      0.007213693457132036
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|45|G_MEAN": {
+    "mean": 0.005043613573816545,
+    "ci95": [
+      0.0035254650184577646,
+      0.006621272153603939
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|NATIVE_OO": {
+    "mean": 0.8028426292257941,
+    "ci95": [
+      0.735587998510655,
+      0.8625296034009908
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|NATIVE_OR": {
+    "mean": 0.9558544951184144,
+    "ci95": [
+      0.947886909139666,
+      0.9631840374923598
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|NATIVE_RO": {
+    "mean": 0.9539564405290343,
+    "ci95": [
+      0.9459901485497159,
+      0.9612789147642902
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|NATIVE_RR": {
+    "mean": 0.7787579636763322,
+    "ci95": [
+      0.7145325817683049,
+      0.84238507486887
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|SHAPE_OO": {
+    "mean": 0.8004293341234345,
+    "ci95": [
+      0.7335634735190474,
+      0.8595625107750661
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|SHAPE_OR": {
+    "mean": 0.9504769527226444,
+    "ci95": [
+      0.9397863244746946,
+      0.9601265178068954
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|SHAPE_RO": {
+    "mean": 0.9498295624442763,
+    "ci95": [
+      0.9405233874530841,
+      0.9582400055683342
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|SHAPE_RR": {
+    "mean": 0.7764963976561369,
+    "ci95": [
+      0.7111253029060683,
+      0.8413378497968
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|F_O_NATIVE": {
+    "mean": -0.1530118658926204,
+    "ci95": [
+      -0.22345058575919388,
+      -0.08835888986671345
+    ],
+    "classification": "negative"
+  },
+  "isotropic|60|F_O_SHAPE": {
+    "mean": -0.15004761859920987,
+    "ci95": [
+      -0.22334460321429533,
+      -0.08383539069399404
+    ],
+    "classification": "negative"
+  },
+  "isotropic|60|F_R_NATIVE": {
+    "mean": 0.17519847685270207,
+    "ci95": [
+      0.10632093890729352,
+      0.24367417344072653
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|F_R_SHAPE": {
+    "mean": 0.17333316478813932,
+    "ci95": [
+      0.10079273261369012,
+      0.24456629879328778
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|J_NATIVE": {
+    "mean": -0.32821034274532246,
+    "ci95": [
+      -0.357173347314783,
+      -0.3003910242309717
+    ],
+    "classification": "negative"
+  },
+  "isotropic|60|J_SHAPE": {
+    "mean": -0.32338078338734916,
+    "ci95": [
+      -0.3541844879032884,
+      -0.29453781649469446
+    ],
+    "classification": "negative"
+  },
+  "isotropic|60|G_OO": {
+    "mean": 0.0024132951023595225,
+    "ci95": [
+      -0.002418023041190394,
+      0.006825195847316165
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|60|G_OR": {
+    "mean": 0.005377542395770041,
+    "ci95": [
+      0.0017215515834463576,
+      0.00940225783427081
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|G_RO": {
+    "mean": 0.004126878084757921,
+    "ci95": [
+      0.0009327252243239276,
+      0.0074106663346820085
+    ],
+    "classification": "positive"
+  },
+  "isotropic|60|G_RR": {
+    "mean": 0.0022615660201951815,
+    "ci95": [
+      -0.001998763069054698,
+      0.006700989452539017
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|60|DELTA": {
+    "mean": -0.0048295593579732584,
+    "ci95": [
+      -0.011249077645244587,
+      0.0015278094083525748
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|60|G_MEAN": {
+    "mean": 0.003544820400770666,
+    "ci95": [
+      0.0014943724874510835,
+      0.0056710902126221405
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|NATIVE_OO": {
+    "mean": 0.766963809145849,
+    "ci95": [
+      0.6985922900594039,
+      0.8306434194955357
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|NATIVE_OR": {
+    "mean": 0.9453373678075551,
+    "ci95": [
+      0.9369375505216154,
+      0.9540590429230695
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|NATIVE_RO": {
+    "mean": 0.944872197190035,
+    "ci95": [
+      0.9379854270909106,
+      0.9514775244669953
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|NATIVE_RR": {
+    "mean": 0.7797002772265377,
+    "ci95": [
+      0.7150443509968422,
+      0.8445500221171418
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|SHAPE_OO": {
+    "mean": 0.7725895644206778,
+    "ci95": [
+      0.7070790387684858,
+      0.8332322241667908
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|SHAPE_OR": {
+    "mean": 0.9431971149273705,
+    "ci95": [
+      0.9332136440971003,
+      0.9530686617004028
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|SHAPE_RO": {
+    "mean": 0.9400745816061765,
+    "ci95": [
+      0.9325479563712337,
+      0.9474185228785303
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|SHAPE_RR": {
+    "mean": 0.7728392309364761,
+    "ci95": [
+      0.7065173655087078,
+      0.8402148100626977
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|F_O_NATIVE": {
+    "mean": -0.1783735586617061,
+    "ci95": [
+      -0.24753934623194537,
+      -0.11391641831623413
+    ],
+    "classification": "negative"
+  },
+  "isotropic|75|F_O_SHAPE": {
+    "mean": -0.1706075505066927,
+    "ci95": [
+      -0.23971511377426583,
+      -0.10436879514688933
+    ],
+    "classification": "negative"
+  },
+  "isotropic|75|F_R_NATIVE": {
+    "mean": 0.16517191996349742,
+    "ci95": [
+      0.09858306955630375,
+      0.23167701741927935
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|F_R_SHAPE": {
+    "mean": 0.16723535066970038,
+    "ci95": [
+      0.09722091690471665,
+      0.23642649830398885
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|J_NATIVE": {
+    "mean": -0.3435454786252035,
+    "ci95": [
+      -0.3704075304638292,
+      -0.3162913184046312
+    ],
+    "classification": "negative"
+  },
+  "isotropic|75|J_SHAPE": {
+    "mean": -0.3378429011763931,
+    "ci95": [
+      -0.36351267231034284,
+      -0.31287942075102226
+    ],
+    "classification": "negative"
+  },
+  "isotropic|75|G_OO": {
+    "mean": -0.005625755274828825,
+    "ci95": [
+      -0.011494960409808125,
+      -9.03890963229421e-06
+    ],
+    "classification": "negative"
+  },
+  "isotropic|75|G_OR": {
+    "mean": 0.002140252880184563,
+    "ci95": [
+      -0.003138229846929277,
+      0.0072573731747490045
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|75|G_RO": {
+    "mean": 0.004797615583858525,
+    "ci95": [
+      0.0009416139888263976,
+      0.008607672847386465
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|G_RR": {
+    "mean": 0.006861046290061478,
+    "ci95": [
+      0.0018203823584815712,
+      0.011976077741398916
+    ],
+    "classification": "positive"
+  },
+  "isotropic|75|DELTA": {
+    "mean": -0.0057025774488104345,
+    "ci95": [
+      -0.01579429329486469,
+      0.004882915514457104
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|75|G_MEAN": {
+    "mean": 0.0020432898698189354,
+    "ci95": [
+      -0.0007526925247869263,
+      0.004464033477563851
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|NATIVE_OO": {
+    "mean": 0.7241795165311425,
+    "ci95": [
+      0.6618743714429931,
+      0.7878660405121146
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|NATIVE_OR": {
+    "mean": 0.9308380188103881,
+    "ci95": [
+      0.9189177231980623,
+      0.9436945858528988
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|NATIVE_RO": {
+    "mean": 0.9273326989940439,
+    "ci95": [
+      0.9179248173920584,
+      0.9370962183677514
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|NATIVE_RR": {
+    "mean": 0.7629919032325171,
+    "ci95": [
+      0.6950329398808184,
+      0.8314408391830282
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|SHAPE_OO": {
+    "mean": 0.720786592298981,
+    "ci95": [
+      0.6561766297003069,
+      0.7857947311509316
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|SHAPE_OR": {
+    "mean": 0.928798631538132,
+    "ci95": [
+      0.9166390426466102,
+      0.9413437370136426
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|SHAPE_RO": {
+    "mean": 0.9253445664754133,
+    "ci95": [
+      0.9156788850468975,
+      0.9353057304508017
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|SHAPE_RR": {
+    "mean": 0.7622047521796954,
+    "ci95": [
+      0.6921129612635742,
+      0.8313884403870359
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|F_O_NATIVE": {
+    "mean": -0.20665850227924557,
+    "ci95": [
+      -0.2703197074250066,
+      -0.1417637178639535
+    ],
+    "classification": "negative"
+  },
+  "isotropic|90|F_O_SHAPE": {
+    "mean": -0.20801203923915104,
+    "ci95": [
+      -0.2763549861720625,
+      -0.13810506590386704
+    ],
+    "classification": "negative"
+  },
+  "isotropic|90|F_R_NATIVE": {
+    "mean": 0.16434079576152696,
+    "ci95": [
+      0.09385892244311324,
+      0.23139995495372553
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|F_R_SHAPE": {
+    "mean": 0.16313981429571792,
+    "ci95": [
+      0.09081430247972615,
+      0.2342635821165816
+    ],
+    "classification": "positive"
+  },
+  "isotropic|90|J_NATIVE": {
+    "mean": -0.37099929804077253,
+    "ci95": [
+      -0.39108192768887934,
+      -0.3522913626902156
+    ],
+    "classification": "negative"
+  },
+  "isotropic|90|J_SHAPE": {
+    "mean": -0.37115185353486896,
+    "ci95": [
+      -0.3915024858305084,
+      -0.35063043177026015
+    ],
+    "classification": "negative"
+  },
+  "isotropic|90|G_OO": {
+    "mean": 0.0033929242321615156,
+    "ci95": [
+      -0.004135387705900906,
+      0.011444085790845913
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|G_OR": {
+    "mean": 0.002039387272256029,
+    "ci95": [
+      -0.0025107329143294007,
+      0.007076548789863983
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|G_RO": {
+    "mean": 0.0019881325186306953,
+    "ci95": [
+      -0.002654819736431795,
+      0.006449370296725498
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|G_RR": {
+    "mean": 0.0007871510528216358,
+    "ci95": [
+      -0.003935172552263688,
+      0.005961896749378147
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|DELTA": {
+    "mean": 0.0001525554940964268,
+    "ci95": [
+      -0.010622720084603354,
+      0.011356715925507282
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|90|G_MEAN": {
+    "mean": 0.002051898768967469,
+    "ci95": [
+      -0.0001809209164072662,
+      0.004496224305576669
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|isotropic|NATIVE_OO": {
+    "mean": 0.7599002761510204,
+    "ci95": [
+      0.733926604508232,
+      0.7879638640975996
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|NATIVE_OR": {
+    "mean": 0.943321096351691,
+    "ci95": [
+      0.9387308921019175,
+      0.9478363068197627
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|NATIVE_RO": {
+    "mean": 0.9423379146748742,
+    "ci95": [
+      0.9374495002067259,
+      0.947086355910422
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|NATIVE_RR": {
+    "mean": 0.7510085377890815,
+    "ci95": [
+      0.7236891354135822,
+      0.7741152570763032
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|SHAPE_OO": {
+    "mean": 0.7619026727494084,
+    "ci95": [
+      0.7365685397994636,
+      0.7888302023756842
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|SHAPE_OR": {
+    "mean": 0.9397223983526478,
+    "ci95": [
+      0.9344482378465605,
+      0.9445908183097548
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|SHAPE_RO": {
+    "mean": 0.9382917025597689,
+    "ci95": [
+      0.9323285667276096,
+      0.943869112577465
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|SHAPE_RR": {
+    "mean": 0.7491899904433704,
+    "ci95": [
+      0.7208931071029194,
+      0.7725093397887369
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|F_O_NATIVE": {
+    "mean": -0.18342082020067052,
+    "ci95": [
+      -0.21017371471310284,
+      -0.15617131740269338
+    ],
+    "classification": "negative"
+  },
+  "isotropic|isotropic|F_O_SHAPE": {
+    "mean": -0.17781972560323925,
+    "ci95": [
+      -0.2049462202209654,
+      -0.1500834670567168
+    ],
+    "classification": "negative"
+  },
+  "isotropic|isotropic|F_R_NATIVE": {
+    "mean": 0.19132937688579263,
+    "ci95": [
+      0.16570673744911535,
+      0.2207558057243455
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|F_R_SHAPE": {
+    "mean": 0.18910171211639845,
+    "ci95": [
+      0.1628720164642851,
+      0.22026710315784076
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|J_NATIVE": {
+    "mean": -0.3747501970864631,
+    "ci95": [
+      -0.38901782317793676,
+      -0.36067609986199023
+    ],
+    "classification": "negative"
+  },
+  "isotropic|isotropic|J_SHAPE": {
+    "mean": -0.3669214377196377,
+    "ci95": [
+      -0.3841246748069776,
+      -0.350451470034411
+    ],
+    "classification": "negative"
+  },
+  "isotropic|isotropic|G_OO": {
+    "mean": -0.002002396598388001,
+    "ci95": [
+      -0.006479919367043023,
+      0.0022730340008012486
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|isotropic|G_OR": {
+    "mean": 0.003598697999043239,
+    "ci95": [
+      0.0003926875982965847,
+      0.006998272720761575
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|G_RO": {
+    "mean": 0.0040462121151052305,
+    "ci95": [
+      0.0006086825455823913,
+      0.007512625007851318
+    ],
+    "classification": "positive"
+  },
+  "isotropic|isotropic|G_RR": {
+    "mean": 0.0018185473457110277,
+    "ci95": [
+      -0.0029971371069648454,
+      0.007068262994739516
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|isotropic|DELTA": {
+    "mean": -0.007828759366825443,
+    "ci95": [
+      -0.01481421258408482,
+      -0.0010336720849892945
+    ],
+    "classification": "negative"
+  },
+  "isotropic|isotropic|G_MEAN": {
+    "mean": 0.0018652652153678742,
+    "ci95": [
+      -0.0007279366710489752,
+      0.004466001433106129
+    ],
+    "classification": "unresolved"
+  },
+  "structured|ALL8|NATIVE_OO": {
+    "mean": 0.8104020729919296,
+    "ci95": [
+      0.781654933035658,
+      0.8347154583256611
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|NATIVE_OR": {
+    "mean": 0.9531158730209096,
+    "ci95": [
+      0.9516264701997932,
+      0.9545909188848835
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|NATIVE_RO": {
+    "mean": 0.9534038404329168,
+    "ci95": [
+      0.9515049296901186,
+      0.9552936407397137
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|NATIVE_RR": {
+    "mean": 0.7689161372114252,
+    "ci95": [
+      0.7339189629479176,
+      0.8060218984606853
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|SHAPE_OO": {
+    "mean": 0.8093975544498427,
+    "ci95": [
+      0.7811438699786845,
+      0.8338718639134942
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|SHAPE_OR": {
+    "mean": 0.9482355756316676,
+    "ci95": [
+      0.9468225338896081,
+      0.949764497627011
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|SHAPE_RO": {
+    "mean": 0.9497074910560123,
+    "ci95": [
+      0.9469772372275175,
+      0.9524652090075143
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|SHAPE_RR": {
+    "mean": 0.7687518338073444,
+    "ci95": [
+      0.7336753809241042,
+      0.8059277628657162
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|F_O_NATIVE": {
+    "mean": -0.14271380002897996,
+    "ci95": [
+      -0.17153023828848363,
+      -0.11832873581560292
+    ],
+    "classification": "negative"
+  },
+  "structured|ALL8|F_O_SHAPE": {
+    "mean": -0.13883802118182478,
+    "ci95": [
+      -0.1673298515725166,
+      -0.11401664951053687
+    ],
+    "classification": "negative"
+  },
+  "structured|ALL8|F_R_NATIVE": {
+    "mean": 0.1844877032214917,
+    "ci95": [
+      0.1460296359154766,
+      0.22102551867149112
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|F_R_SHAPE": {
+    "mean": 0.1809556572486679,
+    "ci95": [
+      0.14119922398248094,
+      0.21842716089140513
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|J_NATIVE": {
+    "mean": -0.32720150325047165,
+    "ci95": [
+      -0.34580355634329396,
+      -0.3099043483782817
+    ],
+    "classification": "negative"
+  },
+  "structured|ALL8|J_SHAPE": {
+    "mean": -0.31979367843049267,
+    "ci95": [
+      -0.33831281553452436,
+      -0.30243071372840913
+    ],
+    "classification": "negative"
+  },
+  "structured|ALL8|G_OO": {
+    "mean": 0.0010045185420868004,
+    "ci95": [
+      -0.0008674649396472614,
+      0.0026330659508292226
+    ],
+    "classification": "unresolved"
+  },
+  "structured|ALL8|G_OR": {
+    "mean": 0.004880297389241998,
+    "ci95": [
+      0.0036362151844359426,
+      0.006138060643158318
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|G_RO": {
+    "mean": 0.0036963493769045694,
+    "ci95": [
+      0.0022152554262021527,
+      0.0052219845366973236
+    ],
+    "classification": "positive"
+  },
+  "structured|ALL8|G_RR": {
+    "mean": 0.00016430340408077728,
+    "ci95": [
+      -0.0019437712418846971,
+      0.0024555497012437974
+    ],
+    "classification": "unresolved"
+  },
+  "structured|ALL8|DELTA": {
+    "mean": -0.007407824819978989,
+    "ci95": [
+      -0.01015988555150216,
+      -0.004489223915655507
+    ],
+    "classification": "negative"
+  },
+  "structured|ALL8|G_MEAN": {
+    "mean": 0.002436367178078536,
+    "ci95": [
+      0.0017662012316616953,
+      0.0031136895606052686
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|NATIVE_OO": {
+    "mean": 0.7976387180009215,
+    "ci95": [
+      0.7592386359988772,
+      0.833742159602092
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|NATIVE_OR": {
+    "mean": 0.9503810931739336,
+    "ci95": [
+      0.9482983758777712,
+      0.9524426752571374
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|NATIVE_RO": {
+    "mean": 0.9529805975827061,
+    "ci95": [
+      0.9508572795284119,
+      0.955299542869285
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|NATIVE_RR": {
+    "mean": 0.7673900682340858,
+    "ci95": [
+      0.7250035231130242,
+      0.8074710905136794
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|SHAPE_OO": {
+    "mean": 0.7971105073178623,
+    "ci95": [
+      0.7584969242836339,
+      0.8327442832540151
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|SHAPE_OR": {
+    "mean": 0.9465589984089137,
+    "ci95": [
+      0.9437846533841434,
+      0.9492296613813583
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|SHAPE_RO": {
+    "mean": 0.9495522928974441,
+    "ci95": [
+      0.9465113248390162,
+      0.9526401799780885
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|SHAPE_RR": {
+    "mean": 0.7636587054673578,
+    "ci95": [
+      0.7192392109180215,
+      0.805213746727766
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|F_O_NATIVE": {
+    "mean": -0.15274237517301206,
+    "ci95": [
+      -0.1921046077672165,
+      -0.1154657389337377
+    ],
+    "classification": "negative"
+  },
+  "isotropic|ALL8|F_O_SHAPE": {
+    "mean": -0.14944849109105152,
+    "ci95": [
+      -0.18990777899249586,
+      -0.11134186689154539
+    ],
+    "classification": "negative"
+  },
+  "isotropic|ALL8|F_R_NATIVE": {
+    "mean": 0.18559052934862028,
+    "ci95": [
+      0.14399320669368154,
+      0.22945266918058815
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|F_R_SHAPE": {
+    "mean": 0.18589358743008633,
+    "ci95": [
+      0.1419357862455284,
+      0.2319843733139507
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|J_NATIVE": {
+    "mean": -0.33833290452163234,
+    "ci95": [
+      -0.35923422625833634,
+      -0.3183344136098765
+    ],
+    "classification": "negative"
+  },
+  "isotropic|ALL8|J_SHAPE": {
+    "mean": -0.33534207852113784,
+    "ci95": [
+      -0.35708611987704025,
+      -0.3151664324919534
+    ],
+    "classification": "negative"
+  },
+  "isotropic|ALL8|G_OO": {
+    "mean": 0.0005282106830593072,
+    "ci95": [
+      -0.0016978702272423215,
+      0.0025297482264437276
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|ALL8|G_OR": {
+    "mean": 0.0038220947650198663,
+    "ci95": [
+      0.0020860516936468806,
+      0.005607898861947404
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|G_RO": {
+    "mean": 0.003428304685261931,
+    "ci95": [
+      0.0017674436285810638,
+      0.005106394092232454
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|G_RR": {
+    "mean": 0.003731362766727989,
+    "ci95": [
+      0.0017143163508813878,
+      0.005818014878252817
+    ],
+    "classification": "positive"
+  },
+  "isotropic|ALL8|DELTA": {
+    "mean": -0.002990826000494501,
+    "ci95": [
+      -0.006668427936255184,
+      0.0005040689117295059
+    ],
+    "classification": "unresolved"
+  },
+  "isotropic|ALL8|G_MEAN": {
+    "mean": 0.0028774932250172735,
+    "ci95": [
+      0.0020040723752153726,
+      0.0037248799191295693
+    ],
+    "classification": "positive"
+  },
+  "structured_MINUS_isotropic|ALL8|NATIVE_OO": {
+    "mean": 0.012763354991008072,
+    "ci95": [
+      -0.033900798881905135,
+      0.05754520481190704
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|NATIVE_OR": {
+    "mean": 0.0027347798469759773,
+    "ci95": [
+      0.0005857338970545464,
+      0.004859125739840455
+    ],
+    "classification": "positive"
+  },
+  "structured_MINUS_isotropic|ALL8|NATIVE_RO": {
+    "mean": 0.00042324285021069313,
+    "ci95": [
+      -0.0017997607809360373,
+      0.00251742512607256
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|NATIVE_RR": {
+    "mean": 0.0015260689773392612,
+    "ci95": [
+      -0.04206447405439175,
+      0.04697905261117644
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|SHAPE_OO": {
+    "mean": 0.012287047131980575,
+    "ci95": [
+      -0.03303260796482365,
+      0.05562309024108645
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|SHAPE_OR": {
+    "mean": 0.001676577222753851,
+    "ci95": [
+      -0.0010613501919345355,
+      0.004365110997969802
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|SHAPE_RO": {
+    "mean": 0.00015519815856806138,
+    "ci95": [
+      -0.003543722435419333,
+      0.0032585827275432655
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|SHAPE_RR": {
+    "mean": 0.005093128339986458,
+    "ci95": [
+      -0.03989973682043665,
+      0.050982281182325624
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|F_O_NATIVE": {
+    "mean": 0.010028575144032088,
+    "ci95": [
+      -0.03698625904460995,
+      0.05485151319892503
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|F_O_SHAPE": {
+    "mean": 0.010610469909226724,
+    "ci95": [
+      -0.03618385064267944,
+      0.055604089269274654
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|F_R_NATIVE": {
+    "mean": -0.0011028261271285667,
+    "ci95": [
+      -0.048091568244053286,
+      0.04405815388730573
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|F_R_SHAPE": {
+    "mean": -0.004937930181418409,
+    "ci95": [
+      -0.05409905224707515,
+      0.04256423876488033
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|J_NATIVE": {
+    "mean": 0.011131401271160662,
+    "ci95": [
+      -0.009997079691221298,
+      0.03134421230230902
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|J_SHAPE": {
+    "mean": 0.015548400090645134,
+    "ci95": [
+      -0.004282717955239793,
+      0.035063366958631895
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|G_OO": {
+    "mean": 0.00047630785902749305,
+    "ci95": [
+      -0.00225025119402383,
+      0.003145041939059335
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|G_OR": {
+    "mean": 0.001058202624222131,
+    "ci95": [
+      -0.0010988055372089336,
+      0.0031281522964931342
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|G_RO": {
+    "mean": 0.00026804469164263796,
+    "ci95": [
+      -0.0017009316009764697,
+      0.0023489369836891013
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|G_RR": {
+    "mean": -0.0035670593626472118,
+    "ci95": [
+      -0.006460489368717105,
+      -0.0008643979653819411
+    ],
+    "classification": "negative"
+  },
+  "structured_MINUS_isotropic|ALL8|DELTA": {
+    "mean": -0.004416998819484488,
+    "ci95": [
+      -0.009744160770809557,
+      0.0008630642534942592
+    ],
+    "classification": "unresolved"
+  },
+  "structured_MINUS_isotropic|ALL8|G_MEAN": {
+    "mean": -0.00044112604693873737,
+    "ci95": [
+      -0.0014839468290703452,
+      0.0005587907148762785
+    ],
+    "classification": "unresolved"
+  }
+}

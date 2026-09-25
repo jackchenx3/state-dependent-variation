@@ -1,0 +1,89 @@
+{
+  "status": "AUTHENTICATED",
+  "source_root": "__EXECUTOR_WORKSPACE__/outputs/mismatch_mechanism_switch_v1",
+  "original_manifest_hashes": {
+    "SOURCE_SHA256SUMS": "15a2fd917d9012ee7c9f9528d0fc7775dfeff03724004489d2cacbe4ab36d59d",
+    "RESULT_SHA256SUMS": "feb2a0de147abc6c917fb370b735b37e2d93d2db3a5b4fe4af57f4929dd8b4b7",
+    "DELIVERY_SHA256SUMS": "c6d376ce583e3abefd07115089f5a8012796b81d8cd81a585b640404c631dba4"
+  },
+  "files": {
+    "checkpoints.jsonl.gz": {
+      "sha256": "16e0af05018509a680825f1d3954001bd11f8ad505a49e7e3516339a3386a58f",
+      "bytes": 23998871,
+      "original_manifest": "RESULT_SHA256SUMS"
+    },
+    "outcomes.jsonl.gz": {
+      "sha256": "57a22d9c6374fb216ce9aa53d831aabf5b5daaf7c4459d3524d1de992b65d381",
+      "bytes": 26300340,
+      "original_manifest": "RESULT_SHA256SUMS"
+    },
+    "config.json": {
+      "sha256": "a496898bebcc2a7fc4c7145b1a12df938f60274e506a6bdeb932b65fc318378b",
+      "bytes": 1305,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "roster.json": {
+      "sha256": "969897be38b1df8c7014cf5f62c7dce097f5f5f00a8243815af74e856a8a0ad8",
+      "bytes": 852609,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "model.py": {
+      "sha256": "b61d9900665d72f75b18df470120107a876360a788e8049b5737e1de65620a90",
+      "bytes": 3273,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "baseline_model.py": {
+      "sha256": "85cb3d1fb8d35d12baa0f7c8c3474fa9ad8d6331992070a5c0128525dbd79bed",
+      "bytes": 11562,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "v2_model.py": {
+      "sha256": "1caa67a3daeebf4c2aad0e10d618069b3ef32524de0107a764743bcbff7ef9bd",
+      "bytes": 6376,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "v3_model.py": {
+      "sha256": "9af282e7ec0fbb988a9388c66f90c0d91f47e9e2d934f8e3e8ec88dbb0893573",
+      "bytes": 5959,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "analysis.py": {
+      "sha256": "95ff85cbc78dfa7e9c521b6d195b974e83c41cdd6f547bdf02441cf4a741405e",
+      "bytes": 2916,
+      "original_manifest": "SOURCE_SHA256SUMS"
+    },
+    "summary.json": {
+      "sha256": "460c748e7d6fd27e3232c8bdf7a3c2fab9898df2404606bc8d14ac4d023e0708",
+      "bytes": 582352,
+      "original_manifest": "RESULT_SHA256SUMS"
+    }
+  },
+  "counts": {
+    "historical_blocks": 24,
+    "historical_sources": 48,
+    "regimes": 2,
+    "families_per_regime": 8,
+    "trials_per_history_family": 8,
+    "roster_pairs": 3072,
+    "unique_shape_seeds": 1536,
+    "shape_gaussian_calls": 1476096,
+    "new_shaped_states": 6144,
+    "new_paths": 12288,
+    "stored_control_paths": 12288,
+    "new_updates": 245760,
+    "new_offspring": 7864320,
+    "new_candidate_scores": 15728640,
+    "new_selected_state_snapshots": 258048,
+    "new_selected_coordinate_values": 16515072,
+    "metrics_per_group": 20,
+    "family_groups": 16,
+    "all8_regime_groups": 2,
+    "regime_difference_groups": 1,
+    "estimates": 380,
+    "bootstrap_rows": 2000,
+    "bootstrap_indices_per_row": 24,
+    "bootstrap_seed": 2026092565,
+    "reused_normals_calls_if_generated_per_roster_pair": 3932160,
+    "reused_uniform_calls_if_generated_per_roster_pair": 1966080
+  }
+}

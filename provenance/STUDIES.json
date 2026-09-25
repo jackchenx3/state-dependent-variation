@@ -47,5 +47,12 @@
     "summary": "results/005/summary.json",
     "source_delivery_manifest_sha256": "64fa15d1a8669213990dd52f210eaf8427c332aeb34ea434488183003ca5e577",
     "cohort": "fixed-checkpoints-from-004"
+  },
+  {
+    "study": "064",
+    "source_package": "population_shape_v1",
+    "summary": "results/064/ESTIMATES.json",
+    "source_delivery_manifest_sha256": "2eb2aa54336be369bd09269db5f738658fb76948783ae79f39bf97538c046b73",
+    "cohort": "original002 checkpoints and continuation streams;no new training"
   }
 ]

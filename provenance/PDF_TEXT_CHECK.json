@@ -1,0 +1,28 @@
+{
+  "MANUSCRIPT": {
+    "pages": 16,
+    "inspect_pages": [
+      1,
+      2,
+      14,
+      15,
+      16
+    ],
+    "out_of_page_characters": [],
+    "sha256": "88c8df6fbb649bac62f170b898968d0f661ae1e6ebc67c8d270dd9179b73c19c"
+  },
+  "SUPPLEMENT": {
+    "pages": 4,
+    "inspect_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "out_of_page_characters": [],
+    "sha256": "6e5ac75452af9ff7cee1b7885361f66c989712860a758ec18b4d0807b1ec6355"
+  },
+  "status": "PASS",
+  "visual_review": "PASS",
+  "visual_scope": "Supervisor visually inspected final manuscript pages1,2,14-16 and all4supplement pages in three rendered contact sheets. All20pages passed text/bounds checks. Other scientific pages were visually verified in the accepted draft. No clipping or broken tables observed; both new figures remain byte-identical to the accepted draft."
+}

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "scientific_status": "supports_directional_prediction",
+  "primary": "structured|ALL8|DELTA",
+  "primary_estimate": {
+    "mean": -0.007407824819978988,
+    "ci95": [
+      -0.010159885551502162,
+      -0.004489223915655508
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 3,
+      "negative": 21,
+      "zero": 0
+    }
+  },
+  "estimates": 380,
+  "new_paths": 12288,
+  "controls_replayed": 0,
+  "notes": "Pointwise exploratory intervals; unresolved is not equivalence. Negative performance and declines retained."
+}

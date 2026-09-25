@@ -122,9 +122,28 @@ def paper_b(out):
  style(ax,'Update window','Mean accuracy difference (percentage points)');ax.set_xticks(range(1,9),[f'{5*i+1}–{5*i+5}' for i in range(8)]);ax.legend(fontsize=9);ax.set_title('Cohort 2: early recurrent losses precede later benefits',fontweight='bold');save(fig,'03_windows',out)
  forest([('Independent: hybrid − scouts','039','IID|HYBRID-RANDOM_RESTART'),('Recurrent: hybrid − history','039','RECUR|HYBRID-BEST_AVAILABLE'),('Equal-weight benchmark','039','BALANCED|HYBRID-REFERENCE')],'A fixed hybrid improves the named cumulative benchmark',out,'04_hybrid')
  forest([('Independent: retained − current','040','IID|HYBRID-CURRENT_SCOUT'),('Recurrent: retained − current','040','RECUR|HYBRID-CURRENT_SCOUT'),('Recurrence interaction','040','RECUR_MINUS_IID|HYBRID-CURRENT_SCOUT')],'Retention contributes with scouting and allocation held fixed',out,'05_retention')
+def paper_064(out):
+ path='results/064/ESTIMATES.json';est=read(path);groups=list(read('results/064/GROUP_TABLE.json'))
+ fig,ax=plt.subplots(figsize=(9,8))
+ for i,g in enumerate(groups):
+  q=est[g+'|DELTA']
+  for key in ('mean','ci95','classification'):record(path,[g+'|DELTA',key],q[key])
+  lo,hi=q['ci95'];color='#155e75' if q['classification']!='unresolved' else '#666666'
+  ax.hlines(i,lo*100,hi*100,color=color);ax.plot(q['mean']*100,i,'o',color=color)
+ ax.set_yticks(range(len(groups)),groups);ax.invert_yaxis();ax.axvline(0,color='black',lw=.8)
+ ax.set_xlabel('DELTA (percentage points; pointwise exploratory 95% interval)');ax.set_title('Native interaction minus reshaped interaction');fig.tight_layout();save(fig,'conditional_delta',out)
+ path='results/064/DIAGNOSTICS.json';series=read(path)['generations']
+ for i,row in enumerate(series):
+  for key,value in row.items():record(path,['generations',i,key],value)
+ fig,axes=plt.subplots(1,3,figsize=(12,4));gens=[q['generation'] for q in series]
+ for ax,key,title in zip(axes,('centroid_max_difference','covariance_max_difference','mean_absolute_performance_difference'),('Maximum centroid difference','Maximum covariance difference','Mean absolute performance difference')):
+  ax.plot(gens,[q[key] for q in series],marker='.',color='#155e75');ax.set_xlabel('Generation');ax.set_title(title,fontsize=10);ax.set_yscale('symlog',linthresh=1e-12);ax.axvline(5,color='gray',lw=.6)
+ fig.suptitle('Matched initial moments; subsequent differences are descriptive');fig.tight_layout();save(fig,'state_diagnostics',out)
+
 def main():
  parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--output-dir',type=Path,default=ROOT/'_rebuilt/figures');args=parser.parse_args();args.output_dir.mkdir(parents=True,exist_ok=True)
  (paper_a if (ROOT/'results/V1').exists() else paper_b)(args.output_dir)
+ if (ROOT/'results/064').exists():paper_064(args.output_dir)
  (args.output_dir/'FIGURE_SOURCES.json').write_text(json.dumps({'sources':SOURCES,'intervals':'Approximate pointwise intervals; dependence and endpoint scope are stated in the manuscript.'},indent=2)+'\n')
  print(json.dumps({'figures':len(list(args.output_dir.glob('*.png'))),'source_records':len(SOURCES),'output':str(args.output_dir)}))
 if __name__=='__main__':main()

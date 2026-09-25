@@ -1,9 +1,9 @@
 {
-  "status": "PUBLISHED",
-  "zenodo_url": "https://zenodo.org/records/22907602",
-  "doi": "10.5281/zenodo.22907602",
-  "github_release": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.0.0",
-  "scientific_release_commit": "971b081fc182f3f6303b3b2a8ff0d0ee0db5297d",
-  "versioned_files_unchanged": true,
-  "metadata_note": "DOI added after publication in a separate main-branch metadata commit. Original v1.0.0 release assets and tag are unchanged."
+  "status": "RELEASE_PACKAGE",
+  "version": "1.1.0",
+  "doi": "10.5281/zenodo.22956936",
+  "concept_doi": "10.5281/zenodo.22907601",
+  "zenodo_url": "https://zenodo.org/records/22956936",
+  "github_release": "https://github.com/jackchenx3/state-dependent-variation/releases/tag/v1.1.0",
+  "publication_receipt": "Actual publication/download verification is recorded separately after publishing;package metadata alone is not proof."
 }

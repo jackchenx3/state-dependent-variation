@@ -1,0 +1,194 @@
+{
+  "structured|ALL8|J_NATIVE": {
+    "mean": -0.32720150325047165,
+    "ci95": [
+      -0.345803556343294,
+      -0.3099043483782816
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 0,
+      "negative": 24,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured|ALL8|J_SHAPE": {
+    "mean": -0.3197936784304927,
+    "ci95": [
+      -0.33831281553452436,
+      -0.30243071372840913
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 0,
+      "negative": 24,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured|ALL8|DELTA": {
+    "mean": -0.007407824819978988,
+    "ci95": [
+      -0.010159885551502162,
+      -0.004489223915655508
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 3,
+      "negative": 21,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured|ALL8|G_MEAN": {
+    "mean": 0.002436367178078536,
+    "ci95": [
+      0.001766201231661695,
+      0.00311368956060527
+    ],
+    "classification": "positive",
+    "history_signs": {
+      "positive": 23,
+      "negative": 1,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "isotropic|ALL8|J_NATIVE": {
+    "mean": -0.3383329045216323,
+    "ci95": [
+      -0.35923422625833634,
+      -0.3183344136098765
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 0,
+      "negative": 24,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "isotropic|ALL8|J_SHAPE": {
+    "mean": -0.33534207852113784,
+    "ci95": [
+      -0.35708611987704025,
+      -0.3151664324919535
+    ],
+    "classification": "negative",
+    "history_signs": {
+      "positive": 0,
+      "negative": 24,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "isotropic|ALL8|DELTA": {
+    "mean": -0.002990826000494502,
+    "ci95": [
+      -0.006668427936255184,
+      0.0005040689117295059
+    ],
+    "classification": "unresolved",
+    "history_signs": {
+      "positive": 13,
+      "negative": 11,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "isotropic|ALL8|G_MEAN": {
+    "mean": 0.0028774932250172735,
+    "ci95": [
+      0.002004072375215372,
+      0.0037248799191295693
+    ],
+    "classification": "positive",
+    "history_signs": {
+      "positive": 22,
+      "negative": 2,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured_MINUS_isotropic|ALL8|J_NATIVE": {
+    "mean": 0.011131401271160654,
+    "ci95": [
+      -0.009997079691221326,
+      0.031344212302308994
+    ],
+    "classification": "unresolved",
+    "history_signs": {
+      "positive": 14,
+      "negative": 10,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured_MINUS_isotropic|ALL8|J_SHAPE": {
+    "mean": 0.01554840009064514,
+    "ci95": [
+      -0.004282717955239777,
+      0.0350633669586319
+    ],
+    "classification": "unresolved",
+    "history_signs": {
+      "positive": 15,
+      "negative": 9,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured_MINUS_isotropic|ALL8|DELTA": {
+    "mean": -0.0044169988194844865,
+    "ci95": [
+      -0.009744160770809555,
+      0.0008630642534942596
+    ],
+    "classification": "unresolved",
+    "history_signs": {
+      "positive": 9,
+      "negative": 15,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  },
+  "structured_MINUS_isotropic|ALL8|G_MEAN": {
+    "mean": -0.00044112604693873737,
+    "ci95": [
+      -0.0014839468290703452,
+      0.0005587907148762785
+    ],
+    "classification": "unresolved",
+    "history_signs": {
+      "positive": 8,
+      "negative": 16,
+      "zero": 0
+    },
+    "source_file": "ESTIMATES.json",
+    "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+    "units": "normalized performance fraction"
+  }
+}

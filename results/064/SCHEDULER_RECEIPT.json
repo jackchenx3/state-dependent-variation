@@ -1,0 +1,12 @@
+{
+  "job_id": "53356937",
+  "status": "COMPLETE",
+  "slurm_state": "COMPLETED",
+  "exit_code": "0:0",
+  "elapsed_seconds": "193",
+  "cpus": "1",
+  "requested_memory": "4G",
+  "partition": "short",
+  "time_limit": "00:30:00",
+  "source": "sacct"
+}

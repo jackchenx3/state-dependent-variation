@@ -1,0 +1,49 @@
+{
+  "scope": "Literal administrative workspace paths only;scientific operators,data,seeds and numbers remain unchanged.Original hashes and manifests identify the archived executed bytes.",
+  "files": [
+    {
+      "path": "code/064/design_checker_source.py",
+      "original_sha256": "b96e36738b599a5bb19db71e4f28565b96c1940973dab4648068f5fe5bc9e0f9",
+      "public_sha256": "03d45f0232b3b10c8816a75ebe79589eb6cf4c49b362ca3ed4fbf36620d150c3",
+      "administrative_substitutions": [
+        {
+          "replacement": "__EXECUTOR_WORKSPACE__",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "code/064/design_initial_failed_checker.py",
+      "original_sha256": "28ca2109661d0620ac0f11d1bcb321a74870e3df973f285d64e71d2252481213",
+      "public_sha256": "07b000f5e795feed2c15dcc9f65a0dc3cfc5bec7ecb56fbbc84542cd27bd6dd4",
+      "administrative_substitutions": [
+        {
+          "replacement": "__EXECUTOR_WORKSPACE__",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "code/064/live064.py",
+      "original_sha256": "c99a4e798b364755fa4c0609efbee42ac4faa6ddcfe124d1e2a6b369585d85f5",
+      "public_sha256": "5c402f6aaa2d71e4d7328191457bd08ed30651be14ca9a9561663d99932599aa",
+      "administrative_substitutions": [
+        {
+          "replacement": "__HPC_PROJECT__",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "results/064/INPUT_BINDINGS.json",
+      "original_sha256": "acd4c39ac401f272d0b2c77b6300e5cfd36bf4cc8f03f6423a28b3da9f8fb7ff",
+      "public_sha256": "6a11cf78a6267fd26491de17e70f34a39eaf4c88c7e154e42b291dcd479cc9b1",
+      "administrative_substitutions": [
+        {
+          "replacement": "__EXECUTOR_WORKSPACE__",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

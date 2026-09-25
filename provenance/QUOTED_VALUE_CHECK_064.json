@@ -1,0 +1,196 @@
+{
+  "status": "PASS",
+  "source_sha256": "63e97df1e52872d03af6ac569df727990f45b15c9cd75312329db9feb4e9ad05",
+  "checked_statistics": 27,
+  "quotes": [
+    {
+      "key": "structured|ALL8|J_NATIVE",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-32.720150",
+      "source_value": -0.32720150325047165
+    },
+    {
+      "key": "structured|ALL8|J_NATIVE",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-34.580356",
+      "source_value": -0.345803556343294
+    },
+    {
+      "key": "structured|ALL8|J_NATIVE",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "-30.990435",
+      "source_value": -0.3099043483782816
+    },
+    {
+      "key": "structured|ALL8|J_SHAPE",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-31.979368",
+      "source_value": -0.3197936784304927
+    },
+    {
+      "key": "structured|ALL8|J_SHAPE",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-33.831282",
+      "source_value": -0.33831281553452436
+    },
+    {
+      "key": "structured|ALL8|J_SHAPE",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "-30.243071",
+      "source_value": -0.30243071372840913
+    },
+    {
+      "key": "structured|ALL8|DELTA",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-0.740782",
+      "source_value": -0.007407824819978988
+    },
+    {
+      "key": "structured|ALL8|DELTA",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-1.015989",
+      "source_value": -0.010159885551502162
+    },
+    {
+      "key": "structured|ALL8|DELTA",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "-0.448922",
+      "source_value": -0.004489223915655508
+    },
+    {
+      "key": "structured|ALL8|G_MEAN",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "0.243637",
+      "source_value": 0.002436367178078536
+    },
+    {
+      "key": "structured|ALL8|G_MEAN",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "0.176620",
+      "source_value": 0.001766201231661695
+    },
+    {
+      "key": "structured|ALL8|G_MEAN",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "0.311369",
+      "source_value": 0.00311368956060527
+    },
+    {
+      "key": "isotropic|ALL8|J_NATIVE",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-33.833290",
+      "source_value": -0.3383329045216323
+    },
+    {
+      "key": "isotropic|ALL8|J_NATIVE",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-35.923423",
+      "source_value": -0.35923422625833634
+    },
+    {
+      "key": "isotropic|ALL8|J_NATIVE",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "-31.833441",
+      "source_value": -0.3183344136098765
+    },
+    {
+      "key": "isotropic|ALL8|J_SHAPE",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-33.534208",
+      "source_value": -0.33534207852113784
+    },
+    {
+      "key": "isotropic|ALL8|J_SHAPE",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-35.708612",
+      "source_value": -0.35708611987704025
+    },
+    {
+      "key": "isotropic|ALL8|J_SHAPE",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "-31.516643",
+      "source_value": -0.3151664324919535
+    },
+    {
+      "key": "isotropic|ALL8|DELTA",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-0.299083",
+      "source_value": -0.002990826000494502
+    },
+    {
+      "key": "isotropic|ALL8|DELTA",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-0.666843",
+      "source_value": -0.006668427936255184
+    },
+    {
+      "key": "isotropic|ALL8|DELTA",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "0.050407",
+      "source_value": 0.0005040689117295059
+    },
+    {
+      "key": "isotropic|ALL8|G_MEAN",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "0.287749",
+      "source_value": 0.0028774932250172735
+    },
+    {
+      "key": "isotropic|ALL8|G_MEAN",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "0.200407",
+      "source_value": 0.002004072375215372
+    },
+    {
+      "key": "isotropic|ALL8|G_MEAN",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "0.372488",
+      "source_value": 0.0037248799191295693
+    },
+    {
+      "key": "structured_MINUS_isotropic|ALL8|DELTA",
+      "field": "mean",
+      "units": "percentage points",
+      "literal": "-0.441700",
+      "source_value": -0.0044169988194844865
+    },
+    {
+      "key": "structured_MINUS_isotropic|ALL8|DELTA",
+      "field": "lower",
+      "units": "percentage points",
+      "literal": "-0.974416",
+      "source_value": -0.009744160770809555
+    },
+    {
+      "key": "structured_MINUS_isotropic|ALL8|DELTA",
+      "field": "upper",
+      "units": "percentage points",
+      "literal": "0.086306",
+      "source_value": 0.0008630642534942596
+    }
+  ]
+}

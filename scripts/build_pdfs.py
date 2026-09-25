@@ -51,7 +51,7 @@ def inline(text,source):
 def footer(canvas,doc):
     canvas.saveState();canvas.setStrokeColor(colors.HexColor('#d5dde3'))
     canvas.line(50,37,A4[0]-50,37);canvas.setFont('Research',7.3);canvas.setFillColor(GRAY)
-    canvas.drawString(50,25,'State and prediction horizon | Research preprint v1.0')
+    canvas.drawString(50,25,'State and prediction horizon | Research preprint v1.1.0')
     canvas.drawRightString(A4[0]-50,25,str(doc.page));canvas.restoreState()
 
 def render(source,dest):
@@ -83,7 +83,7 @@ def render(source,dest):
             image.drawWidth=image.imageWidth*ratio;image.drawHeight=image.imageHeight*ratio
             group=[Spacer(1,8),image,Spacer(1,8)];i+=1
             while i<len(lines) and not lines[i].strip():i+=1
-            if i<len(lines) and re.match(r'Figure \d+\.',lines[i]):
+            if i<len(lines) and re.match(r'Figure (?:S)?\d+\.',lines[i]):
                 group.append(Paragraph(inline(lines[i],source),S['caption']));i+=1
             story.append(KeepTogether(group));continue
         if line.startswith('# '):style='title';text=line[2:]
